@@ -28,10 +28,11 @@ title:                 Ryan Lonergan
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Test
+  Aspiring Data Scientist
 
 # A shorter description for the sidebar.
-tagline:               Also a test
+tagline:               >
+  Aspiring Data Scientist
 
 # A list of keywords for your blog
 keywords:              []
@@ -55,7 +56,7 @@ menu:
     url:               /example/
   - title:             Portfolio
     url:               /docs/
-  - title:             whatever
+  - title:             Whatever
     url:               /about/
 
 # Add links to the footer.
