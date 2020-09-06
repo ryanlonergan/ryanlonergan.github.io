@@ -51,11 +51,11 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Example1
+  - title:             Education
     url:               /example/
-  - title:             Documentation2
+  - title:             Portfolio
     url:               /docs/
-  - title:             About3
+  - title:             whatever
     url:               /about/
 
 # Add links to the footer.
