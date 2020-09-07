@@ -11,5 +11,4 @@ redirect_from:
 
 # About
 
-Hi:)
 test

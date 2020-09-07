@@ -14,16 +14,18 @@ This is still a work in progress, so check back later to see what has been updat
 <br/><br/>
 
 
-[how to link](https://google.com)
+[how to link - I'm not great at html](https://google.com)
+<br/><br/>
 
-How to add a note
+
+Below are placeholders, just need them here so the formatting works
 {:.note}
 
 
 ## example
-* [A]{:.heading.flip-title} --- text
-* [B]{:.heading.flip-title} --- text
-* [C]{:.heading.flip-title} --- I don't know what the following line in MD does
+* [install]{:.heading.flip-title} --- text
+* [upgrade]{:.heading.flip-title} --- text
+* [config]{:.heading.flip-title} --- I don't know what the following line in MD does
 {:.related-posts.faded}
 
 need to have links like this below. Test/examine how it works with html:
