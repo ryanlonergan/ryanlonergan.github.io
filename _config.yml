@@ -52,21 +52,21 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Education
-    url:               /example/
-  - title:             Portfolio
-    url:               /docs/
-  - title:             Whatever
+  - title:             About Me
     url:               /about/
+  - title:             Portfolio
+    url:               /portfolio/
+  - title:             Placeholder
+    url:               /example/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
 legal:
-  - title:             LICENSE
+  - title:             Do I need any?
     url:               /LICENSE/
-  - title:             NOTICE
+  - title:             ??
     url:               /NOTICE/
-  - title:             CHANGELOG
+  - title:             ???
     url:               /CHANGELOG/
 
 # This text will appear in a `<small>` tag in the footer of every page.
