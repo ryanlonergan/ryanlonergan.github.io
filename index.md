@@ -9,6 +9,6 @@ redirect_from:
 cover: true
 ---
 
-# About Me
+## About
 
 test

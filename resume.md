@@ -9,6 +9,6 @@ redirect_from:
   - /download/
 ---
 
-# About
+# Resume
 
-test
+Edu
