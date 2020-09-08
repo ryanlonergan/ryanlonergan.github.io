@@ -66,7 +66,7 @@ legal:
     url:               /resources/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             Ryan Lonergan
+copyright:             Ryan Lonergan © 2020. All rights reserved.
 
 # Format of the permalinks
 permalink:             /:categories/:year-:month-:day-:title/
