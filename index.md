@@ -9,6 +9,6 @@ redirect_from:
 cover: true
 ---
 
-## About
+## Do I need a heading here?
 
 test

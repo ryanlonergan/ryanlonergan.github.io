@@ -3,7 +3,7 @@ layout: page
 sitemap: false
 ---
 
-# How I built this site
+# Building My Site
 
 Not an easy task
 {:.note title="This was"}
