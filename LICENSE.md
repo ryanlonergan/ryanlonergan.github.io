@@ -1,6 +1,0 @@
----
-layout: page
-sitemap: false
----
-
-# How I built this site

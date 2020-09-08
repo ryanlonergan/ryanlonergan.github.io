@@ -1,11 +1,8 @@
 ---
 layout: about
 description: >
-  Hydejack is a boutique Jekyll theme for hackers, nerds, and academics,
-  with a focus on personal sites that are meant to impress.
+  Welcome to my portfolio where I have presented my prior projects and documented my experience with learning data science.
 hide_description: true
-redirect_from:
-  - /download/
 cover: true
 ---
 

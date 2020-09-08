@@ -3,17 +3,11 @@ layout: about
 description: >
   This page contains my details of my education, skills, work and so on.
 hide_description: true
-redirect_from:
-  - /download/
 ---
 
 # Resume
 
-* Education
-* Skills
-* Work Experience
-* Certifications
-* Courses
+* This unordered list will be replaced by the table of contents
 {:toc}
 
 Should I put some text to start with here?
