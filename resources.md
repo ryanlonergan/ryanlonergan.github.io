@@ -8,7 +8,7 @@ hide_description: true
 # Helpful Resources
 
 * This unordered seed list will be replaced by the table of contents
-{:toc position: sticky}
+{:toc position=sticky}
 
 This page will be contain learning resources that I found helpful for studying coding and data science. I only recommend items that I believe are useful and why I think so. Hopefully it helps others with their journey into data science.
 
