@@ -12,6 +12,8 @@ hide_description: true
 
 Should I put some text to start with here?
 
+If you are looking for a more concise data science resume, a one-pager can be found here.
+
 ### Education
 ___
 
@@ -91,11 +93,77 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ### Certifications
 ___
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-<br/><br/>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://api.badgr.io/public/assertions/BQvuMC35QcChNL5C58p7gw?identity__email=ryanjl%40uw.edu"><img width="120px" height="120px" src="https://media.badgr.com/uploads/badges/assertion-BQvuMC35QcChNL5C58p7gw.svg"></a><p class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word;margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #05012c;">UW Foster School of Business Excel Credential</p><p class="badgr-badge-recipient" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">Awarded To:</strong><span style="display: block;"> Ryan J Lonergan</span></p><p style="margin: 16px 0; padding: 0;"><a class="badgr-badge-verify" target="_blank" href="https://badgecheck.io?url=https%3A%2F%2Fapi.badgr.io%2Fpublic%2Fassertions%2FBQvuMC35QcChNL5C58p7gw%3Fidentity__email%3Dryanjl%2540uw.edu&amp;identity__email=ryanjl%40uw.edu" style="box-sizing: content-box; display: flex; align-items: center; justify-content: center; margin: 0; font-size:14px; font-weight: bold; width: 48px; height: 16px; border-radius: 4px; border: solid 1px black; text-decoration: none; padding: 6px 16px; margin: 16px 0; color: black;">VERIFY</a></p><script async="async" src="https://washington.badgr.com/assets/widgets.bundle.js"></script></blockquote>
 
-### Courses
+### Select Courses
 ___
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<p style="text-align:left;"><b>
+    <a href="https://myplan.uw.edu/course/#/courses/MSIS522">Advanced Business Data Mining</a>
+    <span style="float:right;">
+        MSIS 522
+    </span></b></p>
+- *Course Description:* Covers managerial decision-making and business intelligence. Topics include association rule mining and regression. Special attention given to embedded intelligence in modern business processes and applications.
+
+<p style="text-align:left;"><b>
+    <a href="https://myplan.uw.edu/course/#/courses/MSIS543">Advanced Database Systems and Data Warehouses</a>
+    <span style="float:right;">
+        MSIS 543
+    </span></b></p>
+- *Course Description:* Extends and enhances understanding of enterprise databases to design, implement, and support business intelligence (BI) solutions. Topics include DBMS extensions for data warehousing, data warehouse and data mart design, loading and extracting data, performance tuning, and cloud-based Bi application design. Emphasizes agile techniques to efficiently produce optimal solutions that meet business requirements and increase competitive advantage.
+
+<p style="text-align:left;"><b>
+    <a href="https://myplan.uw.edu/course/#/courses/MSIS502">Business Data Analysis</a>
+    <span style="float:right;">
+        MSIS 502
+    </span></b></p>
+- *Course Description:* Covers statistical techniques for managerial decision making. Includes hypotheses testing, regression, and analysis of variance.
+
+<p style="text-align:left;"><b>
+    <a href="https://myplan.uw.edu/course/#/courses/MSIS504">Business Decision Models</a>
+    <span style="float:right;">
+        MSIS 504
+    </span></b></p>
+- *Course Description:* Covers formulating and modeling business decision problems. Includes risk analysis, simulation, linear programming, and extensions.
+
+<p style="text-align:left;"><b>
+    <a href="https://myplan.uw.edu/course/#/courses/MSIS523">Cyber Security Policy, Management and Compliance</a>
+    <span style="float:right;">
+        MSIS 523
+    </span></b></p>
+- *Course Description:* Covers the overall framework of information technology (IT) compliance, both generic and industry-specific. Includes intellectual property rights, privacy, copyright protection, trade secrets, and other legal issues relevant to IT.
+
+<p style="text-align:left;"><b>
+    <a href="https://myplan.uw.edu/course/#/courses/MSIS526">Enterprise Systems and Integration</a>
+    <span style="float:right;">
+        MSIS 526
+    </span></b></p>
+- *Course Description:* Provides an overall understanding of the complex role of information systems in transforming organizational processes and integrating them as part of an enterprise system. Topics include the concept of process-enabling information technologies and enterprise resource planning systems that support organizational manufacturing, customer service, and human resource management.
+
+<p style="text-align:left;"><b>
+    <a href="https://myplan.uw.edu/course/#/courses/MSIS501">Information Technology and Organizational Strategy</a>
+    <span style="float:right;">
+        MSIS 501
+    </span></b></p>
+- *Course Description:* Discusses the role of information technology (IT) in the development and execution of business strategy that takes into account competitors, customers, and firm competencies (including IT capabilities). Examines the impact of IT on two sets of strategic issues for a company - where to compete and how to compete. Helps students develop tools to use IT in aiding strategy.
+
+<p style="text-align:left;"><b>
+    <a href="https://myplan.uw.edu/course/#/courses/MSIS549">Machine Learning and Artificial Intelligence for Business Applications</a>
+    <span style="float:right;">
+        MSIS 549
+    </span></b></p>
+- *Course Description:* Covers machine learning, deep learning, and artificial intelligence algorithms for business applications. Students will learn the theory of deep learning and gain practical experience from building neural networks to solve big data problems in business.
+
+<p style="text-align:left;"><b>
+    <a href="https://myplan.uw.edu/course/#/courses/MSIS547">Managing in the Era of Cloud Computing</a>
+    <span style="float:right;">
+        MSIS 547
+    </span></b></p>
+- *Course Description:* Covers cloud computing; risks and benefits of information technology (IT) infrastructure; service and deployment models; virtualization and organizational impact; and cloud security.
+
+<p style="text-align:left;"><b>
+    <a href="https://myplan.uw.edu/course/#/courses/QMETH450">Spreadsheet Models for Managerial Decision Making</a>
+    <span style="float:right;">
+        QMETH 450
+    </span></b></p>
+- *Course Description:* Formulation and solution of business problems using operations research techniques in a spreadsheet environment. Techniques of linear and integer programming, decision analysis, network optimization, queuing, and simulation. Applications from marketing, finance, and operations.
