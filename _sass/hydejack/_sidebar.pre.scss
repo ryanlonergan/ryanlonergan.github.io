@@ -15,7 +15,7 @@
 
 hy-drawer {
   width: 100%; // inline
-  position: relative; // inline
+  position: sticky; // inline
   overflow: hidden; // inline
   display: block; // inline
   z-index: 4; // inline
@@ -67,7 +67,7 @@ hy-drawer {
 
 .sidebar {
   // <<< inline
-  position: relative;
+  position: sticky;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -122,7 +122,7 @@ hy-drawer.loaded .sidebar {
 
 // <<<<< INLINE
 .sidebar-sticky {
-  position: relative;
+  position: sticky;
   z-index: 3;
   max-width: $sidebar-width;
   padding: 1.5rem;
