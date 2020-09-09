@@ -8,7 +8,7 @@ hide_description: true
 # Helpful Resources
 
 * This unordered seed list will be replaced by the table of contents
-{:toc}
+{:toc .sticky}
 
 This page will be contain learning resources that I found helpful for studying coding and data science. I only recommend items that I believe are useful and why I think so. Hopefully it helps others with their journey into data science.
 
@@ -18,6 +18,7 @@ This page will be contain learning resources that I found helpful for studying c
 This list is still a work in progress, so check back later for more info.
 
 ### Software
+___
 
 * [Anaconda](https://www.anaconda.com/products/individual)
 	* Through Anaconda Navigator, managing programs and packages is simple through its GUI. For new coders, this intergace provides the simplest way to start without the need to make many changes during installation. It also provides simple updating and the option to choose specific versions of programs if needed.
@@ -40,6 +41,7 @@ This list is still a work in progress, so check back later for more info.
 
 
 ### Books
+___
 
 * [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 	* *Description to be added*
@@ -54,16 +56,19 @@ This list is still a work in progress, so check back later for more info.
 	* *Description to be added*
 
 ### Websites
+___
 
 * [SQL Murder Mystery](http://mystery.knightlab.com/)
 	* *Description to be added*
 
 ### Courses
+___
 
 * [The Complete Python Programmer Bootcamp 2020](https://www.udemy.com/course/the-complete-python-programmer-bootcamp/)
 	* *Description to be added*
 
 ### Youtube Channels
+___
 
 * [Python Programmer](https://www.youtube.com/channel/UC68KSmHePPePCjW4v57VPQg)
 	* *Description to be added*
