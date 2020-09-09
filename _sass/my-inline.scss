@@ -1,28 +1,4 @@
 // You can add CSS rules here that will be inlined into each document.
-.sidebar {
-  // <<< inline
-  position: sticky;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  color: rgba(255, 255, 255, .75);
-  text-align: center;
-  z-index: 2;
-  min-height: 100vh;
-  // >>>
-
-  a {
-    color: #fff; // inline
+.sidebar a {
     text-shadow: rgba(0, 0, 0, 0.25) 0.1rem 0.1rem 0.15rem;
-    border-bottom-color: rgba(255, 255, 255, 0.2); // inline
-    &:hover { border-bottom-color: #fff; } // link
-  }
-}
-
-.sidebar-sticky {
-  position: sticky;
-  z-index: 3;
-  max-width: $sidebar-width;
-  padding: 1.5rem;
-  contain: content;
-}
+    }
