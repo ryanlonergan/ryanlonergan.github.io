@@ -44,10 +44,44 @@ ___
     Focus: Business Administration
 </p>
 
-### Skills
+### Technical Skills
 ___
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Intermediate Machine Learning:**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+2+ years of experience<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+gbm, Keras, knn, NLTK, randomForest, SciKit-Learn
+
+**Advanced Python:**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+3+ years of experience<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Matplotlib, NumPy, Pandas, SciPy, Seaborn
+
+**Advanced SQL:**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+3+ years of experience<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+pgAdmin, PostgreSQL, MySQL, MySQL Workbench
+
+**Intermediate R:**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+4+ years of experience<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+caret, dplyr, ggplot2, ggmap, tidyr
+
+**Advanced Excel:**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+6+ years of experience<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Decisions Models, Forecasting, Linear & Non-Linear Programming, Optimization, Statistics
+
+**Intermediate Tableau:**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+2+ years of experience<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Desktop 2020.2.1
 
 ### Work Experience
 ___
