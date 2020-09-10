@@ -21,13 +21,13 @@ This list is still a work in progress, so check back later for more info.
 ___
 
 * [Anaconda](https://www.anaconda.com/products/individual)
-	* Through Anaconda Navigator, managing programs and packages is simple through its GUI. For new coders, this intergace provides the simplest way to start without the need to make many changes during installation. It also provides simple updating and the option to choose specific versions of programs if needed.
+	* Through Anaconda Navigator, managing programs and packages is simple through its GUI. For new coders, this interface provides the simplest way to start without the need to make many changes during installation. It also provides simple updating and the option to choose specific versions of programs if needed.
 
 * [Jupyter Notebook](https://jupyter.org/)
-	* This is my preferred IDE for Python and where I spend the most time coding as it is ideal for data science and testing. One of my biggest gripes with the program is that it does not look the best and lacks some features, but extensions make it more customizable. I mostly use [Hinterland](https://jupyter-contrib-nbextensions.readthedocs.io/en/latest/nbextensions/hinterland/README.html) through [Nbextensions](https://jupyter-contrib-nbextensions.readthedocs.io/en/latest/index.html) for its dropdown menu for autocomplete and [Juypter Themes](https://github.com/dunovank/jupyter-themes) for dark mode (Chesterish).
+	* This is my preferred IDE for Python and where I spend the most time coding as it is ideal for data science and testing. One of my biggest gripes with the program is that it does not look the best and lacks some features, but extensions make it more customizable. I mostly use [Hinterland](https://jupyter-contrib-nbextensions.readthedocs.io/en/latest/nbextensions/hinterland/README.html) through [Nbextensions](https://jupyter-contrib-nbextensions.readthedocs.io/en/latest/index.html) for its dropdown menu for autocomplete and [Jupyter Themes](https://github.com/dunovank/jupyter-themes) for dark mode (Chesterish).
 
 * [Google Colab](https://colab.research.google.com/)
-	* Colab provides free access to cloud GPUs and allows users to execute code in cells directly in their browsers. While I still prefer using Juypter Notebook locally on my machine, it makes working on small teams easier and also provides an alternative environment when I am troubleshooting issues with packages or dependencies.
+	* Colab provides free access to cloud GPUs and allows users to execute code in cells directly in their browsers. While I still prefer using Jupyter Notebook locally on my machine, it makes working on small teams easier and also provides an alternative environment when I am troubleshooting issues with packages or dependencies.
 
 * [Spyder](https://www.spyder-ide.org/)
 	* Currently I prefer Spyder over [PyCharm](https://www.jetbrains.com/pycharm/) as it is more lightweight and requires less setup for environments. However, I mostly code Python in notebooks, so my preference may change over time.
@@ -67,7 +67,7 @@ ___
 * [The Complete Python Programmer Bootcamp 2020](https://www.udemy.com/course/the-complete-python-programmer-bootcamp/)
 	* *Description to be added*
 
-### Youtube Channels
+### YouTube Channels
 ___
 
 * [Python Programmer](https://www.youtube.com/channel/UC68KSmHePPePCjW4v57VPQg)
