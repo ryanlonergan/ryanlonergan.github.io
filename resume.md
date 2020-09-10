@@ -12,7 +12,10 @@ hide_description: true
 
 Should I put some text to start with here?
 
-If you are looking for a more concise data science resume, a one-pager can be found here.
+If you are looking for a more concise data science resume, a one-pager can be found here:
+<p>View in browser
+<a href = "/assets/resume/RyanLonerganResumeDS.pdf">View in browser</a></p>
+
 
 ### Education
 ___
@@ -49,41 +52,60 @@ ___
 ### Technical Skills
 ___
 
-**Intermediate Machine Learning:**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<p style="display: inline;">
+<b>
+Intermediate Machine Learning:
+</b>
+<ul><li style="list-style-type: none;">
 2+ years of experience<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 gbm, Keras, knn, NLTK, randomForest, SciKit-Learn
+</li></ul></p>
 
-**Advanced Python:**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p style="display: inline;">
+<b>
+Advanced Python:
+</b>
+<ul><li style="list-style-type: none;">
 3+ years of experience<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Matplotlib, NumPy, Pandas, SciPy, Seaborn
+</li></ul></p>
 
-**Advanced SQL:**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p style="display: inline;">
+<b>
+Advanced SQL:
+</b>
+<ul><li style="list-style-type: none;">
 3+ years of experience<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 pgAdmin, PostgreSQL, MySQL, MySQL Workbench
+</li></ul></p>
 
-**Intermediate R:**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p style="display: inline;">
+<b>
+Intermediate R:
+</b>
+<ul><li style="list-style-type: none;">
 4+ years of experience<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 caret, dplyr, ggplot2, ggmap, tidyr
+</li></ul></p>
 
-**Advanced Excel:**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p style="display: inline;">
+<b>
+Advanced Excel:
+</b>
+<ul><li style="list-style-type: none;">
 6+ years of experience<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Decisions Models, Forecasting, Linear & Non-Linear Programming, Optimization, Statistics
+</li></ul></p>
 
-**Intermediate Tableau:**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p style="display: inline;">
+<b>
+Intermediate Tableau:
+</b>
+<ul><li style="list-style-type: none;">
 2+ years of experience<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Desktop 2020.2.1
+</li></ul></p>
 
 ### Work Experience
 ___
@@ -95,7 +117,7 @@ ___
     </span></b><br>
 School of Nursing, University of Washington
 </p>
-- Designed streamlined procedure to automate and process 20+ clinical passports per quarter to prove employee certification and immunization compliance using Python to parse and populate text documents resulting in a turnaround from 2+ hours decreased to 10-15 minutes per passport.
+- Designed streamlined procedure to automate and process 20+ clinical passports per quarter to prove employee certification and immunization compliance using Python to parse and populate text documents resulting in a decreased turnaround from 2+ hours to 10-15 minutes per passport.
 - Worked independently to answer employee submitted tickets and process various documents, including TA/RA appointments, staff reappointments, and job listings, averaging 15 tickets and 5 records per day.
 
 <p style="text-align:left;"><b>
