@@ -10,8 +10,8 @@ hide_description: true
 * This unordered list will be replaced by the table of contents
 {:toc}
 
-Below is a summary of my experiences and accomplishments. If you are looking for a more concise data science resume, a one-pager can be found here:
-<p>
+Below is a summary of my experiences and accomplishments, including my education, skills, work experiences, certificates and some highlighted courses I have taken at the University of Washington. If you are looking for a more concise data science resume, a one-pager can be found here:
+<p style="text-align:center;">
 <a href="/assets/resume/RyanLonerganResumeDS.pdf" target="_blank">
 View in browser
 </a></p>
