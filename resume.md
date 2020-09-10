@@ -10,11 +10,11 @@ hide_description: true
 * This unordered list will be replaced by the table of contents
 {:toc}
 
-Should I put some text to start with here?
-
-If you are looking for a more concise data science resume, a one-pager can be found here:
-<p>View in browser
-<a href = "/assets/resume/RyanLonerganResumeDS.pdf">View in browser</a></p>
+Below is a summary of my experiences and accomplishments. If you are looking for a more concise data science resume, a one-pager can be found here:
+<p>
+<a href="/assets/resume/RyanLonerganResumeDS.pdf" target="_blank">
+View in browser
+</a></p>
 
 
 ### Education
