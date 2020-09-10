@@ -88,7 +88,56 @@ Desktop 2020.2.1
 ### Work Experience
 ___
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<p style="text-align:left;"><b>
+    Human Resources Student Assistant
+    <span style="float:right;">
+        Sep 2017 - June 2018
+    </span></b><br>
+School of Nursing, University of Washington
+</p>
+- Designed streamlined procedure to automate and process 20+ clinical passports per quarter to prove employee certification and immunization compliance using Python to parse and populate text documents resulting in a turnaround from 2+ hours decreased to 10-15 minutes per passport.
+- Worked independently to answer employee submitted tickets and process various documents, including TA/RA appointments, staff reappointments, and job listings, averaging 15 tickets and 5 records per day.
+
+<p style="text-align:left;"><b>
+    Student Body President
+    <span style="float:right;">
+        May 2015 - Aug 2016
+    </span></b><br>
+South Seattle College
+</p>
+- Represented over 8,000 student constituents to address their needs and concerns presiding over 30 officer meetings and delivering reports at 9 district wide board of trustee’s meetings.
+- Oversaw change of leadership for officer team, including retraining and redistribution of responsibilities, and led hiring process for filling vacant positions with 40+ candidate applicants.
+- Managed a team of 7 officers and 50+ volunteers to design and implement over 15 events primarily focusing on advocacy, education, recreation, and volunteering.
+
+<p style="text-align:left;"><b>
+    Business, English and Statistics Tutor
+    <span style="float:right;">
+        Sep 2015 - June 2016
+    </span></b><br>
+TRIO Student Success Services, South Seattle College
+</p>
+- Individually tutored college students from disadvantaged backgrounds to aid their comprehension and fill knowledge gaps in college level Business, English, and Statistics, averaging 4 students per session and 3 sessions per week.
+
+<p style="text-align:left;"><b>
+    Professional Mover
+    <span style="float:right;">
+        June 2015 - Jan 2017
+    </span></b><br>
+Graebel Van Lines & Suddath Relocation Services
+</p>
+- Worked 6 days a week with 10 to 14-hour days that began at 6 am during holidays and breaks to fund my education.
+- Moved upwards of 90 clients per summer organizing hundreds of items per engagement with 99% accuracy and no customer complaints.
+
+<p style="text-align:left;"><b>
+    Treasurer
+    <span style="float:right;">
+        Oct 2014 - June 2015
+    </span></b><br>
+Phi Theta Kappa Honor Society, South Seattle College
+</p>
+- Designed and managed volunteer program to provide personal tutoring for K-8 children from low income families in partnership with Neighborhood House over 20 weeks averaging 7 college volunteers participating per engagement.
+- Managed expenditures for honor society chapter including performing cost analysis, viability, and budgets for 8 meetings and volunteer events per quarter affecting 90+ members.
+
 
 ### Certifications
 ___
