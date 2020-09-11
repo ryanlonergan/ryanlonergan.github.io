@@ -72,8 +72,9 @@ copyright:             © 2020 Ryan Lonergan
 permalink:             /:categories/:year-:month-:day-:title/
 
 # Pagination configuration (used by the `blog` layout)
-paginate:              10
-paginate_path:         /portfolio/:num/
+# DISABLED
+# paginate:              10
+# paginate_path:         /:num/
 
 
 # Collections

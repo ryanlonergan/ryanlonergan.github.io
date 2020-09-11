@@ -23,13 +23,13 @@ Below are placeholders, just need them here so the formatting works
 
 
 ## example
-* [install]{:.heading.flip-title} --- text
-* [upgrade]{:.heading.flip-title} --- text
+* [Spotify]{:.heading.flip-title} --- text
+* [Spotify] --- text
 * [config]{:.heading.flip-title} --- I don't know what the following line in MD does
 {:.related-posts.faded}
 
 need to have links like this below. Test/examine how it works with html:
-[install]: install.md
+[Spotify]: spotify.md
 [upgrade]: upgrade.md
 [config]: config.md
 [basics]: basics.md
