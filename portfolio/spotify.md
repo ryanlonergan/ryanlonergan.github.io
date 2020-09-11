@@ -11,6 +11,8 @@ sitemap: false
 * This unordered list will be replaced by the table of contents
 {:toc}
 
+![Spotify Cover](/assets/img/spotify/spotify_cover.jpg)
+
 ### Overview
 
 In this project, I used a logistic regression model to create a recommendation model for songs using SciKit-Learn, Pandas and SciPy through Python. I have always had a great interest in music and have used Spotify for years, but always wondered how their algorithms for recommendations were always superior to their competition. With this idea in mind, I set out to investigate how they suggested music to users to gain a better understanding of their process.
