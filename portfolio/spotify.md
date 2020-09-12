@@ -7,10 +7,23 @@ hide_description: true
 sitemap: false
 ---
 
+<head>
+<style>
+toc {
+    position: sticky;
+    top: 2rem;
+    align-self: start;
+}
+</style>
+</head>
+
 * This unordered list will be replaced by the table of contents
 {:toc}
 
-![Spotify Cover](/assets/img/spotify/spotify_cover.jpg){:.center}
+
+
+
+![Spotify Cover](/assets/img/spotify/spotify_cover.jpg)
 
 ### Overview
 
