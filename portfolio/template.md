@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Recommending Songs on Spotify through Python
+title: TITLE
 description: >
-  This project used a logistic regression model to create a recommendation model for songs using SciKit-Learn, Pandas and SciPy through Python.
+  DESCRIPTION
 hide_description: true
 sitemap: false
 ---
