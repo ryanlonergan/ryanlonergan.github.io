@@ -7,20 +7,34 @@ hide_description: true
 sitemap: false
 ---
 
-Here is a collection of data science projects I have done, ranging from course work to personal endeavors.
+<style>
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+
+
+Here is a collection of data science projects I have done, ranging from course work to personal endeavors. Take a look and feel free to reach out if you have any questions, ideas or suggestions.
 
 <br/><br/>
-This is still a work in progress, so check back later to see what has been updated.
-<br/><br/>
+
+<a href="/portfolio/spotify/">
+  <img src="/assets/img/spotify/spotify_card.png"  alt="Spotify Project" class="center">
+</a>
 
 
-[how to link - I'm not great at html](https://google.com)
-<br/><br/>
 
 
-Below are placeholders, just need them here so the formatting works
-{:.note}
+<!---
+ ![Spotify](/assets/img/spotify/spotify_card.png){:.center-image}
 
+class="center" alt="Spotify Project"
+
+
+
+--->
 
 ## example
 * [Spotify]{:.heading.flip-title} --- text
