@@ -7,23 +7,19 @@ hide_description: true
 sitemap: false
 ---
 
-<head>
 <style>
-.toc {
-    position: sticky;
-    top: 2rem;
-    align-self: start;
+
+.figure {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  center;
 }
+
 </style>
-</head>
 
 * This unordered list will be replaced by the table of contents
 {:toc}
 
-
-
-
-![Spotify Cover](/assets/img/spotify/spotify_cover.jpg)
+<img src="/assets/img/spotify/spotify_cover.jpg"  alt="Spotify Project" class="figure">
 
 ### Overview
 
@@ -37,7 +33,17 @@ As the information was compiled directly from Spotify, it was already clean, so 
 
 ### Analysis
 
-Although the data was straightforward, evaluating it was more complicated. Beginning with a correlation matrix, I observed the variables to get an estimate on which ones should be focused on, but few were strongly correlated. However, I was able to determine a few to work with and looked at their distributions. Some were extremely straightforward, such as valence, but others, like instrumentalness, were not Gaussian and required normalization.
+<div>
+    <p style="float: left;"><img src="/assets/img/spotify/spotify_valence.png" width="100%" padding-top="100%" class="figure"></p>
+    <p>Although the data was straightforward, evaluating it was more complicated. Beginning with a correlation matrix, I observed the variables to get an estimate on which ones should be focused on, but few were strongly correlated. However, I was able to determine a few to work with and looked at their distributions. Some were extremely straightforward, such as valence, but others, like instrumentalness, were not Gaussian and required normalization.</p>
+</div>
+<div style="clear: left;">
+    <p style="float: right;"><img src="/assets/img/spotify/spotify_speechiness.png" height="90%"  class="figure"></p>
+    <p>Although the data was straightforward, evaluating it was more complicated. Beginning with a correlation matrix, I observed the variables to get an estimate on which ones should be focused on, but few were strongly correlated. However, I was able to determine a few to work with and looked at their distributions. Some were extremely straightforward, such as valence, but others, like instrumentalness, were not Gaussian and required normalization.</p>
+</div>
+
+
+
 
 Next, I used dbscan from sklearn to perform outlier detection, but most values fit inside the normal distribution. Speechiness, or how much speech without music, had the most outliers, but was extremely low with only 46 out of 2,017 values or 2.28%. I hypothesized that these values could come from podcasts and removed them as they affected the distribution and trend lines without providing a significant impact on the data.
 
