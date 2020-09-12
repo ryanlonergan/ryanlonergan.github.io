@@ -9,7 +9,7 @@ sitemap: false
 
 <head>
 <style>
-toc {
+.toc {
     position: sticky;
     top: 2rem;
     align-self: start;
