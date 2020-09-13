@@ -46,7 +46,7 @@ To perform the analysis, I used RFE, or recursive feature elimination, from skle
 
 <pre>
   <code>
-  Optimization terminated successfully.          
+Optimization terminated successfully.          
       Current function value: 0.675697          
       Iterations 5                              
 Results: Logit
