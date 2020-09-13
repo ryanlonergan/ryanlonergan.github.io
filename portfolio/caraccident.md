@@ -9,7 +9,7 @@ sitemap: false
 
 <style>
 
-.figure {
+.banner {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   center;
 }
@@ -21,7 +21,7 @@ sitemap: false
 {:toc}
 
 
-<img src="/assets/img/caraccident/caraccident_cover.jpg"  alt="Car Accident Project" class="figure">
+<img src="/assets/img/caraccident/caraccident_cover.jpg"  alt="Car Accident Project" class="banner">
 
 
 
@@ -36,7 +36,7 @@ In the initial data set, there were over 200 thousand records with 40 different 
 
 Additionally, there was a categorical variable which recorded the severity of the accident. While it would be invaluable for the analysis, it used subcategories for any collisions, such as  injuries and serious injures having codes of 2a and 2b. Knowing this would cause problems later, I changed the coding system to consist of only integers ranging from 0 with little to no damage and 4 which resulted in fatalities.
 
-<img src="/assets/img/caraccident/caraccident_frequency.jpg"  alt="Car Accident Frequency" class="figure">
+<img src="/assets/img/caraccident/caraccident_frequency.jpg"  alt="Car Accident Frequency">
 
 After importing the data into MySQL Workbench, I noticed 2 more anomalies: any record with a severity value of 0 was missing information and data from 2019 only covered part of the year. Instead of making changes in Python and importing the data again, I found it easier to create a new table dropping any records from 2019 or with a severity code of 0. This left me with almost 63 thousand records to analyze.
 
@@ -46,9 +46,9 @@ From exploring the remaining variables, I found that many of them did not have a
 
 Additionally, there was geographic information contained in the data set, including cross street and coordinates. Using the street data, I first generated a list of where the most collisions occurred. However, this information did not prove to be very useful as it was difficult to find hotspots based solely on street name. Instead, I used Tableau to create a heatmap based on the latitude and longitude. This style was much easier to read as darker colors represented trouble spots that should have greater focus than others.
 
-<img src="/assets/img/caraccident/caraccident_conditions.jpg"  alt="Car Accident Conditions" class="figure">
+<img src="/assets/img/caraccident/caraccident_conditions.jpg"  alt="Car Accident Conditions">
 
-<img src="/assets/img/caraccident/caraccident_heatmap.jpg"  alt="Car Accident Heatmap" class="figure">
+<img src="/assets/img/caraccident/caraccident_heatmap.jpg"  alt="Car Accident Heatmap">
 
 ### Outcome
 
@@ -65,16 +65,16 @@ ____
 <br>
 
 <figure>
-  <img src="/assets/img/caraccident/caraccident_code1.jpg"  alt="Car Accident Code Snippet 1" class="figure">
+  <img src="/assets/img/caraccident/caraccident_code1.jpg"  alt="Car Accident Code Snippet 1">
   <figcaption>Creating new table</figcaption>
 </figure>
 
 <figure>
-  <img src="/assets/img/caraccident/caraccident_code2.jpg"  alt="Car Accident Code Snippet 2" class="figure">
+  <img src="/assets/img/caraccident/caraccident_code2.jpg"  alt="Car Accident Code Snippet 2">
   <figcaption>Finding accident percentages per severity level depending on condition</figcaption>
 </figure>
 
 <figure>
-  <img src="/assets/img/caraccident/caraccident_code3.jpg"  alt="Car Accident Code Snippet 3" class="figure">
+  <img src="/assets/img/caraccident/caraccident_code3.jpg"  alt="Car Accident Code Snippet 3">
   <figcaption>Aggregating accidents by location</figcaption>
 </figure>

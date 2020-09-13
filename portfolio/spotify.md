@@ -9,7 +9,7 @@ sitemap: false
 
 <style>
 
-.figure {
+.banner {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   center;
 }
@@ -19,7 +19,7 @@ sitemap: false
 * This unordered list will be replaced by the table of contents
 {:toc}
 
-<img src="/assets/img/spotify/spotify_cover.jpg"  alt="Spotify Project" class="figure">
+<img src="/assets/img/spotify/spotify_cover.jpg"  alt="Spotify Project" class="banner">
 
 ### Overview
 
@@ -34,20 +34,44 @@ As the information was compiled directly from Spotify, it was already clean, so 
 ### Analysis
 
 <div>
-    <p style="float: left;"><img src="/assets/img/spotify/spotify_valence.png" width="100%" padding-top="100%" class="figure"></p>
+    <p style="float: left;"><img src="/assets/img/spotify/spotify_valence.png" width="100%" padding-top="100%"></p>
     <p>Although the data was straightforward, evaluating it was more complicated. Beginning with a correlation matrix, I observed the variables to get an estimate on which ones should be focused on, but few were strongly correlated. However, I was able to determine a few to work with and looked at their distributions. Some were extremely straightforward, such as valence, but others, like instrumentalness, were not Gaussian and required normalization.</p>
 </div>
 <div style="clear: left;">
-    <p style="float: right;"><img src="/assets/img/spotify/spotify_speechiness.png" height="90%"  class="figure"></p>
-    <p>Although the data was straightforward, evaluating it was more complicated. Beginning with a correlation matrix, I observed the variables to get an estimate on which ones should be focused on, but few were strongly correlated. However, I was able to determine a few to work with and looked at their distributions. Some were extremely straightforward, such as valence, but others, like instrumentalness, were not Gaussian and required normalization.</p>
+    <p style="float: right;"><img src="/assets/img/spotify/spotify_speechiness.png" height="90%"></p>
+    <p>Next, I used dbscan from sklearn to perform outlier detection, but most values fit inside the normal distribution. Speechiness, or how much speech without music, had the most outliers, but was extremely low with only 46 out of 2,017 values or 2.28%. I hypothesized that these values could come from podcasts and removed them as they affected the distribution and trend lines without providing a significant impact on the data.</p>
 </div>
 
-
-
-
-Next, I used dbscan from sklearn to perform outlier detection, but most values fit inside the normal distribution. Speechiness, or how much speech without music, had the most outliers, but was extremely low with only 46 out of 2,017 values or 2.28%. I hypothesized that these values could come from podcasts and removed them as they affected the distribution and trend lines without providing a significant impact on the data.
-
 To perform the analysis, I used RFE, or recursive feature elimination, from sklearn to automatically tune the model, finding the best result based on cross validation. Once optimized, the logistic regression model reached 67.6% accuracy on the train data and 63% on the test data. While the results were not exceedingly excellent, the model did outperform the naïve approach making it a success, especially considering how complex musical tastes are.
+
+<pre>
+  <code>
+  Optimization terminated successfully.          
+      Current function value: 0.675697          
+      Iterations 5                              
+Results: Logit
+<center>======================================================</center>
+Model:              Logit            Pseudo R-squared: 0.025
+Dependent Variable: target            AIC:              2187.7993  
+Date:               2019-08-20 22:29 BIC:              2209.3427  
+No. Observations:   1613             Log-Likelihood:   -1089.9    
+Df Model:           3                LL-Null:          -1117.9    
+Df Residuals:       1609             LLR p-value:      4.3995e-12
+Converged:          1.0000           Scale:            1.0000     
+No. Iterations:     5.0000                                        
+<center>-----------------------------------------------------
+Coef.   Std.Err.    z   P>|z|  [0.025   0.975]
+-----------------------------------------------------</center>
+ danceability      -0.7192   0.2301 -3.1252 0.0018 -1.1703 -0.2682
+ instrumentalness   1.1280   0.1919  5.8789 0.0000  0.7520  1.5041
+ speechiness        2.4381   0.6087  4.0055 0.0001  1.2451  3.6310
+ valence            0.4408   0.2316  1.9032 0.0570  0.0131  0.8947
+ <center>=====================================================</center>
+  </code>
+</pre>
+<figure>
+  <figcaption>Final Logistic Model</figcaption>
+</figure>
 
 ### Outcome
 
@@ -59,3 +83,14 @@ If I were to do this project again, I would make two major changes. First, I wou
 ____
 
 ### Supporting Figures
+<br>
+
+<figure>
+  <img src="/assets/img/spotify/spotify_corr.png"  alt="Correlation Matrix">
+  <figcaption>Correlation Matrix for Variables using Colorblind Scale</figcaption>
+</figure>
+
+<figure>
+  <img src="/assets/img/spotify/spotify_roc.png"  alt="ROC Curve">
+  <figcaption>Performance of Model through ROC Curve</figcaption>
+</figure>

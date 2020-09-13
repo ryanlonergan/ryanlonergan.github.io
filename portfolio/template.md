@@ -9,7 +9,7 @@ sitemap: false
 
 <style>
 
-.figure {
+.banner {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   center;
 }
@@ -20,9 +20,7 @@ sitemap: false
 * This unordered list will be replaced by the table of contents
 {:toc}
 
-test
-
-<img src="/assets/img/spotify/spotify_card.png"  alt="Spotify Project" class="figure">
+<img src="/assets/img/spotify/spotify_cover.jpg"  alt="Spotify Project" class="banner">
 
 
 
