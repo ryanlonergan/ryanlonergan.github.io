@@ -14,6 +14,26 @@ sitemap: false
   center;
 }
 
+* {
+  box-sizing: border-box;
+}
+
+.row {
+  display: flex;
+}
+
+.aligncenter {
+    text-align: center;
+}
+
+.verticalhorizontal {
+    display: table-cell;
+    height: 300px;
+    text-align: center;
+    width: 300px;
+    vertical-align: middle;
+}
+
 </style>
 
 * This unordered list will be replaced by the table of contents
