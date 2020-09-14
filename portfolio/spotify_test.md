@@ -22,6 +22,17 @@ sitemap: false
   display: flex;
 }
 
+.aligncenter {
+    text-align: center;
+}
+
+.verticalhorizontal {
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+}
+
+
 </style>
 
 * This unordered list will be replaced by the table of contents
@@ -31,14 +42,7 @@ sitemap: false
 
 ### Test
 
-<div class="row">
-    <div style="flex: 40%; padding: 10px">
-      <img src="/assets/img/spotify/spotify_valence.png" style ="padding-right: 10px;">
-    </div>
-    <div style="flex: 60%;">
-      <p>Although the data was straightforward, evaluating it was more complicated. Beginning with a correlation matrix, I observed the variables to get an estimate on which ones should be focused on, but few were strongly correlated. However, I was able to determine a few to work with and looked at their distributions. Some were extremely straightforward, such as valence, but others, like instrumentalness, were not Gaussian and required normalization.</p>
-    </div>
-</div>
+
 
 
 ### Overview
@@ -53,13 +57,23 @@ As the information was compiled directly from Spotify, it was already clean, so 
 
 ### Analysis
 
-<div>
-    <img src="/assets/img/spotify/spotify_valence.png" style ="float: left; padding-right: 20px;">
-    <p>Although the data was straightforward, evaluating it was more complicated. Beginning with a correlation matrix, I observed the variables to get an estimate on which ones should be focused on, but few were strongly correlated. However, I was able to determine a few to work with and looked at their distributions. Some were extremely straightforward, such as valence, but others, like instrumentalness, were not Gaussian and required normalization.</p>
+<div class="row">
+    <div style="flex: 40%;"><p class="verticalhorizontal" style="height:300px; width:300px;">
+      <img src="/assets/img/spotify/spotify_valence.png" style ="padding-right: 15px;">
+    </p></div>
+    <div style="flex: 60%;">
+      <p>Although the data was straightforward, evaluating it was more complicated. Beginning with a correlation matrix, I observed the variables to get an estimate on which ones should be focused on, but few were strongly correlated. However, I was able to determine a few to work with and looked at their distributions. Some were extremely straightforward, such as valence, but others, like instrumentalness, were not Gaussian and required normalization.</p>
+    </div>
 </div>
-<div>
-    <img src="/assets/img/spotify/spotify_speechiness.png" style="float: right; padding-left: 20px;">
-    <p>Next, I used dbscan from sklearn to perform outlier detection, but most values fit inside the normal distribution. Speechiness, or how much speech without music, had the most outliers, but was extremely low with only 46 out of 2,017 values or 2.28%. I hypothesized that these values could come from podcasts and removed them as they affected the distribution and trend lines without providing a significant impact on the data.</p>
+
+<div class="row">
+    <div style="flex: 60%;">
+      <p>Next, I used dbscan from sklearn to perform outlier detection, but most values fit inside the normal distribution. Speechiness, or how much speech without music, had the most outliers, but was extremely low with only 46 out of 2,017 values or 2.28%. I hypothesized that these values could come from podcasts and removed them as they affected the distribution and trend lines without providing a significant impact on the data.
+      </p>
+    </div>
+    <div style="flex: 40%;"><p class="verticalhorizontal" style="height:250px; width:400px;">
+      <img src="/assets/img/spotify/spotify_speechiness.png" style ="padding-left: 15px;">
+    </p></div>
 </div>
 
 To perform the analysis, I used RFE, or recursive feature elimination, from sklearn to automatically tune the model, finding the best result based on cross validation. Once optimized, the logistic regression model reached 67.6% accuracy on the train data and 63% on the test data. While the results were not exceedingly excellent, the model did outperform the naïve approach making it a success, especially considering how complex musical tastes are.
