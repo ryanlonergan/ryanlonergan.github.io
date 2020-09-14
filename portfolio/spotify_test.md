@@ -14,6 +14,14 @@ sitemap: false
   center;
 }
 
+* {
+  box-sizing: border-box;
+}
+
+.row {
+  display: flex;
+}
+
 </style>
 
 * This unordered list will be replaced by the table of contents
@@ -21,12 +29,17 @@ sitemap: false
 
 <img src="/assets/img/spotify/spotify_cover.jpg"  alt="Spotify Project" class="banner">
 
-### test
+### Test
 
-<div>
-    <p style="float: left;"><img src="/assets/img/spotify/spotify_valence.png" style ="padding-top: 100%; padding-right: 20px;"></p>
-    <p>Although the data was straightforward, evaluating it was more complicated. Beginning with a correlation matrix, I observed the variables to get an estimate on which ones should be focused on, but few were strongly correlated. However, I was able to determine a few to work with and looked at their distributions. Some were extremely straightforward, such as valence, but others, like instrumentalness, were not Gaussian and required normalization.</p>
+<div class="row">
+    <div style="flex: 40%; padding: 10px">
+      <img src="/assets/img/spotify/spotify_valence.png" style ="padding-right: 10px;">
+    </div>
+    <div style="flex: 60%;">
+      <p>Although the data was straightforward, evaluating it was more complicated. Beginning with a correlation matrix, I observed the variables to get an estimate on which ones should be focused on, but few were strongly correlated. However, I was able to determine a few to work with and looked at their distributions. Some were extremely straightforward, such as valence, but others, like instrumentalness, were not Gaussian and required normalization.</p>
+    </div>
 </div>
+
 
 ### Overview
 
@@ -41,11 +54,11 @@ As the information was compiled directly from Spotify, it was already clean, so 
 ### Analysis
 
 <div>
-    <p style="float: left;"><img src="/assets/img/spotify/spotify_valence.png" width="100%" padding-top="100%"></p>
+    <img src="/assets/img/spotify/spotify_valence.png" style ="float: left; padding-right: 20px;">
     <p>Although the data was straightforward, evaluating it was more complicated. Beginning with a correlation matrix, I observed the variables to get an estimate on which ones should be focused on, but few were strongly correlated. However, I was able to determine a few to work with and looked at their distributions. Some were extremely straightforward, such as valence, but others, like instrumentalness, were not Gaussian and required normalization.</p>
 </div>
-<div style="clear: left;">
-    <p style="float: right;"><img src="/assets/img/spotify/spotify_speechiness.png" height="90%"></p>
+<div>
+    <img src="/assets/img/spotify/spotify_speechiness.png" style="float: right; padding-left: 20px;">
     <p>Next, I used dbscan from sklearn to perform outlier detection, but most values fit inside the normal distribution. Speechiness, or how much speech without music, had the most outliers, but was extremely low with only 46 out of 2,017 values or 2.28%. I hypothesized that these values could come from podcasts and removed them as they affected the distribution and trend lines without providing a significant impact on the data.</p>
 </div>
 
@@ -57,9 +70,9 @@ Optimization terminated successfully.
       Current function value: 0.675697          
       Iterations 5                              
 Results: Logit
-<center>======================================================</center>
+<center>=====================================================</center>
 Model:              Logit            Pseudo R-squared: 0.025
-Dependent Variable: target            AIC:              2187.7993  
+Dependent Variable: target           AIC:              2187.7993  
 Date:               2019-08-20 22:29 BIC:              2209.3427  
 No. Observations:   1613             Log-Likelihood:   -1089.9    
 Df Model:           3                LL-Null:          -1117.9    
@@ -73,7 +86,7 @@ Coef.   Std.Err.    z   P>|z|  [0.025   0.975]
  instrumentalness   1.1280   0.1919  5.8789 0.0000  0.7520  1.5041
  speechiness        2.4381   0.6087  4.0055 0.0001  1.2451  3.6310
  valence            0.4408   0.2316  1.9032 0.0570  0.0131  0.8947
- <center>=====================================================</center>
+<center>=====================================================</center>
   </code>
 </pre>
 <figure>
