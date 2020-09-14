@@ -127,7 +127,7 @@ School of Nursing, University of Washington
     </span></b><br>
 South Seattle College
 </p>
-- Represented over 8,000 student constituents to address their needs and concerns presiding over 30 officer meetings and delivering reports at 9 district wide board of trustee’s meetings. [OF ALL SEATTLE COLLEGES OR SOMETHING]
+- Represented over 8,000 student constituents to address their needs and concerns presiding over 30 officer meetings and delivering reports at 9 district wide board of trustee’s meetings for all Seattle Colleges.
 - Oversaw change of leadership for officer team, including retraining and redistribution of responsibilities, and led hiring process for filling vacant positions with 40+ candidate applicants.
 - Managed a team of 7 officers and 50+ volunteers to design and implement over 15 events primarily focusing on advocacy, education, recreation, and volunteering.
 

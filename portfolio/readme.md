@@ -29,11 +29,11 @@ Here is a collection of data science projects I have done, ranging from course w
 <br/><br/>
 
 <a href="/portfolio/spotify/">
-  <img src="/assets/img/spotify/spotify_card.png"  alt="Spotify Project" class="box">
+  <img src="/assets/img/spotify/spotify_card.jpg"  alt="Spotify Project" class="box">
 </a>
 
 <br>
 
 <a href="/portfolio/caraccident/">
-  <img src="/assets/img/caraccident/caraccident_card.png"  alt="Car Accident Project" class="box">
+  <img src="/assets/img/caraccident/caraccident_card.jpg"  alt="Car Accident Project" class="box">
 </a>
