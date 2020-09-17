@@ -14,6 +14,13 @@ sitemap: false
   center;
 }
 
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
 * {
   box-sizing: border-box;
 }
@@ -116,7 +123,9 @@ As the information was compiled directly from Spotify, it was already clean, so 
 
 <div class="row">
     <div class="column40">
-      <img src="/assets/img/spotify/spotify_valence.png" style ="padding-right: 15px;">
+      <figure>
+        <img src="/assets/img/spotify/spotify_valence.png" style ="padding-right: 15px;">
+      </figure>
     </div>
     <div class="column60">
       <p style="text-align: justify;">Although the data was straightforward, evaluating it was more complicated. Beginning with a correlation matrix, I observed the variables to get an estimate on which ones should be focused on, but few were strongly correlated. However, I was able to determine a few to work with and looked at their distributions. Some were extremely straightforward, such as valence, but others, like instrumentalness, were not Gaussian and required normalization.</p>
@@ -129,7 +138,9 @@ As the information was compiled directly from Spotify, it was already clean, so 
       </p>
     </div>
     <div class="column50">
-      <img src="/assets/img/spotify/spotify_speechiness.png" style ="padding-left: 15px;">
+      <figure>
+        <img src="/assets/img/spotify/spotify_speechiness.png" style ="padding-left: 15px;">
+      </figure>
     </div>
 </div>
 

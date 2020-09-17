@@ -14,6 +14,17 @@ sitemap: false
   center;
 }
 
+p {
+  text-align: justify;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
 * {
   box-sizing: border-box;
 }
