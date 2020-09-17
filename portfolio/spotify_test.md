@@ -18,20 +18,84 @@ sitemap: false
   box-sizing: border-box;
 }
 
-.row {
-  display: flex;
+.column25 {
+  float: left;
+  width: 25%;
+  padding: 10px;
 }
 
-.aligncenter {
-    text-align: center;
+.column30 {
+  float: left;
+  width: 30%;
+  padding: 10px;
 }
 
-.verticalhorizontal {
-    display: table-cell;
-    text-align: center;
+.column40 {
+  float: left;
+  width: 40%;
+  padding: 10px;
+}
+
+.column50 {
+  float: left;
+  width: 50%;
+  padding: 10px;
+}
+
+.column60 {
+  float: left;
+  width: 60%;
+  padding: 10px;
+}
+
+.column70 {
+  float: left;
+  width: 70%;
+  padding: 10px;
+}
+
+.column75 {
+  float: left;
+  width: 75%;
+  padding: 10px;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+
+@media screen and (max-width: 600px) {
+  .column25 {
+    width: 100%;
+  }
+  .column30 {
+    width: 100%;
+  }
+  .column40 {
+    width: 100%;
+  }
+  .column50 {
+    width: 100%;
+  }
+  .column60 {
+    width: 100%;
+  }
+  .column70 {
+    width: 100%;
+  }
+  .column75 {
+    width: 100%;
+  }
+}
+
+.helper {
+    display: inline-block;
+    height: 100%;
     vertical-align: middle;
 }
-
 
 </style>
 
@@ -42,7 +106,14 @@ sitemap: false
 
 ### Test
 
-
+<div class="row">
+    <div class="column40">
+      <img src="/assets/img/spotify/spotify_valence.png" style ="padding-right: 15px; vertical-align: center;">
+    </div>
+    <div class="column60">
+      <p style="text-align: justify;">Although the data was straightforward, evaluating it was more complicated. Beginning with a correlation matrix, I observed the variables to get an estimate on which ones should be focused on, but few were strongly correlated. However, I was able to determine a few to work with and looked at their distributions. Some were extremely straightforward, such as valence, but others, like instrumentalness, were not Gaussian and required normalization.</p>
+    </div>
+</div>
 
 
 ### Overview
@@ -58,22 +129,22 @@ As the information was compiled directly from Spotify, it was already clean, so 
 ### Analysis
 
 <div class="row">
-    <div style="flex: 40%;"><p class="verticalhorizontal" style="height:300px; width:300px;">
+    <div class="column40">
       <img src="/assets/img/spotify/spotify_valence.png" style ="padding-right: 15px;">
-    </p></div>
-    <div style="flex: 60%;">
-      <p>Although the data was straightforward, evaluating it was more complicated. Beginning with a correlation matrix, I observed the variables to get an estimate on which ones should be focused on, but few were strongly correlated. However, I was able to determine a few to work with and looked at their distributions. Some were extremely straightforward, such as valence, but others, like instrumentalness, were not Gaussian and required normalization.</p>
+    </div>
+    <div class="column60">
+      <p style="text-align: justify;">Although the data was straightforward, evaluating it was more complicated. Beginning with a correlation matrix, I observed the variables to get an estimate on which ones should be focused on, but few were strongly correlated. However, I was able to determine a few to work with and looked at their distributions. Some were extremely straightforward, such as valence, but others, like instrumentalness, were not Gaussian and required normalization.</p>
     </div>
 </div>
 
 <div class="row">
-    <div style="flex: 60%;">
-      <p>Next, I used dbscan from sklearn to perform outlier detection, but most values fit inside the normal distribution. Speechiness, or how much speech without music, had the most outliers, but was extremely low with only 46 out of 2,017 values or 2.28%. I hypothesized that these values could come from podcasts and removed them as they affected the distribution and trend lines without providing a significant impact on the data.
+    <div class="column50">
+      <p style="text-align: justify;">Next, I used dbscan from sklearn to perform outlier detection, but most values fit inside the normal distribution. Speechiness, or how much speech without music, had the most outliers, but was extremely low with only 46 out of 2,017 values or 2.28%. I hypothesized that these values could come from podcasts and removed them as they affected the distribution and trend lines without providing a significant impact on the data.
       </p>
     </div>
-    <div style="flex: 40%;"><p class="verticalhorizontal" style="height:250px; width:400px;">
+    <div class="column50">
       <img src="/assets/img/spotify/spotify_speechiness.png" style ="padding-left: 15px;">
-    </p></div>
+    </div>
 </div>
 
 To perform the analysis, I used RFE, or recursive feature elimination, from sklearn to automatically tune the model, finding the best result based on cross validation. Once optimized, the logistic regression model reached 67.6% accuracy on the train data and 63% on the test data. While the results were not exceedingly excellent, the model did outperform the naïve approach making it a success, especially considering how complex musical tastes are.
