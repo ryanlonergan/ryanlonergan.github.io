@@ -91,12 +91,6 @@ sitemap: false
   }
 }
 
-.helper {
-    display: inline-block;
-    height: 100%;
-    vertical-align: middle;
-}
-
 </style>
 
 * This unordered list will be replaced by the table of contents
