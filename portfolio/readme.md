@@ -37,3 +37,9 @@ Here is a collection of data science projects I have done, ranging from course w
 <a href="/portfolio/caraccident/">
   <img src="/assets/img/caraccident/caraccident_card.jpg"  alt="Car Accident Project" class="box">
 </a>
+
+<br>
+
+<a href="/portfolio/miniprojects/miniprojects/">
+  <img src="/assets/img/miniprojects/miniprojects_card.jpg"  alt="Mini-Projects" class="box">
+</a>
