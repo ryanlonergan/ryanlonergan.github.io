@@ -14,6 +14,17 @@ sitemap: false
   center;
 }
 
+p {
+  text-align: justify;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
 </style>
 
 
@@ -22,7 +33,6 @@ sitemap: false
 
 
 <img src="/assets/img/caraccident/caraccident_cover.jpg"  alt="Car Accident Project" class="banner">
-
 
 
 ### Overview
@@ -56,9 +66,14 @@ From exploring the remaining variables, I found that many of them did not have a
 Additionally, there was geographic information contained in the data set, including cross street and coordinates. Using the street data, I first generated a list of where the most collisions occurred. However, this information did not prove to be very useful as it was difficult to find hotspots based solely on street name. Instead, I used Tableau to create a heatmap based on the latitude and longitude. This style was much easier to read as darker colors represented trouble spots that should have greater focus than others.
 </p>
 
-<img src="/assets/img/caraccident/caraccident_conditions.jpg"  alt="Car Accident Conditions" style="center">
-
-<img src="/assets/img/caraccident/caraccident_heatmap.jpg"  alt="Car Accident Heatmap">
+<figure>
+  <img src="/assets/img/caraccident/caraccident_conditions.jpg"  alt="Car Accident Conditions" width="50%">
+  <figcaption>Car Accident Severity by Condition Type</figcaption>
+</figure>
+<figure>
+  <img src="/assets/img/caraccident/caraccident_heatmap.jpg"  alt="Car Accident Heatmap">
+  <figcaption>Car Accident Heatmap for Seattle</figcaption>
+</figure>
 
 ### Outcome
 
