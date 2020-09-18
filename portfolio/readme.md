@@ -40,6 +40,6 @@ Here is a collection of data science projects I have done, ranging from course w
 
 <br>
 
-<a href="/portfolio/miniprojects/miniprojects/">
+<a href="/portfolio/miniprojects/">
   <img src="/assets/img/miniprojects/miniprojects_card.jpg"  alt="Mini-Projects" class="box">
 </a>

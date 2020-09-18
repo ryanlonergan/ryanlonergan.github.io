@@ -118,6 +118,17 @@ Description
 <br>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. In nulla posuere sollicitudin aliquam ultrices sagittis orci. Cursus sit amet dictum sit. Lacus luctus accumsan tortor posuere ac ut consequat semper viverra. Non blandit massa enim nec dui nunc. Pellentesque adipiscing commodo elit at imperdiet dui accumsan. Integer vitae justo eget magna fermentum. Aliquam nulla facilisi cras fermentum odio. Sodales neque sodales ut etiam sit amet. Viverra mauris in aliquam sem fringilla ut. Vel risus commodo viverra maecenas accumsan lacus vel facilisis. Etiam tempor orci eu lobortis elementum. Tristique risus nec feugiat in fermentum posuere urna nec.
 
+### test
+
+<a href="/portfolio/miniprojects/iris_classification/">Iris Classification</a>
+
+<a href="/portfolio/miniprojects/customer_clustering/">Customer Clustering</a>
+
+<a href="/portfolio/miniprojects/rps_classification/">Rock Paper Scissors Image Classification</a>
+
+
+
+
 ### Project 1
 
 <p class="justify">
