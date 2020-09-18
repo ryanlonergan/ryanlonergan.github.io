@@ -107,26 +107,38 @@ sitemap: false
 * This unordered list will be replaced by the table of contents
 {:toc}
 
-<img src="/assets/img/miniprojects/miniprojects_cover.jpg"  alt="Mini-Projects" class="banner">
 
-<br><br>
+
+
 
 This page is still under construction. Check back soon!
 {:.note}
 
-Description
+<br>
+
+<img src="/assets/img/miniprojects/miniprojects_cover.jpg"  alt="Mini-Projects" class="banner">
+
+<br>
+
+### Project Links
+
+The pages for these projects are not fully finished. I am just linking them now in case someone is curious about my work. Check back later if you would like to see the completed versions.
+{:.note}
+
+- <a href="/portfolio/miniprojects/rps_classification/">Rock Paper Scissors Image Classification</a>
+  - <a href="https://github.com/ryanlonergan/portfolio_repo/tree/master/rps_classification" target="_blank">Github</a>
+
+- <a href="/portfolio/miniprojects/iris_classification/">Iris Classification</a>
+  - <a href="https://github.com/ryanlonergan/portfolio_repo/tree/master/iris_classification" target="_blank">Github</a>
+
+- <a href="/portfolio/miniprojects/customer_clustering/">Customer Clustering</a>
+  - <a href="https://github.com/ryanlonergan/portfolio_repo/tree/master/customer_clustering" target="_blank">Github</a>
+
+
+
+### Description
 <br>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. In nulla posuere sollicitudin aliquam ultrices sagittis orci. Cursus sit amet dictum sit. Lacus luctus accumsan tortor posuere ac ut consequat semper viverra. Non blandit massa enim nec dui nunc. Pellentesque adipiscing commodo elit at imperdiet dui accumsan. Integer vitae justo eget magna fermentum. Aliquam nulla facilisi cras fermentum odio. Sodales neque sodales ut etiam sit amet. Viverra mauris in aliquam sem fringilla ut. Vel risus commodo viverra maecenas accumsan lacus vel facilisis. Etiam tempor orci eu lobortis elementum. Tristique risus nec feugiat in fermentum posuere urna nec.
-
-### test
-
-<a href="/portfolio/miniprojects/iris_classification/">Iris Classification</a>
-
-<a href="/portfolio/miniprojects/customer_clustering/">Customer Clustering</a>
-
-<a href="/portfolio/miniprojects/rps_classification/">Rock Paper Scissors Image Classification</a>
-
-
 
 
 ### Project 1
