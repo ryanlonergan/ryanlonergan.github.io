@@ -29,7 +29,8 @@ cover: true
 </style>
 
 
-<img src="/assets/img/github_button.png" alt="test">
+Still working on this page
+{:.note}
 
 
 <p class="justify">
@@ -38,5 +39,3 @@ cover: true
   I recently attained a Master of Science in Information Systems degree from the University of Washington’s Michael G. Foster School of Business and am eager to apply my analytical skills.
 
 </p>
-
-<img src="/assets/img/github_button.png" width="200" alt="test"> <!-- This Size -->

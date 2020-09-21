@@ -101,6 +101,20 @@ sitemap: false
   }
 }
 
+.button {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  center;
+}
+
+.button:hover{
+  position: relative;
+  top: -1px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.15), 0 6px 10px 0 rgba(0, 0, 0, 0.15);
+}
+
+
 </style>
 
 
@@ -126,13 +140,33 @@ The pages for these projects are not fully finished. I am just linking them now 
 {:.note}
 
 - <a href="/portfolio/miniprojects/rps_classification/">Rock Paper Scissors Image Classification</a>
-  - <a href="https://github.com/ryanlonergan/portfolio_repo/tree/master/rps_classification" target="_blank">Github</a>
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  <div class="row">
+    <div class="column50">
+      <a href="https://github.com/ryanlonergan/portfolio_repo/tree/master/rps_classification" target="_blank">
+        <img src="/assets/img/github_button.png" width="200" alt="View on GitHub" class="button">
+      </a>
+    </div>
+    <div class="column50">
+      <a href="https://github.com/ryanlonergan/portfolio_repo/tree/master/rps_classification" target="_blank">
+        <img src="/assets/img/github_button.png" width="200" class="button">
+      </a>
+    </div>
+  </div>
 
 - <a href="/portfolio/miniprojects/iris_classification/">Iris Classification</a>
-  - <a href="https://github.com/ryanlonergan/portfolio_repo/tree/master/iris_classification" target="_blank">Github</a>
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  <br>
+  <a href="https://github.com/ryanlonergan/portfolio_repo/tree/master/iris_classification" target="_blank">
+    <img src="/assets/img/github_button.png" width="200" alt="View on GitHub" class="button">
+  </a>
 
 - <a href="/portfolio/miniprojects/customer_clustering/">Customer Clustering</a>
-  - <a href="https://github.com/ryanlonergan/portfolio_repo/tree/master/customer_clustering" target="_blank">Github</a>
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  <br>
+  <a href="https://github.com/ryanlonergan/portfolio_repo/tree/master/customer_clustering" target="_blank">
+    <img src="/assets/img/github_button.png" width="200" alt="View on GitHub" class="button">
+  </a>
 
 
 
