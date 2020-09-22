@@ -149,7 +149,7 @@ The pages for these projects are not fully finished. I am just linking them now 
     </div>
     <div class="column50">
       <a href="https://github.com/ryanlonergan/portfolio_repo/tree/master/rps_classification" target="_blank">
-        <img src="/assets/img/github_button.png" width="200" class="button">
+        <img src="/assets/img/github_button.png" width="200" class="button" />
       </a>
     </div>
   </div>
@@ -165,15 +165,24 @@ The pages for these projects are not fully finished. I am just linking them now 
   - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
   <br>
   <a href="https://github.com/ryanlonergan/portfolio_repo/tree/master/customer_clustering" target="_blank">
-    <img src="/assets/img/github_button.png" width="200" alt="View on GitHub" class="button">
+    <img src="/assets/img/github_button.png" width="200" alt="View on GitHub" class="button" />
   </a>
-
 
 
 ### Description
 <br>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. In nulla posuere sollicitudin aliquam ultrices sagittis orci. Cursus sit amet dictum sit. Lacus luctus accumsan tortor posuere ac ut consequat semper viverra. Non blandit massa enim nec dui nunc. Pellentesque adipiscing commodo elit at imperdiet dui accumsan. Integer vitae justo eget magna fermentum. Aliquam nulla facilisi cras fermentum odio. Sodales neque sodales ut etiam sit amet. Viverra mauris in aliquam sem fringilla ut. Vel risus commodo viverra maecenas accumsan lacus vel facilisis. Etiam tempor orci eu lobortis elementum. Tristique risus nec feugiat in fermentum posuere urna nec.
 
+
+#### Testing getting rid of link indicator
+
+<a href="/portfolio/miniprojects/customer_clustering/" target="_blank">
+  <img src="/assets/img/github_button.png" width="200" class="button">
+</a>
+
+<a href="https://github.com/ryanlonergan/portfolio_repo/tree/master/rps_classification">
+  <img src="/assets/img/github_button.png" width="200" class="button" alt="" />
+</a>
 
 ### Project 1
 
