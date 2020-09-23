@@ -106,6 +106,7 @@ sitemap: false
   margin-left: auto;
   margin-right: auto;
   center;
+  width: 175px;
 }
 
 .button:hover{
@@ -117,16 +118,36 @@ sitemap: false
 
 </style>
 
-
-* This unordered list will be replaced by the table of contents
-{:toc}
-
-
-
-
+* [Rock Paper Scissors Image Classification](#rps)
+{:.toc}
 
 This page is still under construction. Check back soon!
 {:.note}
+
+
+<a class="anchor" id="rps"></a>
+<p style="display: inline;">
+  <b>
+  <a href="/portfolio/miniprojects/rps_classification/">Rock Paper Scissors Image Classification</a>
+  </b>
+  <img src="/assets/icons/python.png" width="100">
+  <ul><li style="list-style-type: none;">
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  <div class="row">
+    <div class="column50">
+      <a href="/portfolio/miniprojects/rps_classification/">
+        <img src="/assets/img/project_button.png" alt="View Project" class="button">
+      </a>
+    </div>
+    <div class="column50">
+      <a href="https://github.com/ryanlonergan/portfolio_repo/tree/master/rps_classification" target="_blank">
+        <img src="/assets/img/github_button.png" class="button" alt="View on GitHub">
+      </a>
+    </div>
+    </li></ul></p>
+  </div>
+
+
 
 <br>
 
@@ -134,39 +155,72 @@ This page is still under construction. Check back soon!
 
 <br>
 
-### Project Links
-
 The pages for these projects are not fully finished. I am just linking them now in case someone is curious about my work. Check back later if you would like to see the completed versions.
 {:.note}
 
-- <a href="/portfolio/miniprojects/rps_classification/">Rock Paper Scissors Image Classification</a>
-  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+<p style="display: inline;">
+  <b>
+  <a href="/portfolio/miniprojects/rps_classification/">Rock Paper Scissors Image Classification</a>
+  </b>
+  <img src="/assets/icons/python.png" width="100">
+  <ul><li style="list-style-type: none;">
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
   <div class="row">
     <div class="column50">
-      <a href="https://github.com/ryanlonergan/portfolio_repo/tree/master/rps_classification" target="_blank">
-        <img src="/assets/img/github_button.png" width="200" alt="View on GitHub" class="button">
+      <a href="/portfolio/miniprojects/rps_classification/">
+        <img src="/assets/img/project_button.png" alt="View Project" class="button">
       </a>
     </div>
     <div class="column50">
       <a href="https://github.com/ryanlonergan/portfolio_repo/tree/master/rps_classification" target="_blank">
-        <img src="/assets/img/github_button.png" width="200" class="button" />
+        <img src="/assets/img/github_button.png" class="button" alt="View on GitHub">
       </a>
     </div>
   </div>
+</li></ul></p>
 
-- <a href="/portfolio/miniprojects/iris_classification/">Iris Classification</a>
-  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-  <br>
-  <a href="https://github.com/ryanlonergan/portfolio_repo/tree/master/iris_classification" target="_blank">
-    <img src="/assets/img/github_button.png" width="200" alt="View on GitHub" class="button">
-  </a>
+
+#### <a href="/portfolio/miniprojects/iris_classification/">Iris Classification</a> &nbsp;&nbsp;&nbsp;
+<img src="/assets/icons/python.png" width="100">
+
+<p style="display: inline;">
+  <b>
+  <a href="/portfolio/miniprojects/iris_classification/">Iris Classification</a>
+  <img src="/assets/icons/python.png" width="100">
+  </b>
+  <ul><li style="list-style-type: none;">
+    This project examined the iris dataset and explored different methods for classification, including: a basic decision tree classifier, Random Forest, AdaBoost and Gradient Boosting. It also examined different hyper-parameters to find the best model through GridSearchCV.
+  <div class="row">
+    <div class="column50">
+      <a href="/portfolio/miniprojects/iris_classification/">
+        <img src="/assets/img/project_button.png" alt="View Project" class="button">
+      </a>
+    </div>
+    <div class="column50">
+      <a href="https://github.com/ryanlonergan/portfolio_repo/tree/master/iris_classification" target="_blank">
+        <img src="/assets/img/github_button.png" class="button" alt="View on GitHub">
+      </a>
+    </div>
+  </div>
+</li></ul></p>
+
+
 
 - <a href="/portfolio/miniprojects/customer_clustering/">Customer Clustering</a>
   - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-  <br>
-  <a href="https://github.com/ryanlonergan/portfolio_repo/tree/master/customer_clustering" target="_blank">
-    <img src="/assets/img/github_button.png" width="200" alt="View on GitHub" class="button" />
-  </a>
+  <div class="row">
+    <div class="column50">
+      <a href="/portfolio/miniprojects/customer_clustering/" target="_blank">
+        <img src="/assets/img/project_button.png" width="200" alt="View Project" class="button">
+      </a>
+    </div>
+    <div class="column50">
+      <a href="https://github.com/ryanlonergan/portfolio_repo/tree/master/customer_clustering" target="_blank">
+        <img src="/assets/img/github_button.png" width="200" class="button" alt="View on GitHub">
+      </a>
+    </div>
+  </div>
 
 
 ### Description
