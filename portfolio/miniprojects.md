@@ -118,11 +118,11 @@ sitemap: false
 
 </style>
 
-*Table of Contents*
-* [Rock Paper Scissors Image Classification](#rps)
-* [Iris Classification](#Iris)
-* [Customer Clustering](#customer)
-
+[&bull; Rock Paper Scissors Image Classification](#rps)<br>
+[&bull; Iris Classification](#Iris)<br>
+[&bull; Customer Clustering](#customer)<br>
+{:.note title="Table of Contents"}
+{:toc}
 
 <br><br>
 
