@@ -32,7 +32,7 @@ ___
 </p>
 
 <p style="text-align: left;"><b>
-    Bachelor of Art in Business Administration
+    Bachelor of Arts in Business Administration
     <span style="float: right;">
         June 2019
     </span></b><br>
