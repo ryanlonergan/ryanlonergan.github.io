@@ -118,54 +118,35 @@ sitemap: false
 
 </style>
 
+*Table of Contents*
 * [Rock Paper Scissors Image Classification](#rps)
-{:.toc}
+* [Iris Classification](#Iris)
+* [Customer Clustering](#customer)
 
-This page is still under construction. Check back soon!
+
+<br><br>
+
+The pages for these projects are not fully finished and are under construction. I am just linking them now in case someone is curious about my work. Check back later if you would like to see the completed versions.
 {:.note}
 
+<br>
+
+
+<img src="/assets/img/miniprojects/miniprojects_cover.jpg"  alt="Mini-Projects" class="banner">
+
+
+
+
+<br>
 
 <a class="anchor" id="rps"></a>
 <p style="display: inline;">
   <b>
   <a href="/portfolio/miniprojects/rps_classification/">Rock Paper Scissors Image Classification</a>
-  </b>
-  <img src="/assets/icons/python.png" width="100">
+  </b> &nbsp;&nbsp;&nbsp;
+  <img src="/assets/icons/python.png" width="75">
   <ul><li style="list-style-type: none;">
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-  <div class="row">
-    <div class="column50">
-      <a href="/portfolio/miniprojects/rps_classification/">
-        <img src="/assets/img/project_button.png" alt="View Project" class="button">
-      </a>
-    </div>
-    <div class="column50">
-      <a href="https://github.com/ryanlonergan/portfolio_repo/tree/master/rps_classification" target="_blank">
-        <img src="/assets/img/github_button.png" class="button" alt="View on GitHub">
-      </a>
-    </div>
-    </li></ul></p>
-  </div>
-
-
-
-<br>
-
-<img src="/assets/img/miniprojects/miniprojects_cover.jpg"  alt="Mini-Projects" class="banner">
-
-<br>
-
-The pages for these projects are not fully finished. I am just linking them now in case someone is curious about my work. Check back later if you would like to see the completed versions.
-{:.note}
-
-
-<p style="display: inline;">
-  <b>
-  <a href="/portfolio/miniprojects/rps_classification/">Rock Paper Scissors Image Classification</a>
-  </b>
-  <img src="/assets/icons/python.png" width="100">
-  <ul><li style="list-style-type: none;">
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  This project took images of rock paper scissors gestures and created image classification models  through Keras with TensorFlow. It developed convolutional and full connected neural networks to compare performance against the different methods.
   <div class="row">
     <div class="column50">
       <a href="/portfolio/miniprojects/rps_classification/">
@@ -180,14 +161,13 @@ The pages for these projects are not fully finished. I am just linking them now 
   </div>
 </li></ul></p>
 
-
-#### <a href="/portfolio/miniprojects/iris_classification/">Iris Classification</a> &nbsp;&nbsp;&nbsp;
-<img src="/assets/icons/python.png" width="100">
+<br>
 
 <p style="display: inline;">
   <b>
   <a href="/portfolio/miniprojects/iris_classification/">Iris Classification</a>
-  <img src="/assets/icons/python.png" width="100">
+  &nbsp;&nbsp;&nbsp;
+  <img src="/assets/icons/python.png" width="75">
   </b>
   <ul><li style="list-style-type: none;">
     This project examined the iris dataset and explored different methods for classification, including: a basic decision tree classifier, Random Forest, AdaBoost and Gradient Boosting. It also examined different hyper-parameters to find the best model through GridSearchCV.
@@ -205,63 +185,24 @@ The pages for these projects are not fully finished. I am just linking them now 
   </div>
 </li></ul></p>
 
+<br>
 
-
-- <a href="/portfolio/miniprojects/customer_clustering/">Customer Clustering</a>
-  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<p style="display: inline;">
+  <b>
+  <a href="/portfolio/miniprojects/customer_clustering/">Customer Clustering</a>
+  </b> &nbsp;&nbsp;&nbsp;
+  <img src="/assets/icons/python.png" width="75">
+  <ul><li style="list-style-type: none;">
+  This project took a customer dataset and explored how the number of clusters affected its results. It used dendograms and SSE curve charts to determine the optimal number of clusters for a 2-D subset of the data.
   <div class="row">
     <div class="column50">
-      <a href="/portfolio/miniprojects/customer_clustering/" target="_blank">
-        <img src="/assets/img/project_button.png" width="200" alt="View Project" class="button">
+      <a href="/portfolio/miniprojects/customer_classification/">
+        <img src="/assets/img/project_button.png" alt="View Project" class="button">
       </a>
     </div>
     <div class="column50">
       <a href="https://github.com/ryanlonergan/portfolio_repo/tree/master/customer_clustering" target="_blank">
         <img src="/assets/img/github_button.png" width="200" class="button" alt="View on GitHub">
       </a>
-    </div>
+   </div>
   </div>
-
-
-### Description
-<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. In nulla posuere sollicitudin aliquam ultrices sagittis orci. Cursus sit amet dictum sit. Lacus luctus accumsan tortor posuere ac ut consequat semper viverra. Non blandit massa enim nec dui nunc. Pellentesque adipiscing commodo elit at imperdiet dui accumsan. Integer vitae justo eget magna fermentum. Aliquam nulla facilisi cras fermentum odio. Sodales neque sodales ut etiam sit amet. Viverra mauris in aliquam sem fringilla ut. Vel risus commodo viverra maecenas accumsan lacus vel facilisis. Etiam tempor orci eu lobortis elementum. Tristique risus nec feugiat in fermentum posuere urna nec.
-
-
-#### Testing getting rid of link indicator
-
-<a href="/portfolio/miniprojects/customer_clustering/" target="_blank">
-  <img src="/assets/img/github_button.png" width="200" class="button">
-</a>
-
-<a href="https://github.com/ryanlonergan/portfolio_repo/tree/master/rps_classification">
-  <img src="/assets/img/github_button.png" width="200" class="button" alt="" />
-</a>
-
-### Project 1
-
-<p class="justify">
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. In nulla posuere sollicitudin aliquam ultrices sagittis orci. Cursus sit amet dictum sit. Lacus luctus accumsan tortor posuere ac ut consequat semper viverra. Non blandit massa enim nec dui nunc. Pellentesque adipiscing commodo elit at imperdiet dui accumsan. Integer vitae justo eget magna fermentum. Aliquam nulla facilisi cras fermentum odio. Sodales neque sodales ut etiam sit amet. Viverra mauris in aliquam sem fringilla ut. Vel risus commodo viverra maecenas accumsan lacus vel facilisis. Etiam tempor orci eu lobortis elementum. Tristique risus nec feugiat in fermentum posuere urna nec.
-  <br><br>
-  In fermentum et sollicitudin ac orci phasellus egestas. Scelerisque purus semper eget duis at tellus at urna. Pretium aenean pharetra magna ac placerat vestibulum lectus. Lorem ipsum dolor sit amet consectetur adipiscing elit duis. Suspendisse faucibus interdum posuere lorem ipsum. Et sollicitudin ac orci phasellus egestas tellus. Elit pellentesque habitant morbi tristique senectus et. Gravida quis blandit turpis cursus in hac habitasse platea dictumst. Platea dictumst quisque sagittis purus sit amet volutpat consequat mauris. Iaculis at erat pellentesque adipiscing commodo elit.
-  <br><br>
-  Gravida quis blandit turpis cursus in. Pharetra magna ac placerat vestibulum lectus mauris ultrices eros in. Euismod elementum nisi quis eleifend. Mi bibendum neque egestas congue quisque egestas diam in. Mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare. Ut ornare lectus sit amet est placerat in egestas. Eget gravida cum sociis natoque penatibus. Eu nisl nunc mi ipsum faucibus vitae aliquet. Et ligula ullamcorper malesuada proin libero nunc consequat interdum. Nulla posuere sollicitudin aliquam ultrices. Non tellus orci ac auctor augue mauris. Convallis aenean et tortor at risus. Vivamus at augue eget arcu dictum varius duis at. Quisque non tellus orci ac. Tincidunt vitae semper quis lectus. Praesent tristique magna sit amet. Non quam lacus suspendisse faucibus interdum posuere. Vulputate odio ut enim blandit volutpat. Donec massa sapien faucibus et molestie.
-  <br><br>
-  Volutpat diam ut venenatis tellus. Volutpat sed cras ornare arcu dui vivamus arcu. Quis eleifend quam adipiscing vitae. Nec tincidunt praesent semper feugiat nibh sed pulvinar. Lobortis elementum nibh tellus molestie nunc non blandit massa. Nisi est sit amet facilisis magna. Porttitor rhoncus dolor purus non enim praesent. Purus sit amet volutpat consequat. Habitant morbi tristique senectus et netus et. Faucibus turpis in eu mi. Eget velit aliquet sagittis id consectetur purus ut. Semper viverra nam libero justo. Etiam sit amet nisl purus in mollis nunc sed. Ac tortor dignissim convallis aenean et tortor at risus. Dictum non consectetur a erat nam at lectus urna. Massa eget egestas purus viverra accumsan in nisl. Fermentum leo vel orci porta.
-  <br><br>
-  Gravida cum sociis natoque penatibus et magnis dis parturient. Volutpat sed cras ornare arcu dui vivamus. Dui accumsan sit amet nulla facilisi morbi tempus. Tortor condimentum lacinia quis vel eros donec ac. Quis risus sed vulputate odio ut. In aliquam sem fringilla ut morbi tincidunt. Cras semper auctor neque vitae tempus. Eget nullam non nisi est sit amet facilisis. Euismod in pellentesque massa placerat duis ultricies lacus. Lectus mauris ultrices eros in cursus turpis massa. Ac turpis egestas sed tempus urna et pharetra. Magna fermentum iaculis eu non diam phasellus vestibulum. Accumsan lacus vel facilisis volutpat. Justo donec enim diam vulputate ut pharetra sit. Curabitur gravida arcu ac tortor dignissim convallis aenean et.
-</p>
-
-
-### Project 2
-
-Gravida cum sociis natoque penatibus et magnis dis parturient. Volutpat sed cras ornare arcu dui vivamus. Dui accumsan sit amet nulla facilisi morbi tempus. Tortor condimentum lacinia quis vel eros donec ac. Quis risus sed vulputate odio ut. In aliquam sem fringilla ut morbi tincidunt. Cras semper auctor neque vitae tempus. Eget nullam non nisi est sit amet facilisis. Euismod in pellentesque massa placerat duis ultricies lacus. Lectus mauris ultrices eros in cursus turpis massa. Ac turpis egestas sed tempus urna et pharetra. Magna fermentum iaculis eu non diam phasellus vestibulum. Accumsan lacus vel facilisis volutpat. Justo donec enim diam vulputate ut pharetra sit. Curabitur gravida arcu ac tortor dignissim convallis aenean et.
-
-
-### Project 3
-
-Gravida cum sociis natoque penatibus et magnis dis parturient. Volutpat sed cras ornare arcu dui vivamus. Dui accumsan sit amet nulla facilisi morbi tempus. Tortor condimentum lacinia quis vel eros donec ac. Quis risus sed vulputate odio ut. In aliquam sem fringilla ut morbi tincidunt. Cras semper auctor neque vitae tempus. Eget nullam non nisi est sit amet facilisis. Euismod in pellentesque massa placerat duis ultricies lacus. Lectus mauris ultrices eros in cursus turpis massa. Ac turpis egestas sed tempus urna et pharetra. Magna fermentum iaculis eu non diam phasellus vestibulum. Accumsan lacus vel facilisis volutpat. Justo donec enim diam vulputate ut pharetra sit. Curabitur gravida arcu ac tortor dignissim convallis aenean et.
-
-### Project 4
-
-Gravida cum sociis natoque penatibus et magnis dis parturient. Volutpat sed cras ornare arcu dui vivamus. Dui accumsan sit amet nulla facilisi morbi tempus. Tortor condimentum lacinia quis vel eros donec ac. Quis risus sed vulputate odio ut. In aliquam sem fringilla ut morbi tincidunt. Cras semper auctor neque vitae tempus. Eget nullam non nisi est sit amet facilisis. Euismod in pellentesque massa placerat duis ultricies lacus. Lectus mauris ultrices eros in cursus turpis massa. Ac turpis egestas sed tempus urna et pharetra. Magna fermentum iaculis eu non diam phasellus vestibulum. Accumsan lacus vel facilisis volutpat. Justo donec enim diam vulputate ut pharetra sit. Curabitur gravida arcu ac tortor dignissim convallis aenean et.
