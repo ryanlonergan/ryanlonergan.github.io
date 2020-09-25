@@ -14,6 +14,7 @@ sitemap: false
   margin-right: auto;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   center;
+  width: 75%;
 }
 
 .box:hover{
@@ -26,7 +27,7 @@ sitemap: false
 
 Here is a collection of data science projects I have done, ranging from course work to personal endeavors. Take a look and feel free to reach out if you have any questions, ideas or suggestions.
 
-<br/><br/>
+<br/>
 
 <a href="/portfolio/spotify/">
   <img src="/assets/img/spotify/spotify_card.jpg"  alt="Spotify Project" class="box">
