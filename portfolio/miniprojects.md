@@ -119,7 +119,7 @@ sitemap: false
 </style>
 
 [&bull; Rock Paper Scissors Image Classification](#rps)<br>
-[&bull; Iris Classification](#Iris)<br>
+[&bull; Iris Classification](#iris)<br>
 [&bull; Customer Clustering](#customer)<br>
 {:.note title="Table of Contents"}
 {:toc}
@@ -163,6 +163,7 @@ The pages for these projects are not fully finished and are under construction. 
 
 <br>
 
+<a class="anchor" id="iris"></a>
 <p style="display: inline;">
   <b>
   <a href="/portfolio/miniprojects/iris_classification/">Iris Classification</a>
@@ -187,6 +188,7 @@ The pages for these projects are not fully finished and are under construction. 
 
 <br>
 
+<a class="anchor" id="customer"></a>
 <p style="display: inline;">
   <b>
   <a href="/portfolio/miniprojects/customer_clustering/">Customer Clustering</a>
