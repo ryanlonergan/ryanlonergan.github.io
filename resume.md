@@ -68,7 +68,7 @@ Advanced Python
 </b>
 <ul><li style="list-style-type: none;">
 3+ years of experience<br>
-Matplotlib, NumPy, Pandas, SciPy, Seaborn
+BeautifulSoup, Matplotlib, NumPy, Pandas, SciPy, Scrapy, Seaborn
 </li></ul></p>
 
 <p style="display: inline;">
