@@ -1,7 +1,7 @@
 ---
 layout: about
 description: >
-  This page contains my details of my education, skills, work and so on.
+  This page contains my details of my education, skills, work and other qualifications.
 hide_description: true
 ---
 
@@ -32,7 +32,7 @@ ___
 </p>
 
 <p style="text-align: left;"><b>
-    Bachelor of Arts in Business Administration
+    Bachelor of Art in Business Administration
     <span style="float: right;">
         June 2019
     </span></b><br>
@@ -55,7 +55,7 @@ ___
 
 <p style="display: inline;">
 <b>
-Intermediate Machine Learning:
+Intermediate Machine Learning
 </b>
 <ul><li style="list-style-type: none;">
 2+ years of experience<br>
@@ -64,7 +64,7 @@ gbm, Keras, knn, NLTK, randomForest, SciKit-Learn
 
 <p style="display: inline;">
 <b>
-Advanced Python:
+Advanced Python
 </b>
 <ul><li style="list-style-type: none;">
 3+ years of experience<br>
@@ -73,7 +73,7 @@ Matplotlib, NumPy, Pandas, SciPy, Seaborn
 
 <p style="display: inline;">
 <b>
-Advanced SQL:
+Advanced SQL
 </b>
 <ul><li style="list-style-type: none;">
 3+ years of experience<br>
@@ -82,7 +82,7 @@ pgAdmin, PostgreSQL, MySQL, MySQL Workbench
 
 <p style="display: inline;">
 <b>
-Intermediate R:
+Intermediate R
 </b>
 <ul><li style="list-style-type: none;">
 4+ years of experience<br>
@@ -91,7 +91,7 @@ caret, dplyr, ggplot2, ggmap, tidyr
 
 <p style="display: inline;">
 <b>
-Advanced Excel:
+Advanced Excel
 </b>
 <ul><li style="list-style-type: none;">
 6+ years of experience<br>
@@ -100,7 +100,7 @@ Decisions Models, Forecasting, Linear & Non-Linear Programming, Optimization, St
 
 <p style="display: inline;">
 <b>
-Intermediate Tableau:
+Intermediate Tableau
 </b>
 <ul><li style="list-style-type: none;">
 2+ years of experience<br>
@@ -170,6 +170,13 @@ ___
 ___
 
 <p style="text-align: left;"><b>
+    <a href="https://myplan.uw.edu/course/#/courses/MSIS549" target="_blank">Machine Learning and Artificial Intelligence for Business Applications</a>
+    <span style="float: right;">
+        MSIS 549
+    </span></b></p>
+- *Course Description:* Covers machine learning, deep learning, and artificial intelligence algorithms for business applications. Students will learn the theory of deep learning and gain practical experience from building neural networks to solve big data problems in business.
+
+<p style="text-align: left;"><b>
     <a href="https://myplan.uw.edu/course/#/courses/MSIS522" target="_blank">Advanced Business Data Mining</a>
     <span style="float: right;">
         MSIS 522
@@ -198,6 +205,13 @@ ___
 - *Course Description:* Covers formulating and modeling business decision problems. Includes risk analysis, simulation, linear programming, and extensions.
 
 <p style="text-align: left;"><b>
+    <a href="https://myplan.uw.edu/course/#/courses/MSIS547" target="_blank">Managing in the Era of Cloud Computing</a>
+    <span style="float: right;">
+        MSIS 547
+    </span></b></p>
+- *Course Description:* Covers cloud computing; risks and benefits of information technology (IT) infrastructure; service and deployment models; virtualization and organizational impact; and cloud security.
+
+<p style="text-align: left;"><b>
     <a href="https://myplan.uw.edu/course/#/courses/MSIS523" target="_blank">Cyber Security Policy, Management and Compliance</a>
     <span style="float: right;">
         MSIS 523
@@ -217,20 +231,6 @@ ___
         MSIS 501
     </span></b></p>
 - *Course Description:* Discusses the role of information technology (IT) in the development and execution of business strategy that takes into account competitors, customers, and firm competencies (including IT capabilities). Examines the impact of IT on two sets of strategic issues for a company - where to compete and how to compete. Helps students develop tools to use IT in aiding strategy.
-
-<p style="text-align: left;"><b>
-    <a href="https://myplan.uw.edu/course/#/courses/MSIS549" target="_blank">Machine Learning and Artificial Intelligence for Business Applications</a>
-    <span style="float: right;">
-        MSIS 549
-    </span></b></p>
-- *Course Description:* Covers machine learning, deep learning, and artificial intelligence algorithms for business applications. Students will learn the theory of deep learning and gain practical experience from building neural networks to solve big data problems in business.
-
-<p style="text-align: left;"><b>
-    <a href="https://myplan.uw.edu/course/#/courses/MSIS547" target="_blank">Managing in the Era of Cloud Computing</a>
-    <span style="float: right;">
-        MSIS 547
-    </span></b></p>
-- *Course Description:* Covers cloud computing; risks and benefits of information technology (IT) infrastructure; service and deployment models; virtualization and organizational impact; and cloud security.
 
 <p style="text-align: left;"><b>
     <a href="https://myplan.uw.edu/course/#/courses/QMETH450" target="_blank">Spreadsheet Models for Managerial Decision Making</a>
