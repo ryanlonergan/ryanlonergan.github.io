@@ -198,7 +198,7 @@ The pages for these projects are not fully finished and are under construction. 
   This project took a customer dataset and explored how the number of clusters affected its results. It used dendograms and SSE curve charts to determine the optimal number of clusters for a 2-D subset of the data.
   <div class="row">
     <div class="column50">
-      <a href="/portfolio/miniprojects/customer_classification/">
+      <a href="/portfolio/miniprojects/customer_clustering/">
         <img src="/assets/img/project_button.png" alt="View Project" class="button">
       </a>
     </div>
