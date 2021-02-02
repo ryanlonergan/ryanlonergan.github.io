@@ -38,7 +38,7 @@ Creates a bundler gem and installs the required packages, i.e. jekyll. These com
 
 These commands are used to run the site each time you work on or update it. The "build" version builds the website immediately, creating the static pages needed for it to function. The "serve" version creates a server that automatically makes changes to the site as you work on. This method makes it extremely easy to see and test your changes in real time and is what I mostly use.
 
-### Github Pages
+### GitHub Pages
 
 <i>build issues<br>
 publish issues<br>
