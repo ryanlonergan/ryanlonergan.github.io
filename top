@@ -1,0 +1,395 @@
+[33mcommit 9329ec36d237c36ef3117d442b0e097655050560[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Ryan Lonergan <64630489+ryanlonergan@users.noreply.github.com>
+Date:   Tue Feb 2 00:03:40 2021 -0800
+
+    typo fix
+
+[33mcommit bdc55bff62372570dabeca29d1d78147d1980510[m
+Author: Ryan Lonergan <64630489+ryanlonergan@users.noreply.github.com>
+Date:   Tue Feb 2 00:03:34 2021 -0800
+
+    updated about me
+
+[33mcommit 0a0a85ee4f2085f5b4bea64e33ec4ac15274496e[m
+Author: Ryan Lonergan <64630489+ryanlonergan@users.noreply.github.com>
+Date:   Tue Feb 2 00:03:24 2021 -0800
+
+    updated copyright
+
+[33mcommit 3e533fd3c56f8211ae2483952b88fe35b9b3ab67[m
+Author: Ryan Lonergan <64630489+ryanlonergan@users.noreply.github.com>
+Date:   Mon Jan 25 20:07:33 2021 -0800
+
+    Update resources.md
+    
+    Changed some links
+
+[33mcommit bad88ddf0f41445c06f7099024b3b7c7535e221f[m
+Author: Ryan Lonergan <64630489+ryanlonergan@users.noreply.github.com>
+Date:   Mon Jan 25 20:07:24 2021 -0800
+
+    Update building.md
+    
+    first upload of content
+
+[33mcommit 2741a6b32df3b841136e5b77cc23cb6238fe3d15[m
+Author: Ryan Lonergan <64630489+ryanlonergan@users.noreply.github.com>
+Date:   Sun Oct 11 23:58:31 2020 -0400
+
+    fixed clustering link
+
+[33mcommit cabb8426700af9790d90272004b0f28e51240170[m
+Author: Ryan Lonergan <64630489+ryanlonergan@users.noreply.github.com>
+Date:   Sun Sep 27 17:41:15 2020 -0700
+
+    added packages to technical skills
+
+[33mcommit 9955c2f8deb7206eb1ce75b52fd815f0061cb852[m
+Author: Ryan Lonergan <64630489+ryanlonergan@users.noreply.github.com>
+Date:   Sun Sep 27 17:13:14 2020 -0700
+
+    fixed typo, list order and styling.
+
+[33mcommit a9173d20d93d05d45cd5fb395cf9b8ac547e1a8c[m
+Author: Ryan Lonergan <64630489+ryanlonergan@users.noreply.github.com>
+Date:   Fri Sep 25 16:38:39 2020 -0700
+
+    resized button images
+
+[33mcommit 4a0246eeab230abe4982ac0822a5701d1f54f88c[m
+Author: Ryan Lonergan <64630489+ryanlonergan@users.noreply.github.com>
+Date:   Fri Sep 25 16:34:27 2020 -0700
+
+    fixed anchor links
+
+[33mcommit f2d6b18ecd619cc0836b4f57ffd6d40a79936f5b[m
+Author: ryanlonergan <64630489+ryanlonergan@users.noreply.github.com>
+Date:   Tue Sep 22 22:47:14 2020 -0700
+
+    typo fix
+
+[33mcommit b743d9e61643cc82f0910056fc0822843f35879b[m
+Author: ryanlonergan <ryanjl@uw.edu>
+Date:   Tue Sep 22 22:12:20 2020 -0700
+
+    fixed toc formatting
+
+[33mcommit 0f9c9fc3720e62d3907fed7851e3cc2bb8623358[m
+Author: ryanlonergan <ryanjl@uw.edu>
+Date:   Tue Sep 22 22:03:19 2020 -0700
+
+    corrected links and lists
+
+[33mcommit e3e0f076587866c828592bfc48be0aa3416f7f24[m
+Author: ryanlonergan <ryanjl@uw.edu>
+Date:   Tue Sep 22 17:30:31 2020 -0700
+
+    fixed jekyll setting
+
+[33mcommit b5c3bf7175b3b93e243b26d7ad3caff60ac2bfac[m
+Author: ryanlonergan <ryanjl@uw.edu>
+Date:   Tue Sep 22 17:27:20 2020 -0700
+
+    added buttons and testing toc
+
+[33mcommit b6005b59f323cbcd5ad11a0020e119717d997145[m
+Author: ryanlonergan <ryanjl@uw.edu>
+Date:   Tue Sep 22 03:02:00 2020 -0700
+
+    testing getting rid of link indicator
+
+[33mcommit 77f9b641b0a5ce4893bbb2f4fa327f0163d1b609[m
+Author: ryanlonergan <ryanjl@uw.edu>
+Date:   Tue Sep 22 02:59:19 2020 -0700
+
+    testing link external indicator
+
+[33mcommit 32fb5c58f02d902025b687e9b53ed27331fb217b[m
+Author: ryanlonergan <ryanjl@uw.edu>
+Date:   Mon Sep 21 14:22:24 2020 -0700
+
+    fixed links
+
+[33mcommit 31130f2373ff0cde488168483197a2a546f616d7[m
+Author: ryanlonergan <ryanjl@uw.edu>
+Date:   Sat Sep 19 22:46:25 2020 -0700
+
+    updated button
+
+[33mcommit 8bf489ec54af73e9be9e4acb6309a97a59c2ef18[m
+Author: ryanlonergan <ryanjl@uw.edu>
+Date:   Sat Sep 19 19:16:03 2020 -0700
+
+    fixed file name for icon
+
+[33mcommit 35026eb8f0d21bc7c55e0a97ada6c4870a788cad[m
+Author: ryanlonergan <ryanjl@uw.edu>
+Date:   Sat Sep 19 18:55:06 2020 -0700
+
+    updated logos
+
+[33mcommit cf50de45e64bf15725306f71839a7054d070eac3[m
+Author: ryanlonergan <ryanjl@uw.edu>
+Date:   Sat Sep 19 15:41:09 2020 -0700
+
+    updated logo and pages
+
+[33mcommit 1def0fdef0314a962e863dd8c80c51a10898df28[m
+Author: ryanlonergan <ryanjl@uw.edu>
+Date:   Thu Sep 17 18:47:30 2020 -0700
+
+    added github links
+
+[33mcommit 914da97bda359640956fa937bc9703780971cac2[m
+Author: ryanlonergan <ryanjl@uw.edu>
+Date:   Thu Sep 17 18:27:24 2020 -0700
+
+    Added some miniprojects
+
+[33mcommit d0e797421539b0e9aec3c3104c10bf255004984b[m
+Author: ryanlonergan <ryanjl@uw.edu>
+Date:   Wed Sep 16 21:20:40 2020 -0700
+
+    Created mini-projects page
+
+[33mcommit 28e3e051ec0a23a3956ed5740f5223a1cccba3c1[m
+Author: ryanlonergan <ryanjl@uw.edu>
+Date:   Wed Sep 16 20:41:52 2020 -0700
+
+    fixed justify class
+
+[33mcommit e81dce51113126f6cba8f397c0de6461d456f6c6[m
+Author: ryanlonergan <ryanjl@uw.edu>
+Date:   Wed Sep 16 20:41:40 2020 -0700
+
+    added some images
+
+[33mcommit 1c294b90055148d632117290bace69aba172370d[m
+Author: ryanlonergan <ryanjl@uw.edu>
+Date:   Wed Sep 16 19:49:32 2020 -0700
+
+    Fixed figures
+
+[33mcommit d2e7ecd5bca499ed63f28caa0f5a9a617e3d774f[m
+Author: ryanlonergan <ryanjl@uw.edu>
+Date:   Wed Sep 16 19:49:17 2020 -0700
+
+    fixed p default and added center class
+
+[33mcommit 2ee72ede749a3b627125a4bab4c053cdc95f48f8[m
+Author: ryanlonergan <ryanjl@uw.edu>
+Date:   Wed Sep 16 18:40:39 2020 -0700
+
+    updated classes
+
+[33mcommit 78c3d6da8e4f4e473745255d47f9fb09f1b5f2c0[m
+Author: ryanlonergan <ryanjl@uw.edu>
+Date:   Mon Sep 14 03:30:27 2020 -0700
+
+    Update spotify.md
+
+[33mcommit b2dd3d60007dc34644bc0e7e05da4cd15b435509[m
+Author: ryanlonergan <ryanjl@uw.edu>
+Date:   Mon Sep 14 03:19:12 2020 -0700
+
+    update html code
+
+[33mcommit 07ffe131beeb75912e562ca92e7a700a215b673d[m
+Author: ryanlonergan <ryanjl@uw.edu>
+Date:   Mon Sep 14 02:18:10 2020 -0700
+
+    Update spotify_test.md
+
+[33mcommit 9098256f178ae182254bc855469db70ae675ccd3[m
+Author: ryanlonergan <ryanjl@uw.edu>
+Date:   Sun Sep 13 17:31:55 2020 -0700
+
+    fixed descriptions
+
+[33mcommit 64b78cb9c61e42986b05c2ff88f64d5471918dd3[m
+Author: ryanlonergan <ryanjl@uw.edu>
+Date:   Sun Sep 13 17:17:51 2020 -0700
+
+    created higher res images
+
+[33mcommit f62693e0fe2de637767b66fdc6ca6353104b1bc0[m
+Author: ryanlonergan <ryanjl@uw.edu>
+Date:   Sun Sep 13 00:38:10 2020 -0700
+
+    removed space
+
+[33mcommit 1a21f0764cc69fda0840e0cd290f69d15084fc43[m
+Author: ryanlonergan <ryanjl@uw.edu>
+Date:   Sun Sep 13 00:36:24 2020 -0700
+
+    Revert "created test file"
+    
+    This reverts commit db5ac13d7fec28c94a1bf00a7b1665affa302e01.
+
+[33mcommit 4c11ae9a8c4690ed63e88be740f6de88f5162db5[m
+Author: ryanlonergan <ryanjl@uw.edu>
+Date:   Sun Sep 13 00:36:11 2020 -0700
+
+    created test file
+
+[33mcommit db5ac13d7fec28c94a1bf00a7b1665affa302e01[m
+Author: ryanlonergan <ryanjl@uw.edu>
+Date:   Sun Sep 13 00:36:04 2020 -0700
+
+    created test file
+
+[33mcommit de2ee933e34100fa6fbf927633fe7f02dc67ea57[m
+Author: ryanlonergan <ryanjl@uw.edu>
+Date:   Sat Sep 12 23:28:47 2020 -0700
+
+    updated css banner class and added images
+
+[33mcommit c32f76a743a51758f425be58baf5abb3ff39bf80[m
+Author: ryanlonergan <ryanjl@uw.edu>
+Date:   Sat Sep 12 14:33:31 2020 -0700
+
+    Create caraccident.md
+
+[33mcommit 4ca874e2e11a3af075c335f248918ebd635874da[m
+Author: ryanlonergan <ryanjl@uw.edu>
+Date:   Fri Sep 11 22:23:00 2020 -0700
+
+    Update spotify.md
+
+[33mcommit f3cf8243dbc4f0944136e8cc1dab797c6cc62142[m
+Author: ryanlonergan <ryanjl@uw.edu>
+Date:   Fri Sep 11 21:33:55 2020 -0700
+
+    Update template.md
+
+[33mcommit 8d89ab371de4defe460b5eee0516cdd391ca69c0[m
+Author: ryanlonergan <ryanjl@uw.edu>
+Date:   Fri Sep 11 21:31:57 2020 -0700
+
+    Update template.md
+
+[33mcommit adbf73f03fadaca1138f27685b7ab28520893deb[m
+Author: ryanlonergan <ryanjl@uw.edu>
+Date:   Fri Sep 11 21:27:42 2020 -0700
+
+    add hover effect for cards
+
+[33mcommit 6bc4ab7847e98c620f980b5aadca6cef357bc52e[m
+Author: ryanlonergan <ryanjl@uw.edu>
+Date:   Fri Sep 11 20:54:41 2020 -0700
+
+    testing shadow
+
+[33mcommit cc00627a216cbd39a57eaec8638f24f0257ced5d[m
+Author: ryanlonergan <ryanjl@uw.edu>
+Date:   Fri Sep 11 20:52:59 2020 -0700
+
+    testing toc
+
+[33mcommit 165b59527755585e8cc9ff4956feb76626c3a0d0[m
+Author: ryanlonergan <ryanjl@uw.edu>
+Date:   Fri Sep 11 20:46:32 2020 -0700
+
+    added images
+
+[33mcommit 1c56f41bdfd606701da04a41dfc52d1e41abb51b[m
+Author: ryanlonergan <ryanjl@uw.edu>
+Date:   Fri Sep 11 19:42:31 2020 -0700
+
+    added pics
+
+[33mcommit 5cb30e0f75918ffca0c42f1130f0e24cd463320c[m
+Author: ryanlonergan <ryanjl@uw.edu>
+Date:   Fri Sep 11 16:52:07 2020 -0700
+
+    update
+
+[33mcommit a88fb2ae15c8ed7e3ff20897776064861612d54b[m
+Author: ryanlonergan <ryanjl@uw.edu>
+Date:   Fri Sep 11 16:20:59 2020 -0700
+
+    test
+
+[33mcommit cffde9551b0e8b9f1aa71269f6bcf56d29a4afc3[m
+Author: ryanlonergan <ryanjl@uw.edu>
+Date:   Fri Sep 11 16:09:03 2020 -0700
+
+    update
+
+[33mcommit 277a5600ee4cbea5373b9356cb8b37e496b2a675[m
+Author: ryanlonergan <ryanjl@uw.edu>
+Date:   Thu Sep 10 21:58:29 2020 -0700
+
+    tested image codes
+
+[33mcommit a56c814395691bda6fe54240dd57aaf86421905f[m
+Author: ryanlonergan <ryanjl@uw.edu>
+Date:   Thu Sep 10 19:23:46 2020 -0700
+
+    Create spotify_cover.jpg
+
+[33mcommit 8bfd950ed8017ffd11c64c176c0deb5cc9ff8e44[m
+Author: ryanlonergan <ryanjl@uw.edu>
+Date:   Thu Sep 10 18:44:04 2020 -0700
+
+    added images
+
+[33mcommit 80407ba04f4f6de50f0e19ae7e954c9516f5fe6b[m
+Author: ryanlonergan <ryanjl@uw.edu>
+Date:   Thu Sep 10 17:51:50 2020 -0700
+
+    Update example.md
+
+[33mcommit 8326a2c4670635ce75ffc6327bff400bbb0508ac[m
+Author: ryanlonergan <ryanjl@uw.edu>
+Date:   Thu Sep 10 16:24:05 2020 -0700
+
+    Fixed spelling and made code prettier
+
+[33mcommit f8cd4fa3bfdcc94c42bf9cf13751f4d6a4bb80c1[m
+Author: ryanlonergan <ryanjl@uw.edu>
+Date:   Thu Sep 10 14:20:51 2020 -0700
+
+    Update resume.md
+
+[33mcommit 658049083b2dc4b04187fcbbf12ea762303ec691[m
+Author: ryanlonergan <ryanjl@uw.edu>
+Date:   Thu Sep 10 14:07:05 2020 -0700
+
+    Update resume.md
+
+[33mcommit 70e742733f285381c3c2195c7e3b490bcca053d4[m
+Author: ryanlonergan <ryanjl@uw.edu>
+Date:   Thu Sep 10 13:57:37 2020 -0700
+
+    added resume
+
+[33mcommit f64308ed4080db04b662443ecdf73444287ce1ec[m
+Author: ryanlonergan <ryanjl@uw.edu>
+Date:   Wed Sep 9 22:18:59 2020 -0700
+
+    Update resume.md
+
+[33mcommit 1f2f327a522d5c68bf51c6be6b463855ac1c7d00[m
+Author: ryanlonergan <ryanjl@uw.edu>
+Date:   Wed Sep 9 16:11:01 2020 -0700
+
+    Update resume.md
+
+[33mcommit f1e95bc0d8a5ad3e6ae99c74f8fe67c0d549192e[m
+Author: ryanlonergan <ryanjl@uw.edu>
+Date:   Wed Sep 9 01:19:31 2020 -0700
+
+    revert
+
+[33mcommit 12cad7b1691e83a4475ee11395f661cda2ce8122[m
+Author: ryanlonergan <ryanjl@uw.edu>
+Date:   Wed Sep 9 01:12:07 2020 -0700
+
+    test
+
+[33mcommit 22e766ad7e7580b662eed8aaf1b7c323dcd91922[m
+Author: ryanlonergan <ryanjl@uw.edu>
+Date:   Wed Sep 9 01:08:01 2020 -0700
+
+    test
