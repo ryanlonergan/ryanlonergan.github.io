@@ -104,9 +104,10 @@ sitemap: false
   display: block;
   margin-left: auto;
   margin-right: auto;
+  border-radius: 10px;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 10px 0 rgba(0, 0, 0, 0.19);
   center;
-  width: 100%;
+  width: 97.5%;
 }
 
 .box:hover{
@@ -123,15 +124,13 @@ Here is a collection of different projects I have done, ranging from course work
 <br>
 <div class="row">
   <div class="column50">
-    <a href="/portfolio/spotify/"><img src="/assets/img/100_days/100_days_card.jpg"  alt="100 Days of Projects" class="box"></a>
+    <a href="/portfolio/100_days/"><img src="/assets/img/100_days/100_days_card.jpg"  alt="100 Days of Projects" class="box"></a>
   </div>
 
   <div class="column50">
     <a href="/portfolio/spotify/"><img src="/assets/img/spotify/spotify_card.jpg"  alt="Spotify Project" class="box"></a>
   </div>
 </div>
-
-<br/>
 
 <div class="row">
   <div class="column50">
