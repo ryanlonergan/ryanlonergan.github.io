@@ -101,7 +101,23 @@ sitemap: false
   }
 }
 
-.button {
+.button_round {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  center;
+  width: 100px;
+  border-radius: 50px;
+  box-shadow: 0 3px 5px 0 rgba(0, 0, 0, 0.1), 0 4px 6px 0 rgba(0, 0, 0, 0.1);
+}
+
+.button_round:hover{
+  position: relative;
+  top: -1px;
+  box-shadow: 0 6px 10px 0 rgba(0, 0, 0, 0.15), 0 8px 12px 0 rgba(0, 0, 0, 0.15);
+}
+
+.button_rectangle {
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -109,7 +125,7 @@ sitemap: false
   width: 175px;
 }
 
-.button:hover{
+.button_rectangle:hover{
   position: relative;
   top: -1px;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.15), 0 6px 10px 0 rgba(0, 0, 0, 0.15);
@@ -142,25 +158,29 @@ why I decided to do this, what I hope to gain/improve
 
 table, maybe single out some projects
 
-If you are unsure of where to start, I have listed a few projects I think are particulary interesting or feel free to check the full list in the table below.
+If you are unsure of where to start, I have listed a few projects I think are particularly interesting or feel free to check the full list in the table below.
+
+
 <div>
   <div class='column50'>
     <ul class='center'>
       <li>Project 1</li>
-      <li>Project 1</li>
-      <li>Project 1</li>
+      <li>Project 2</li>
+      <li>Project 3</li>
     </ul>
   </div>
   <div class='column50'>
     <ul class='center'>
-      <li>Project 1</li>
-      <li>Project 1</li>
-      <li>Project 1</li>
+      <li>Project 4</li>
+      <li>Project 5</li>
+      <li>Project 6</li>
     </ul>
   </div>
 </div>
 
-<table class='stretch-table'>
+<
+>
+<table>
   <tr>
     <th>Day</th>
     <th>Project</th>
@@ -168,21 +188,24 @@ If you are unsure of where to start, I have listed a few projects I think are pa
   </tr>  
   <tr>
     <td>42</td>
-    <td>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</td>
-    <td><img src="/assets/img/github_logo.png" alt="View Project on Github" class="button" style="border-radius: 30px;"></td>
+    <td><strong>Lorem ipsum dolor sit amet</strong> - consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</td>
+    <td><img src="/assets/img/github_logo.png" alt="View Project on Github" class="button_round"></td>
   </tr>
   <tr>
     <td>41</td>
-    <td>Just a title?</td>
-    <td>image?</td>
+    <td><strong>Lorem ipsum dolor sit amet</strong> - consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</td>
+    <td><img src="/assets/img/github_logo_2.png" alt="View Project on Github" class="button_round"></td>>
   </tr>
   <tr>
     <td>40</td>
-    <td>Or a blurb?</td>
-    <td><img src="/assets/img/github_logo.png" alt="View Project on Github" class="button" style="border-radius: 30px;"></td>
+    <td><strong>Lorem ipsum dolor sit amet</strong> - consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</td>
+    <td><img src="/assets/img/github_logo.png" alt="View Project on Github" class="button_round"></td>
   </tr>      
 </table>
 
+
+
+<br><br>
 
 The following code is just for reference and will be replaced shortly.
 {:.note}
@@ -200,12 +223,12 @@ The following code is just for reference and will be replaced shortly.
   <div class="row">
     <div class="column50">
       <a href="/portfolio/miniprojects/rps_classification/">
-        <img src="/assets/img/project_button.png" alt="View Project" class="button">
+        <img src="/assets/img/project_button.png" alt="View Project" class="button_rectangle">
       </a>
     </div>
     <div class="column50">
       <a href="https://github.com/ryanlonergan/portfolio_repo/tree/master/rps_classification" target="_blank">
-        <img src="/assets/img/github_button.png" class="button" alt="View on GitHub">
+        <img src="/assets/img/github_button.png" alt="View on GitHub" class="button_rectangle">
       </a>
     </div>
   </div>
