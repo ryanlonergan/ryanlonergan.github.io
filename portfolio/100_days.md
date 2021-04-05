@@ -178,8 +178,6 @@ If you are unsure of where to start, I have listed a few projects I think are pa
   </div>
 </div>
 
-<
->
 <table>
   <tr>
     <th>Day</th>
@@ -194,7 +192,7 @@ If you are unsure of where to start, I have listed a few projects I think are pa
   <tr>
     <td>41</td>
     <td><strong>Lorem ipsum dolor sit amet</strong> - consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</td>
-    <td><img src="/assets/img/github_logo_2.png" alt="View Project on Github" class="button_round"></td>>
+    <td><img src="/assets/img/github_logo_2.png" alt="View Project on Github" class="button_round"></td>
   </tr>
   <tr>
     <td>40</td>
