@@ -183,22 +183,27 @@ If you are unsure of where to start, I have listed a few projects I think are pa
     <th>Day</th>
     <th>Project</th>
     <th>Link</th>
-  </tr>  
-  <tr>
-    <td>42</td>
-    <td><strong>Lorem ipsum dolor sit amet</strong> - consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</td>
-    <td><img src="/assets/img/github_logo.png" alt="View Project on Github" class="button_round"></td>
-  </tr>
-  <tr>
-    <td>41</td>
-    <td><strong>Lorem ipsum dolor sit amet</strong> - consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</td>
-    <td><img src="/assets/img/github_logo_2.png" alt="View Project on Github" class="button_round"></td>
   </tr>
   <tr>
     <td>40</td>
-    <td><strong>Lorem ipsum dolor sit amet</strong> - consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</td>
-    <td><img src="/assets/img/github_logo.png" alt="View Project on Github" class="button_round"></td>
-  </tr>      
+    <td><strong>Flight Deal Tracker</strong> - A continuation of the previous day with added functionality, including an independent user signup on Replit, extra error handling and automatic checking for layovers if there are limited flights due to Covid</td>
+    <td><a href="https://github.com/ryanlonergan/100_days_of_projects/tree/main/day_40_flight_deal_tracker_cont" target="_blank"><img src="/assets/img/github_logo.png" alt="View Project on Github" class="button_round"></a></td>
+  </tr>
+  <tr>
+    <td>39</td>
+    <td><strong>Flight Deal Tracker</strong> - automatically finds and manages flight deals for a user and texts them if there is a fare reduction for a location it monitors</td>
+    <td><a href="https://github.com/ryanlonergan/100_days_of_projects/tree/main/day_39_flight_deal_tracker" target="_blank"><img src="/assets/img/github_logo.png" alt="View Project on Github" class="button_round"></a></td>
+  </tr>
+  <tr>
+    <td>33</td>
+    <td><strong>Kanye Quote Generator</strong> - a GUI that uses the <a href='https://kanye.rest' target="_blank">kanye.rest API</a> to retrieve and display quotes that he has said</td>
+    <td><a href="https://github.com/ryanlonergan/100_days_of_projects/tree/main/day_33_kanye_quotes" target="_blank"><img src="/assets/img/github_logo.png" alt="View Project on Github" class="button_round"></a></td>
+  </tr>
+  <tr>
+    <td>33</td>
+    <td><strong>ISS Tracker</strong> - detects if the International Space Station (ISS) is overhead and will email the user if they should be able to see it in the night sky</td>
+    <td><a href="https://github.com/ryanlonergan/100_days_of_projects/tree/main/day_33_iss_tracker" target="_blank"><img src="/assets/img/github_logo.png" alt="View Project on Github" class="button_round"></a></td>
+  </tr>    
 </table>
 
 
