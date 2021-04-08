@@ -156,27 +156,28 @@ why I decided to do this, what I hope to gain/improve
 
 ### Projects
 
-table, maybe single out some projects
+I have listed all of my projects below in descending order as the latter days are generally more complex than the earlier ones. For each project, I have linked its page on my Github where I have provided the code and some more information, including a short description, some quick stats and my thoughts about the project including any notes or relevant links.
 
-If you are unsure of where to start, I have listed out a few projects I think are particularly interesting or feel free to check the full list in the table below.
+If you are unsure of where to start, I have singled out a few projects I think are particularly interesting or feel free to start anywhere in the full table below.
 
+More projects are being added daily, so check back later for more of my work.
+{:.note}
 
 <div>
   <div class='column50'>
     <ul class='center'>
-      <li>Project 1</li>
-      <li>Project 2</li>
-      <li>Project 3</li>
+      <li><a href="https://github.com/ryanlonergan/100_days_of_projects/tree/main/day_39_flight_deal_tracker" target="_blank">Flight Deal Tracker</a></li>
+      <li><a href="https://github.com/ryanlonergan/100_days_of_projects/tree/main/day_11_blackjack" target="_blank">Blackjack</a></li>
     </ul>
   </div>
   <div class='column50'>
     <ul class='center'>
-      <li>Project 4</li>
-      <li>Project 5</li>
-      <li>Project 6</li>
+      <li><a href="https://github.com/ryanlonergan/100_days_of_projects/tree/main/day_33_iss_tracker" target="_blank">ISS Tracker</a></li>
+      <li><a href="https://github.com/ryanlonergan/100_days_of_projects/tree/main/day_33_kanye_quotes" target="_blank">Kanye Quote Generator</a></li>
     </ul>
   </div>
 </div>
+
 
 <table>
   <tr>
@@ -218,7 +219,12 @@ If you are unsure of where to start, I have listed out a few projects I think ar
     <td>33</td>
     <td><strong>ISS Tracker</strong> - detects if the International Space Station (ISS) is overhead and will email the user if they should be able to see it in the night sky</td>
     <td><a href="https://github.com/ryanlonergan/100_days_of_projects/tree/main/day_33_iss_tracker" target="_blank"><img src="/assets/img/github_logo.png" alt="View Project on Github" class="button_round"></a></td>
-  </tr>    
+  </tr>
+  <tr>
+    <td>11</td>
+    <td><strong>Blackjack</strong> - a recreation of blackjack that uses functions and recursion to organize the game</td>
+    <td><a href="https://github.com/ryanlonergan/100_days_of_projects/tree/main/day_11_blackjack" target="_blank"><img src="/assets/img/github_logo.png" alt="View Project on Github" class="button_round"></a></td>
+  </tr>      
 </table>
 
 <!--
