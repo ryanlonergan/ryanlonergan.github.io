@@ -185,6 +185,21 @@ If you are unsure of where to start, I have listed out a few projects I think ar
     <th>Link</th>
   </tr>
   <tr>
+    <td>43</td>
+    <td><strong>CSS Resume</strong> - a continuation of the previous day that added CSS directly into the page and also a stylesheet, vastly improving the look of the page</td>
+    <td><a href="https://github.com/ryanlonergan/100_days_of_projects/tree/main/day_43_css_resume" target="_blank"><img src="/assets/img/github_logo.png" alt="View Project on Github" class="button_round"></a></td>
+  </tr>
+  <tr>
+    <td>42</td>
+    <td><strong>HTML Resume</strong> - a continuation of the previous day that added readibility through tables and forms</td>
+    <td><a href="https://github.com/ryanlonergan/100_days_of_projects/tree/main/day_42_html_resume" target="_blank"><img src="/assets/img/github_logo.png" alt="View Project on Github" class="button_round"></a></td>
+  </tr>
+  <tr>
+    <td>41</td>
+    <td><strong>HTML Personal Website</strong> - a simple resume or CV site that mimics the minimalistic style of some famous CS professors and serves as an introduction to HTML</td>
+    <td><a href="https://github.com/ryanlonergan/100_days_of_projects/tree/main/day_41_html_personal_site" target="_blank"><img src="/assets/img/github_logo.png" alt="View Project on Github" class="button_round"></a></td>
+  </tr>  
+  <tr>
     <td>40</td>
     <td><strong>Flight Deal Tracker</strong> - A continuation of the previous day with added functionality, including an independent user signup on Replit, extra error handling and automatic checking for layovers if there are limited flights due to Covid</td>
     <td><a href="https://github.com/ryanlonergan/100_days_of_projects/tree/main/day_40_flight_deal_tracker_cont" target="_blank"><img src="/assets/img/github_logo.png" alt="View Project on Github" class="button_round"></a></td>
@@ -205,3 +220,14 @@ If you are unsure of where to start, I have listed out a few projects I think ar
     <td><a href="https://github.com/ryanlonergan/100_days_of_projects/tree/main/day_33_iss_tracker" target="_blank"><img src="/assets/img/github_logo.png" alt="View Project on Github" class="button_round"></a></td>
   </tr>    
 </table>
+
+<!--
+TEMPLATE FOR TABLE ROW
+
+<tr>
+  <td>day</td>
+  <td><strong>title</strong> - short description</td>
+  <td><a href="link" target="_blank"><img src="/assets/img/github_logo.png" alt="View Project on Github" class="button_round"></a></td>
+</tr>
+
+-->
