@@ -158,7 +158,7 @@ why I decided to do this, what I hope to gain/improve
 
 table, maybe single out some projects
 
-If you are unsure of where to start, I have listed a few projects I think are particularly interesting or feel free to check the full list in the table below.
+If you are unsure of where to start, I have listed out a few projects I think are particularly interesting or feel free to check the full list in the table below.
 
 
 <div>
@@ -205,34 +205,3 @@ If you are unsure of where to start, I have listed a few projects I think are pa
     <td><a href="https://github.com/ryanlonergan/100_days_of_projects/tree/main/day_33_iss_tracker" target="_blank"><img src="/assets/img/github_logo.png" alt="View Project on Github" class="button_round"></a></td>
   </tr>    
 </table>
-
-
-
-<br><br>
-
-The following code is just for reference and will be replaced shortly.
-{:.note}
-
-<br>
-
-<a class="anchor" id="rps"></a>
-<p style="display: inline;">
-  <b>
-  <a href="/portfolio/miniprojects/rps_classification/">Rock Paper Scissors Image Classification</a>
-  </b> &nbsp;&nbsp;&nbsp;
-  <img src="/assets/icons/python.png" width="75">
-  <ul><li style="list-style-type: none;">
-  This project took images of rock paper scissors gestures and created image classification models  through Keras with TensorFlow. It developed convolutional and full connected neural networks to compare performance against the different methods.
-  <div class="row">
-    <div class="column50">
-      <a href="/portfolio/miniprojects/rps_classification/">
-        <img src="/assets/img/project_button.png" alt="View Project" class="button_rectangle">
-      </a>
-    </div>
-    <div class="column50">
-      <a href="https://github.com/ryanlonergan/portfolio_repo/tree/master/rps_classification" target="_blank">
-        <img src="/assets/img/github_button.png" alt="View on GitHub" class="button_rectangle">
-      </a>
-    </div>
-  </div>
-</li></ul></p>
