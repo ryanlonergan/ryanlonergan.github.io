@@ -156,7 +156,7 @@ why I decided to do this, what I hope to gain/improve
 
 ### Projects
 
-I have listed all of my projects below in descending order as the latter days are generally more complex than the earlier ones. For each project, I have linked its page on my Github where I have provided the code and some more information, including a short description, some quick stats and my thoughts about the project including any notes or relevant links.
+I have listed all my projects below in descending order as the latter days are generally more complex than the earlier ones. For each project, I have linked its page on my GitHub where I have provided the code and some more information, including a short description, some quick stats and my thoughts about the project including any notes or relevant links.
 
 If you are unsure of where to start, I have singled out a few projects I think are particularly interesting or feel free to start anywhere in the full table below.
 
@@ -209,6 +209,31 @@ More projects are being added daily, so check back later for more of my work.
     <td>39</td>
     <td><strong>Flight Deal Tracker</strong> - automatically finds and manages flight deals for a user and texts them if there is a fare reduction for a location it monitors</td>
     <td><a href="https://github.com/ryanlonergan/100_days_of_projects/tree/main/day_39_flight_deal_tracker" target="_blank"><img src="/assets/img/github_logo.png" alt="View Project on Github" class="button_round"></a></td>
+  </tr>
+  <tr>
+    <td>38</td>
+    <td><strong>title</strong> - short description</td>
+    <td><a href="link" target="_blank"><img src="/assets/img/github_logo.png" alt="View Project on Github" class="button_round"></a></td>
+  </tr>
+  <tr>
+    <td>37</td>
+    <td><strong>title</strong> - short description</td>
+    <td><a href="link" target="_blank"><img src="/assets/img/github_logo.png" alt="View Project on Github" class="button_round"></a></td>
+  </tr>
+  <tr>
+    <td>36</td>
+    <td><strong>title</strong> - short description</td>
+    <td><a href="link" target="_blank"><img src="/assets/img/github_logo.png" alt="View Project on Github" class="button_round"></a></td>
+  </tr>
+  <tr>
+    <td>35</td>
+    <td><strong>title</strong> - short description</td>
+    <td><a href="link" target="_blank"><img src="/assets/img/github_logo.png" alt="View Project on Github" class="button_round"></a></td>
+  </tr>
+  <tr>
+    <td>34</td>
+    <td><strong>title</strong> - short description</td>
+    <td><a href="link" target="_blank"><img src="/assets/img/github_logo.png" alt="View Project on Github" class="button_round"></a></td>
   </tr>
   <tr>
     <td>33</td>
