@@ -212,27 +212,27 @@ More projects are being added daily, so check back later for more of my work.
   </tr>
   <tr>
     <td>38</td>
-    <td><strong>title</strong> - short description</td>
+    <td><strong>Workout Tracker</strong> - short description</td>
     <td><a href="link" target="_blank"><img src="/assets/img/github_logo.png" alt="View Project on Github" class="button_round"></a></td>
   </tr>
   <tr>
     <td>37</td>
-    <td><strong>title</strong> - short description</td>
+    <td><strong>Habit Tracker</strong> - short description</td>
     <td><a href="link" target="_blank"><img src="/assets/img/github_logo.png" alt="View Project on Github" class="button_round"></a></td>
   </tr>
   <tr>
     <td>36</td>
-    <td><strong>title</strong> - short description</td>
+    <td><strong>Stock Alert</strong> - short description</td>
     <td><a href="link" target="_blank"><img src="/assets/img/github_logo.png" alt="View Project on Github" class="button_round"></a></td>
   </tr>
   <tr>
     <td>35</td>
-    <td><strong>title</strong> - short description</td>
+    <td><strong>Rain Alert</strong> - short description</td>
     <td><a href="link" target="_blank"><img src="/assets/img/github_logo.png" alt="View Project on Github" class="button_round"></a></td>
   </tr>
   <tr>
     <td>34</td>
-    <td><strong>title</strong> - short description</td>
+    <td><strong>GUI Trivia Game</strong> - short description</td>
     <td><a href="link" target="_blank"><img src="/assets/img/github_logo.png" alt="View Project on Github" class="button_round"></a></td>
   </tr>
   <tr>
@@ -244,6 +244,16 @@ More projects are being added daily, so check back later for more of my work.
     <td>33</td>
     <td><strong>ISS Tracker</strong> - detects if the International Space Station (ISS) is overhead and will email the user if they should be able to see it in the night sky</td>
     <td><a href="https://github.com/ryanlonergan/100_days_of_projects/tree/main/day_33_iss_tracker" target="_blank"><img src="/assets/img/github_logo.png" alt="View Project on Github" class="button_round"></a></td>
+  </tr>
+  <tr>
+    <td>32</td>
+    <td><strong>Automatic Birthday Emailer</strong> - short description</td>
+    <td><a href="link" target="_blank"><img src="/assets/img/github_logo.png" alt="View Project on Github" class="button_round"></a></td>
+  </tr>
+  <tr>
+    <td>31</td>
+    <td><strong>Flashcard App</strong> - short description</td>
+    <td><a href="link" target="_blank"><img src="/assets/img/github_logo.png" alt="View Project on Github" class="button_round"></a></td>
   </tr>
   <tr>
     <td>11</td>
