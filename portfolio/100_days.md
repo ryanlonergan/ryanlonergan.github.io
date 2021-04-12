@@ -148,15 +148,15 @@ This page is still under construction and is just a placeholder. Check back soon
 
 ### Overview
 
-what is this project/page
+This page documents and details my experience with the <a href="https://www.udemy.com/course/100-days-of-code" target="_blank">100 Days of Code Python course by Angela Yu</a>. The program covers various aspects of computer science and programming through project-based learning and there is an independent complete project for each day of the course that cover the breadth of what is possible with Python. To view the entire GitHub Repo, please <a href="https://github.com/ryanlonergan/100_days_of_projects" target="_blank">click here</a>, or continue reading for more details.
 
 ### Motivation
 
-why I decided to do this, what I hope to gain/improve
+From my education and experience, I gained aptitude with Python, but there were vast gaps in my knowledge. While I could train, run, evaluate, and iterate machine learning models with scikit-learn, Keras or TensorFlow, I lacked greater exposure with object orientated programming, graphical user interfaces, user design or other areas of computer science. Although I knew about these concepts and used them, I felt like I needed to improve them to better round out my skillset and to communicate about problems from various perspectives. Thus, when I found this course, I thought it would be a perfect experience to not only better my Python skills, but to build up my talents with the foundations of computer science. While there have been days where I felt incredibly frustrated with the process, the practice and experience I have gained have become invaluable to me and I truly feel like I have become a better coder through it.
 
 ### Projects
 
-I have listed all my projects below in descending order as the latter days are generally more complex than the earlier ones. For each project, I have linked its page on my GitHub where I have provided the code and some more information, including a short description, some quick stats and my thoughts about the project including any notes or relevant links.
+I have listed all my projects below in descending order as the latter days are generally more complex than the earlier ones. For each project, I have linked its page on my GitHub where I have provided the code and some more information, including a short description, some quick stats and my thoughts about the project including any notes, relevant links, or other points of interest.
 
 If you are unsure of where to start, I have singled out a few projects I think are particularly interesting or feel free to start anywhere in the full table below.
 
