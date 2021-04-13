@@ -213,32 +213,27 @@ More projects are being added daily, so check back later for more of my work.
   <tr>
     <td>38</td>
     <td><strong>Workout Tracker</strong> - short description</td>
-    <td><a href="link" target="_blank"><img src="/assets/img/github_logo.png" alt="View Project on Github" class="button_round"></a></td>
+    <td><a href="https://github.com/ryanlonergan/100_days_of_projects/tree/main/day_38_workout_tracker" target="_blank"><img src="/assets/img/github_logo.png" alt="View Project on Github" class="button_round"></a></td>
   </tr>
   <tr>
     <td>37</td>
     <td><strong>Habit Tracker</strong> - short description</td>
-    <td><a href="link" target="_blank"><img src="/assets/img/github_logo.png" alt="View Project on Github" class="button_round"></a></td>
+    <td><a href="https://github.com/ryanlonergan/100_days_of_projects/tree/main/day_37_habit_tracker" target="_blank"><img src="/assets/img/github_logo.png" alt="View Project on Github" class="button_round"></a></td>
   </tr>
   <tr>
     <td>36</td>
     <td><strong>Stock Alert</strong> - short description</td>
-    <td><a href="link" target="_blank"><img src="/assets/img/github_logo.png" alt="View Project on Github" class="button_round"></a></td>
+    <td><a href="https://github.com/ryanlonergan/100_days_of_projects/tree/main/day_36_stock_alert" target="_blank"><img src="/assets/img/github_logo.png" alt="View Project on Github" class="button_round"></a></td>
   </tr>
   <tr>
     <td>35</td>
     <td><strong>Rain Alert</strong> - short description</td>
-    <td><a href="link" target="_blank"><img src="/assets/img/github_logo.png" alt="View Project on Github" class="button_round"></a></td>
+    <td><a href="https://github.com/ryanlonergan/100_days_of_projects/tree/main/day_35_rain_alert" target="_blank"><img src="/assets/img/github_logo.png" alt="View Project on Github" class="button_round"></a></td>
   </tr>
   <tr>
     <td>34</td>
     <td><strong>GUI Trivia Game</strong> - short description</td>
-    <td><a href="link" target="_blank"><img src="/assets/img/github_logo.png" alt="View Project on Github" class="button_round"></a></td>
-  </tr>
-  <tr>
-    <td>33</td>
-    <td><strong>Kanye Quote Generator</strong> - a GUI that uses the <a href='https://kanye.rest' target="_blank">kanye.rest API</a> to retrieve and display quotes that he has said</td>
-    <td><a href="https://github.com/ryanlonergan/100_days_of_projects/tree/main/day_33_kanye_quotes" target="_blank"><img src="/assets/img/github_logo.png" alt="View Project on Github" class="button_round"></a></td>
+    <td><a href="https://github.com/ryanlonergan/100_days_of_projects/tree/main/day_34_gui_trivia_game" target="_blank"><img src="/assets/img/github_logo.png" alt="View Project on Github" class="button_round"></a></td>
   </tr>
   <tr>
     <td>33</td>
@@ -246,14 +241,19 @@ More projects are being added daily, so check back later for more of my work.
     <td><a href="https://github.com/ryanlonergan/100_days_of_projects/tree/main/day_33_iss_tracker" target="_blank"><img src="/assets/img/github_logo.png" alt="View Project on Github" class="button_round"></a></td>
   </tr>
   <tr>
+    <td>33</td>
+    <td><strong>Kanye Quote Generator</strong> - a GUI that uses the <a href='https://kanye.rest' target="_blank">kanye.rest API</a> to retrieve and display quotes that he has said</td>
+    <td><a href="https://github.com/ryanlonergan/100_days_of_projects/tree/main/day_33_kanye_quotes" target="_blank"><img src="/assets/img/github_logo.png" alt="View Project on Github" class="button_round"></a></td>
+  </tr>
+  <tr>
     <td>32</td>
-    <td><strong>Automatic Birthday Emailer</strong> - short description</td>
-    <td><a href="link" target="_blank"><img src="/assets/img/github_logo.png" alt="View Project on Github" class="button_round"></a></td>
+    <td><strong>Automatic Birthday Emailer</strong> - automatically checks for birthdays on the current date and sends out a randomized email to the birthday person preventing the user from ever forgetting a birthday again</td>
+    <td><a href="https://github.com/ryanlonergan/100_days_of_projects/tree/main/day_32_automatic_birthday_emailer" target="_blank"><img src="/assets/img/github_logo.png" alt="View Project on Github" class="button_round"></a></td>
   </tr>
   <tr>
     <td>31</td>
-    <td><strong>Flashcard App</strong> - short description</td>
-    <td><a href="link" target="_blank"><img src="/assets/img/github_logo.png" alt="View Project on Github" class="button_round"></a></td>
+    <td><strong>Flashcard App</strong> - a GUI flashcard app that quizzes the user on vocabulary from a dynamically managed csv file</td>
+    <td><a href="https://github.com/ryanlonergan/100_days_of_projects/tree/main/day_31_flashcard_app" target="_blank"><img src="/assets/img/github_logo.png" alt="View Project on Github" class="button_round"></a></td>
   </tr>
   <tr>
     <td>11</td>
