@@ -212,27 +212,27 @@ More projects are being added daily, so check back later for more of my work.
   </tr>
   <tr>
     <td>38</td>
-    <td><strong>Workout Tracker</strong> - short description</td>
+    <td><strong>Workout Tracker</strong> - <em>description coming soon</em></td>
     <td><a href="https://github.com/ryanlonergan/100_days_of_projects/tree/main/day_38_workout_tracker" target="_blank"><img src="/assets/img/github_logo.png" alt="View Project on Github" class="button_round"></a></td>
   </tr>
   <tr>
     <td>37</td>
-    <td><strong>Habit Tracker</strong> - short description</td>
+    <td><strong>Habit Tracker</strong> - <em>description coming soon</em></td>
     <td><a href="https://github.com/ryanlonergan/100_days_of_projects/tree/main/day_37_habit_tracker" target="_blank"><img src="/assets/img/github_logo.png" alt="View Project on Github" class="button_round"></a></td>
   </tr>
   <tr>
     <td>36</td>
-    <td><strong>Stock Alert</strong> - short description</td>
+    <td><strong>Stock Alert</strong> - <em>description coming soon</em></td>
     <td><a href="https://github.com/ryanlonergan/100_days_of_projects/tree/main/day_36_stock_alert" target="_blank"><img src="/assets/img/github_logo.png" alt="View Project on Github" class="button_round"></a></td>
   </tr>
   <tr>
     <td>35</td>
-    <td><strong>Rain Alert</strong> - short description</td>
+    <td><strong>Rain Alert</strong> - a SMS alert that checks the weather forecast through the OpenWeather API and sends a text to let the user know that it may rain</td>
     <td><a href="https://github.com/ryanlonergan/100_days_of_projects/tree/main/day_35_rain_alert" target="_blank"><img src="/assets/img/github_logo.png" alt="View Project on Github" class="button_round"></a></td>
   </tr>
   <tr>
     <td>34</td>
-    <td><strong>GUI Trivia Game</strong> - short description</td>
+    <td><strong>GUI Trivia Game</strong> - a trivia game that retrieves questions from the Open Trivia Database API and uses OOP to organize its functions and logic</td>
     <td><a href="https://github.com/ryanlonergan/100_days_of_projects/tree/main/day_34_gui_trivia_game" target="_blank"><img src="/assets/img/github_logo.png" alt="View Project on Github" class="button_round"></a></td>
   </tr>
   <tr>
@@ -267,7 +267,7 @@ TEMPLATE FOR TABLE ROW
 
 <tr>
   <td>day</td>
-  <td><strong>title</strong> - short description</td>
+  <td><strong>title</strong> - <em>description coming soon</em></td>
   <td><a href="link" target="_blank"><img src="/assets/img/github_logo.png" alt="View Project on Github" class="button_round"></a></td>
 </tr>
 
