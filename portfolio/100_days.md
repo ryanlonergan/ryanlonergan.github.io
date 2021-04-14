@@ -217,12 +217,12 @@ More projects are being added daily, so check back later for more of my work.
   </tr>
   <tr>
     <td>37</td>
-    <td><strong>Habit Tracker</strong> - <em>description coming soon</em></td>
+    <td><strong>Habit Tracker</strong> - a program that interacts with the Pixela API to track habits through pixels and color, similar to the GitHub contribution graph</td>
     <td><a href="https://github.com/ryanlonergan/100_days_of_projects/tree/main/day_37_habit_tracker" target="_blank"><img src="/assets/img/github_logo.png" alt="View Project on Github" class="button_round"></a></td>
   </tr>
   <tr>
     <td>36</td>
-    <td><strong>Stock Alert</strong> - <em>description coming soon</em></td>
+    <td><strong>Stock Alert</strong> - a SMS alert that checks a stock's closing prices and if a significant change is detected, it sends a text to the user letting them know about the change along with recent news articles for the company</td>
     <td><a href="https://github.com/ryanlonergan/100_days_of_projects/tree/main/day_36_stock_alert" target="_blank"><img src="/assets/img/github_logo.png" alt="View Project on Github" class="button_round"></a></td>
   </tr>
   <tr>
