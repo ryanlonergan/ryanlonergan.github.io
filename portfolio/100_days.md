@@ -136,14 +136,6 @@ sitemap: false
 * This unordered list will be replaced by the table of contents
 {:toc}
 
-<br><br>
-
-This page is still under construction and is just a placeholder. Check back soon.
-{:.note}
-
-<br>
-
-
 <img src="/assets/img/100_days/100_days_cover.jpg"  alt="100_days" class="banner">
 
 ### Overview
@@ -158,10 +150,7 @@ From my education and experience, I gained aptitude with Python, but there were 
 
 I have listed all my projects below in descending order as the latter days are generally more complex than the earlier ones. For each project, I have linked its page on my GitHub where I have provided the code and some more information, including a short description, some quick stats and my thoughts about the project including any notes, relevant links, or other points of interest.
 
-If you are unsure of where to start, I have singled out a few projects I think are particularly interesting or feel free to start anywhere in the full table below.
-
-More projects are being added daily, so check back later for more of my work.
-{:.note}
+If you are unsure of where to start, I have singled out a few projects I think are particularly interesting or feel free to start anywhere in the full table below. More projects are still being added daily, so check back later for more of my work.
 
 <div>
   <div class='column50'>
@@ -212,7 +201,7 @@ More projects are being added daily, so check back later for more of my work.
   </tr>
   <tr>
     <td>38</td>
-    <td><strong>Workout Tracker</strong> - <em>description coming soon</em></td>
+    <td><strong>Workout Tracker</strong> - asks a user about their exercise in natural language and records detailed information in a workout log on Google Sheets</td>
     <td><a href="https://github.com/ryanlonergan/100_days_of_projects/tree/main/day_38_workout_tracker" target="_blank"><img src="/assets/img/github_logo.png" alt="View Project on Github" class="button_round"></a></td>
   </tr>
   <tr>
@@ -222,12 +211,12 @@ More projects are being added daily, so check back later for more of my work.
   </tr>
   <tr>
     <td>36</td>
-    <td><strong>Stock Alert</strong> - a SMS alert that checks a stock's closing prices and if a significant change is detected, it sends a text to the user letting them know about the change along with recent news articles for the company</td>
+    <td><strong>Stock Alert</strong> - a SMS alert that checks a stock's closing prices and if a significant change is detected, it sends a text to the user letting them know about it along with recent news articles for the company</td>
     <td><a href="https://github.com/ryanlonergan/100_days_of_projects/tree/main/day_36_stock_alert" target="_blank"><img src="/assets/img/github_logo.png" alt="View Project on Github" class="button_round"></a></td>
   </tr>
   <tr>
     <td>35</td>
-    <td><strong>Rain Alert</strong> - a SMS alert that checks the weather forecast through the OpenWeather API and sends a text to let the user know that it may rain</td>
+    <td><strong>Rain Alert</strong> - a SMS alert that checks the weather forecast through the OpenWeather API and sends a text to let the user know that they may want to bring an umbrella</td>
     <td><a href="https://github.com/ryanlonergan/100_days_of_projects/tree/main/day_35_rain_alert" target="_blank"><img src="/assets/img/github_logo.png" alt="View Project on Github" class="button_round"></a></td>
   </tr>
   <tr>
