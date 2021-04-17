@@ -245,6 +245,11 @@ If you are unsure of where to start, I have singled out a few projects I think a
     <td><a href="https://github.com/ryanlonergan/100_days_of_projects/tree/main/day_31_flashcard_app" target="_blank"><img src="/assets/img/github_logo.png" alt="View Project on Github" class="button_round"></a></td>
   </tr>
   <tr>
+    <td>20</td>
+    <td><strong>Snake</strong> - a recreation of the famous Snake game using OOP to divide the logic</td>
+    <td><a href="https://github.com/ryanlonergan/100_days_of_projects/tree/main/day_20_snake" target="_blank"><img src="/assets/img/github_logo.png" alt="View Project on Github" class="button_round"></a></td>
+  </tr>
+  <tr>
     <td>11</td>
     <td><strong>Blackjack</strong> - a recreation of blackjack that uses functions and recursion to organize the game</td>
     <td><a href="https://github.com/ryanlonergan/100_days_of_projects/tree/main/day_11_blackjack" target="_blank"><img src="/assets/img/github_logo.png" alt="View Project on Github" class="button_round"></a></td>
