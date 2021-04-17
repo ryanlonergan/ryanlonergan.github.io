@@ -246,7 +246,7 @@ If you are unsure of where to start, I have singled out a few projects I think a
   </tr>
   <tr>
     <td>20</td>
-    <td><strong>Snake</strong> - a recreation of the famous Snake game using OOP to divide the logic</td>
+    <td><strong>Snake</strong> - a recreation of the famous Snake game using OOP to divide the logic and the Turtle module for the interface</td>
     <td><a href="https://github.com/ryanlonergan/100_days_of_projects/tree/main/day_20_snake" target="_blank"><img src="/assets/img/github_logo.png" alt="View Project on Github" class="button_round"></a></td>
   </tr>
   <tr>
