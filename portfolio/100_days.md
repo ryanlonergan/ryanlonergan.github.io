@@ -245,6 +245,11 @@ If you are unsure of where to start, I have singled out a few projects I think a
     <td><a href="https://github.com/ryanlonergan/100_days_of_projects/tree/main/day_31_flashcard_app" target="_blank"><img src="/assets/img/github_logo.png" alt="View Project on Github" class="button_round"></a></td>
   </tr>
   <tr>
+    <td>28</td>
+    <td><strong>Pomodoro Timer</strong> - a GUI timer that follows the Pomodoro Technique and updates its UI based on the user's progress</td>
+    <td><a href="https://github.com/ryanlonergan/100_days_of_projects/tree/main/day_28_pomodoro_timer" target="_blank"><img src="/assets/img/github_logo.png" alt="View Project on Github" class="button_round"></a></td>
+  </tr>
+  <tr>
     <td>20</td>
     <td><strong>Snake</strong> - a recreation of the famous Snake game using OOP to divide the logic and the Turtle module for the interface</td>
     <td><a href="https://github.com/ryanlonergan/100_days_of_projects/tree/main/day_20_snake" target="_blank"><img src="/assets/img/github_logo.png" alt="View Project on Github" class="button_round"></a></td>
@@ -260,9 +265,9 @@ If you are unsure of where to start, I have singled out a few projects I think a
 TEMPLATE FOR TABLE ROW
 
 <tr>
-  <td>day</td>
-  <td><strong>title</strong> - <em>description coming soon</em></td>
-  <td><a href="link" target="_blank"><img src="/assets/img/github_logo.png" alt="View Project on Github" class="button_round"></a></td>
+  <td>DAY</td>
+  <td><strong>TITLE</strong> - <em>DESCRIPTION COMING SOON</em></td>
+  <td><a href="LINK" target="_blank"><img src="/assets/img/github_logo.png" alt="View Project on Github" class="button_round"></a></td>
 </tr>
 
 -->
