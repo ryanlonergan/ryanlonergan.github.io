@@ -245,6 +245,16 @@ If you are unsure of where to start, I have singled out a few projects I think a
     <td><a href="https://github.com/ryanlonergan/100_days_of_projects/tree/main/day_31_flashcard_app" target="_blank"><img src="/assets/img/github_logo.png" alt="View Project on Github" class="button_round"></a></td>
   </tr>
   <tr>
+    <td>30</td>
+    <td><strong>Password Manager Expanded</strong> - an expansion of the previous day that changes the data to be stored in a json file, allows for searching through recorded data and incorporates greater error and exception handling</td>
+    <td><a href="https://github.com/ryanlonergan/100_days_of_projects/tree/main/day_30_password_manager_expanded" target="_blank"><img src="/assets/img/github_logo.png" alt="View Project on Github" class="button_round"></a></td>
+  </tr>
+  <tr>
+    <td>29</td>
+    <td><strong>Password Manager</strong> - a GUI password manager that stores security details locally and has the ability to generate strong random passwords</td>
+    <td><a href="https://github.com/ryanlonergan/100_days_of_projects/tree/main/day_29_password_manager" target="_blank"><img src="/assets/img/github_logo.png" alt="View Project on Github" class="button_round"></a></td>
+  </tr>
+  <tr>
     <td>28</td>
     <td><strong>Pomodoro Timer</strong> - a GUI timer that follows the Pomodoro Technique and updates its UI based on the user's progress</td>
     <td><a href="https://github.com/ryanlonergan/100_days_of_projects/tree/main/day_28_pomodoro_timer" target="_blank"><img src="/assets/img/github_logo.png" alt="View Project on Github" class="button_round"></a></td>
