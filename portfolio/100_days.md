@@ -175,6 +175,11 @@ If you are unsure of where to start, I have singled out a few projects I think a
     <th>Link</th>
   </tr>
   <tr>
+    <td>44</td>
+    <td><strong>CSS Site</strong> - the final day of the web development module that created a modern looking personal website focusing primarily on CSS styling</td>
+    <td><a href="https://github.com/ryanlonergan/100_days_of_projects/tree/main/day_44_css_site" target="_blank"><img src="/assets/img/github_logo.png" alt="View Project on Github" class="button_round"></a></td>
+  </tr>
+  <tr>
     <td>43</td>
     <td><strong>CSS Resume</strong> - a continuation of the previous day that added CSS directly into the page and also a stylesheet, vastly improving the look of the page</td>
     <td><a href="https://github.com/ryanlonergan/100_days_of_projects/tree/main/day_43_css_resume" target="_blank"><img src="/assets/img/github_logo.png" alt="View Project on Github" class="button_round"></a></td>
