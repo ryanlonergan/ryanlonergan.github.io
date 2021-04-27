@@ -175,6 +175,11 @@ If you are unsure of where to start, I have singled out a few projects I think a
     <th>Link</th>
   </tr>
   <tr>
+    <td>45</td>
+    <td><strong>Movie Web Scraper</strong> - scrapes an online list of top movies using Beautiful Soup and creates a text file with the movie titles and their rankings</td>
+    <td><a href="https://github.com/ryanlonergan/100_days_of_projects/tree/main/day_45_movie_web_scraper" target="_blank"><img src="/assets/img/github_logo.png" alt="View Project on Github" class="button_round"></a></td>
+  </tr>
+  <tr>
     <td>44</td>
     <td><strong>CSS Site</strong> - the final day of the web development module that created a modern looking personal website focusing primarily on CSS styling</td>
     <td><a href="https://github.com/ryanlonergan/100_days_of_projects/tree/main/day_44_css_site" target="_blank"><img src="/assets/img/github_logo.png" alt="View Project on Github" class="button_round"></a></td>
@@ -196,7 +201,7 @@ If you are unsure of where to start, I have singled out a few projects I think a
   </tr>  
   <tr>
     <td>40</td>
-    <td><strong>Flight Deal Tracker</strong> - A continuation of the previous day with added functionality, including an independent user signup on Replit, extra error handling and automatic checking for layovers if there are limited flights due to Covid</td>
+    <td><strong>Flight Deal Tracker</strong> - a continuation of the previous day with added functionality, including an independent user signup on Replit, extra error handling and automatic checking for layovers if there are limited flights due to Covid</td>
     <td><a href="https://github.com/ryanlonergan/100_days_of_projects/tree/main/day_40_flight_deal_tracker_cont" target="_blank"><img src="/assets/img/github_logo.png" alt="View Project on Github" class="button_round"></a></td>
   </tr>
   <tr>
