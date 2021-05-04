@@ -155,6 +155,7 @@ If you are unsure of where to start, I have singled out a few projects I think a
 <div>
   <div class='column50'>
     <ul class='center'>
+      <li><a href="https://github.com/ryanlonergan/100_days_of_projects/tree/main/day_46_spotify_playlist_time_machine" target="_blank">Spotify Playlist Time Machine</a></li>
       <li><a href="https://github.com/ryanlonergan/100_days_of_projects/tree/main/day_39_flight_deal_tracker" target="_blank">Flight Deal Tracker</a></li>
       <li><a href="https://github.com/ryanlonergan/100_days_of_projects/tree/main/day_11_blackjack" target="_blank">Blackjack</a></li>
     </ul>
@@ -173,6 +174,11 @@ If you are unsure of where to start, I have singled out a few projects I think a
     <th>Day</th>
     <th>Project</th>
     <th>Link</th>
+  </tr>
+  <tr>
+    <td>46</td>
+    <td><strong>Spotify Playlist Time Machine</strong> - scrapes Billboard's Top 100 Songs from a requested date with Beautiful Soup, filters the data with regular expression and then uses Spotipy to handle the Spotify API to search for the songs and add them to a playlist automatically</td>
+    <td><a href="https://github.com/ryanlonergan/100_days_of_projects/tree/main/day_46_spotify_playlist_time_machine" target="_blank"><img src="/assets/img/github_logo.png" alt="View Project on Github" class="button_round"></a></td>
   </tr>
   <tr>
     <td>45</td>
