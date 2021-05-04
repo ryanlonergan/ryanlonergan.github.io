@@ -153,17 +153,15 @@ I have listed all my projects below in descending order as the latter days are g
 If you are unsure of where to start, I have singled out a few projects I think are particularly interesting or feel free to start anywhere in the full table below. More projects are still being added daily, so check back later for more of my work.
 
 <div>
-  <div class='column50' style='padding: 5px;'>
+  <div class='column50' style='padding: 2px;'>
     <ul class='center'>
-      <li><a href="https://github.com/ryanlonergan/100_days_of_projects/tree/main/day_46_spotify_playlist_time_machine" target="_blank">Spotify Playlist Time Machine</a></li>
+      <li><a href="https://github.com/ryanlonergan/100_days_of_projects/tree/main/day_46_spotify_playlist_time_machine" target="_blank">Spotify Time Machine</a></li>
       <li><a href="https://github.com/ryanlonergan/100_days_of_projects/tree/main/day_39_flight_deal_tracker" target="_blank">Flight Deal Tracker</a></li>
-      <li><a href="https://github.com/ryanlonergan/100_days_of_projects/tree/main/day_11_blackjack" target="_blank">Blackjack</a></li>
     </ul>
   </div>
-  <div class='column50' style='padding: 5px;'>
+  <div class='column50' style='padding: 2px;'>
     <ul class='center'>
       <li><a href="https://github.com/ryanlonergan/100_days_of_projects/tree/main/day_33_iss_tracker" target="_blank">ISS Tracker</a></li>
-      <li><a href="https://github.com/ryanlonergan/100_days_of_projects/tree/main/day_33_kanye_quotes" target="_blank">Kanye Quote Generator</a></li>
       <li><a href="https://github.com/ryanlonergan/100_days_of_projects/tree/main/day_33_kanye_quotes" target="_blank">Kanye Quote Generator</a></li>
     </ul>
   </div>
