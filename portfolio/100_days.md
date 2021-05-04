@@ -150,7 +150,7 @@ sitemap: false
 
 ### Overview
 
-This page documents and details my experience with the <a href="https://www.udemy.com/course/100-days-of-code" target="_blank">100 Days of Code Python course by Angela Yu</a>. The program covers various aspects of computer science and programming through project-based learning and there is an independent complete project for each day of the course that cover the breadth of what is possible with Python. To view the entire GitHub Repo, please <a href="https://github.com/ryanlonergan/100_days_of_projects" target="_blank">click here</a>, or continue reading for more details.
+This page documents and details my experience with the <a href="https://www.udemy.com/course/100-days-of-code" target="_blank">100 Days of Code Python course by Angela Yu</a>. The program covers various aspects of computer science and programming through project-based learning and there is an independent complete project for each day of the course that incorporates the breadth of what is possible with Python. To view the entire GitHub Repo, please <a href="https://github.com/ryanlonergan/100_days_of_projects" target="_blank">click here</a>, or continue reading for more details.
 
 ### Motivation
 
