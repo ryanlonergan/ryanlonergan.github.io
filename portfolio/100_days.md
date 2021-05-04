@@ -164,6 +164,7 @@ If you are unsure of where to start, I have singled out a few projects I think a
     <ul class='center'>
       <li><a href="https://github.com/ryanlonergan/100_days_of_projects/tree/main/day_33_iss_tracker" target="_blank">ISS Tracker</a></li>
       <li><a href="https://github.com/ryanlonergan/100_days_of_projects/tree/main/day_33_kanye_quotes" target="_blank">Kanye Quote Generator</a></li>
+      <li style="list-style-type: none"></li>
     </ul>
   </div>
 </div>
