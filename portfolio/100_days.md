@@ -165,8 +165,10 @@ If you are unsure of where to start, I have singled out a few projects I think a
       <li><a href="https://github.com/ryanlonergan/100_days_of_projects/tree/main/day_33_kanye_quotes" target="_blank">Kanye Quote Generator</a></li>
     </ul>
   </div>
+  <br>
 </div>
 
+<br>
 <div>
 <table>
   <tr>
