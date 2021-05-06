@@ -94,6 +94,27 @@ ___
 
   <p style="display: inline;">
   <a
+    href="https://desktop.github.com/"
+    target="_blank">
+    GitHub Desktop
+  </a>
+  <ul><li style="list-style-type: none;">
+    <i>Description to be added - I prefer it over cmd line or git integration inside atom/pycharm/anything as I use different programs for different tasks and it brings all my commits to one place - I have a very small screen in my laptop touchpad and it hangs out there mostly</i>
+  </li></ul></p>
+
+  <p style="display: inline;">
+  <a
+    href="https://www.spotify.com"
+    target="_blank">
+    Spotify
+  </a>
+  <ul><li style="list-style-type: none;">
+    <i>Description to be added - should I add this here?</i>
+  </li></ul></p>
+
+
+  <p style="display: inline;">
+  <a
     href="https://www.postgresql.org/"
     target="_blank">
     PostgreSQL
