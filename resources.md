@@ -79,7 +79,17 @@ ___
       href="https://www.jetbrains.com/pycharm/"
       target="_blank">
         PyCharm
-      </a> &nbsp;as it is more lightweight and requires less setup for environments. However, I mostly code Python in notebooks, so my preference may change over time.
+      </a> &nbsp;as it is more lightweight and requires less setup for environments. However, I mostly code Python in notebooks, so my preference may change over time. <em>Update - My preference did change and PyCharm became my IDE of choice for <code>.py</code> scripts. I have not used it much yet for notebooks, but will update with more information once my opinion solidifies.</em>
+  </li></ul></p>
+
+  <p style="display: inline;">
+  <a
+    href="https://www.jetbrains.com/pycharm/"
+    target="_blank">
+    PyCharm
+  </a>
+  <ul><li style="list-style-type: none;">
+    <i>Description to be added - my new IDE of choice</i>
   </li></ul></p>
 
   <p style="display: inline;">
