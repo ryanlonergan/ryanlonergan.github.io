@@ -178,6 +178,11 @@ If you are unsure of where to start, I have singled out a few projects I think a
     <th>Link</th>
   </tr>
   <tr>
+    <td>47</td>
+    <td><strong>Amazon Price Tracker</strong> - scrapes an Amazon product page to automatically detect price changes and sends the user an email if a price drops below the threshold they are willing to pay for it</td>
+    <td><a href="https://github.com/ryanlonergan/100_days_of_projects/tree/main/day_47_amazon_price_tracker" target="_blank"><img src="/assets/img/github_logo.png" alt="View Project on Github" class="button_round"></a></td>
+  </tr>
+  <tr>
     <td>46</td>
     <td><strong>Spotify Playlist Time Machine</strong> - scrapes Billboard's Top 100 Songs from a requested date with Beautiful Soup, filters the data with regular expression and then uses Spotipy to handle the Spotify API to search for the songs and add them to a playlist automatically</td>
     <td><a href="https://github.com/ryanlonergan/100_days_of_projects/tree/main/day_46_spotify_playlist_time_machine" target="_blank"><img src="/assets/img/github_logo.png" alt="View Project on Github" class="button_round"></a></td>
