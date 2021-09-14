@@ -182,10 +182,11 @@ If you are unsure of where to start, I have singled out a few projects I think a
     <td><strong>Automated LinkedIn Job Applications</strong> - <em>to be added...</em></td>
     <td><a href="https://github.com/ryanlonergan/100_days_of_projects/tree/main/day_49_automated_job_applications" target="_blank"><img src="/assets/img/github_logo.png" alt="View Project on Github" class="button_round"></a></td>
   </tr>
-  <td>48</td>
-  <td><strong>Game Playing Bot</strong> - automatically plays the Cookie Clicker Idle Game using Selenium to handle web elements, the time module to space out commands and list comprehension for game logic</td>
-  <td><a href="https://github.com/ryanlonergan/100_days_of_projects/tree/main/day_48_game_playing_bot" target="_blank"><img src="/assets/img/github_logo.png" alt="View Project on Github" class="button_round"></a></td>
-</tr>
+  <tr>
+    <td>48</td>
+    <td><strong>Game Playing Bot</strong> - automatically plays the Cookie Clicker Idle Game using Selenium to handle web elements, the time module to space out commands and list comprehension for game logic</td>
+    <td><a href="https://github.com/ryanlonergan/100_days_of_projects/tree/main/day_48_game_playing_bot" target="_blank"><img src="/assets/img/github_logo.png" alt="View Project on Github" class="button_round"></a></td>
+  </tr>
   <tr>
     <td>47</td>
     <td><strong>Amazon Price Tracker</strong> - scrapes an Amazon product page to automatically detect price changes and sends the user an email if a price drops below the threshold they are willing to pay for it</td>
