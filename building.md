@@ -24,7 +24,7 @@ Don't get me wrong, I was able to make a great website that functioned exactly h
 One of the first hurdles I had was to learn how to use Ruby to run Jekyll. I originally thought it was going to be a huge issue, but it was much easier than I thought and actually quite easy. The first step is to install <a href="https://www.ruby-lang.org/en/documentation/installation/" target="_blank">Ruby</a> and once it is installed, everything can be ran from the command line. For Windows, the only commands you need are:
 
 
-    cd folder you store your site
+    cd [folder where you store your site]
 
 Changes current directory
 
