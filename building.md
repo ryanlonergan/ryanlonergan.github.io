@@ -13,6 +13,10 @@ Details of how I created my website and the many problems I encountered. I ran i
 This page is still a work in progress. Check back later!
 {:.note}
 
+### Updating Themes
+
+horrible... To be added - needed anchor for commit message
+
 ### Using Hydejack
 
 <a href="https://www.hydejack.com" target="_blank">Hydejack</a> is "a boutique Jekyll theme for hackers, nerds, and academics" and the skeleton of what my site was built on. It is based off of <a href="https://hyde.getpoole.com/" target="_blank">Hyde</a>, but I was drawn to it over its predecessor due to its utilization of Javascript to make a more dynamic page. However, I ultimately found it to be more trouble than it was worth.
