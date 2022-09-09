@@ -28,7 +28,8 @@ ___
     University of Washington, Michael G. Foster School of Business
     <span style="float: right;">
         GPA 3.81
-    </span>
+    </span><br>
+    <i>Focus: Data Science and Business Analytics</i>
 </p>
 
 <p style="text-align: left;"><b>
@@ -36,8 +37,11 @@ ___
     <span style="float: right;">
         June 2019
     </span></b><br>
-    University of Washington, Michael G. Foster School of Business<br>
-    Majors: Information Systems and Operations & Supply Chain Management   
+    University of Washington, Michael G. Foster School of Business
+    <span style="float: right;">
+        GPA 3.35
+    </span><br>
+    <i>Majors: Information Systems and Operations & Supply Chain Management</i>   
 </p>
 
 <p style="text-align: left;"><b>
@@ -45,8 +49,11 @@ ___
     <span style="float: right;">
         June 2016
     </span></b><br>
-    South Seattle College<br>
-    Focus: Business Administration
+    South Seattle College
+    <span style="float: right;">
+        GPA 3.77
+    </span><br>
+    <i>Focus: Business Administration</i>
 </p>
 
 ### Technical Skills
@@ -55,11 +62,11 @@ ___
 
 <p style="display: inline;">
 <b>
-Intermediate Machine Learning
+Machine Learning
 </b>
 <ul><li style="list-style-type: none;">
-2+ years of experience<br>
-gbm, Keras, knn, NLTK, randomForest, SciKit-Learn
+4+ years of experience<br>
+<i>Anomaly Detection, Classification, Clustering, Exploratory Data Analysis, Feature Engineering, Neural Networks, Natural Language Processing, Prediction, Regression</i>
 </li></ul></p>
 
 <p style="display: inline;">
@@ -67,8 +74,8 @@ gbm, Keras, knn, NLTK, randomForest, SciKit-Learn
 Advanced Python
 </b>
 <ul><li style="list-style-type: none;">
-3+ years of experience<br>
-BeautifulSoup, Matplotlib, NumPy, Pandas, SciPy, Scrapy, Seaborn
+5+ years of experience<br>
+<i>Beautiful Soup, Flask, Keras, Matplotlib, NLTK, NumPy, Pandas, scikit-learn, SciPy, Scrapy, Selenium, TensorFlow</i>
 </li></ul></p>
 
 <p style="display: inline;">
@@ -76,17 +83,8 @@ BeautifulSoup, Matplotlib, NumPy, Pandas, SciPy, Scrapy, Seaborn
 Advanced SQL
 </b>
 <ul><li style="list-style-type: none;">
-3+ years of experience<br>
-pgAdmin, PostgreSQL, MySQL, MySQL Workbench
-</li></ul></p>
-
-<p style="display: inline;">
-<b>
-Intermediate R
-</b>
-<ul><li style="list-style-type: none;">
-4+ years of experience<br>
-caret, dplyr, ggplot2, ggmap, tidyr
+5+ years of experience<br>
+<i>pgAdmin, PostgreSQL, MySQL, MySQL Workbench</i>
 </li></ul></p>
 
 <p style="display: inline;">
@@ -94,17 +92,26 @@ caret, dplyr, ggplot2, ggmap, tidyr
 Advanced Excel
 </b>
 <ul><li style="list-style-type: none;">
-6+ years of experience<br>
-Decisions Models, Forecasting, Linear & Non-Linear Programming, Optimization, Statistics
+7+ years of experience<br>
+<i>Charts, Decisions Models, Forecasting, Functions, Linear & Non-Linear Programming, Optimization, Statistics</i>
 </li></ul></p>
 
 <p style="display: inline;">
 <b>
-Intermediate Tableau
+Advanced Visualizations
 </b>
 <ul><li style="list-style-type: none;">
-2+ years of experience<br>
-Desktop 2020.2.1
+5+ years of experience<br>
+<i>Bokeh, Excel, Plotly, Power BI, Seaborn, Tableau, Visio</i>
+</li></ul></p>
+
+<p style="display: inline;">
+<b>
+R
+</b>
+<ul><li style="list-style-type: none;">
+4+ years of experience<br>
+<i>caret, dplyr, ggplot2, ggmap, tidyr</i>
 </li></ul></p>
 
 ### Work Experience
