@@ -40,7 +40,10 @@ These commands are used to run the site each time you work on or update it. The 
 
 ### GitHub Pages
 
-For hosting, I used <a href="https://pages.github.com/" target="_blank">Github Pages</a>. Overall, it is a great solution and I recommend it wholeheartedly; it's free, easy to access and provides a professional domain name. However, despite these benefits, its interactions with Hydejack caused countless issues and just created another complex layer to troubleshoot.
+For hosting, I used <a href="https://pages.github.com/" target="_blank">Github Pages</a>. Overall, it is a great solution and I recommend it wholeheartedly; it's free, easy to access and provides a professional domain name. However, despite these benefits, how Hydejack interacted with it caused countless issues and just created another complex layer to troubleshoot.
+
+Github Pages has an automated pipeline that builds, deploys and reports the site progress when changes are pushed.
+
 
 <b>work from here</b><br>
 <i>build issues<br>
@@ -60,3 +63,5 @@ masks/layers etc</i>
 horrible... To be added - needed anchor for commit message
 
 ### What I Would Have Done Differently
+
+Looking back at the process, my main takeaway would be not to use Hydejack. I really liked how dynamic and sleek the site looks, but the time I spent troubleshooting could have been better spent elsewhere. I initially used it as I thought it could help me stand out from the crowd with my personal website, but I now wonder if spending more time on projects or improving my skills would have had a larger ROI. While I am not unhappy with the outcome, the effort and frustration Hydejack caused made me wonder if Flask would have been a better framework, the packaged Hyde themes would have been simpler or plain HTML and CSS would have been quicker. Overall, I gained new skills in troubleshooting and like my website, so I am still happy with the outcome.     
