@@ -29,7 +29,7 @@ cover: true
 
 
 <p class="justify">
-  <strong>Hey there</strong>, my name is Ryan Lonergan, and I am an aspiring data scientist. I recently graduated with my Master of Science in Information Systems from the University of Washington and found my passion for the field.
+  <strong>Hey there</strong>, my name is Ryan Lonergan, and I am a data scientist, data analyst and all around data expert. I graduated with my Master of Science in Information Systems from the University of Washington, focusing on data, during the beginning of the pandemic lockdown and have continued to explore the field, improving my skills and experiences as my passion for it continues to grow.
 
   <br><br>
 
@@ -41,7 +41,7 @@ cover: true
 
   <br><br>
 
-  Through my work, I have gained <strong>skills and proficiency</strong> with machine learning and have aptitude with various supervised and unsupervised algorithms. I primarily code in Python, but am also highly familiar with other languages, like SQL or R, and specialized software, like Excel or Tableau. Beyond data science, I also have competency in a multitude of areas including cloud architecture, optimization, project management, statistics, and web development.
+  Through my work, I have gained <strong>skills and proficiency</strong> with machine learning and have aptitude with various supervised and unsupervised algorithms. I primarily code in Python, but am also highly familiar with other languages, like SQL and R, as well as specialized software, like Excel and Tableau. Beyond data science, I also have competency in a multitude of areas including cloud architecture, optimization, project management, statistics, and web development.
 
   <br><br>
 
