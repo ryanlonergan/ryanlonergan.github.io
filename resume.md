@@ -29,7 +29,7 @@ ___
     <span style="float: right;">
         GPA 3.81
     </span><br>
-    <i>Focus: Data Science and Business Analytics</i>
+    Focus: <i>Data Science and Business Analytics</i>
 </p>
 
 <p style="text-align: left;"><b>
@@ -41,7 +41,7 @@ ___
     <span style="float: right;">
         GPA 3.35
     </span><br>
-    <i>Majors: Information Systems and Operations & Supply Chain Management</i>   
+    Majors: <i>Information Systems and Operations & Supply Chain Management</i>   
 </p>
 
 <p style="text-align: left;"><b>
@@ -53,7 +53,7 @@ ___
     <span style="float: right;">
         GPA 3.77
     </span><br>
-    <i>Focus: Business Administration</i>
+    Focus: <i>Business Administration</i>
 </p>
 
 ### Technical Skills
@@ -118,11 +118,64 @@ R
 ___
 
 <p style="text-align: left;"><b>
+    Data Science Research Associate
+    <span style="float: right;">
+        Oct 2021 - Aug 2022
+    </span></b><br>
+School of Business, University of Washington
+<span style="float: right;">
+    Bothell, WA
+</span>
+</p>
+- Conducted natural language processing for sentiment analysis and topic modeling using transfer
+and machine learning on over 1.2 million unlabeled text entries to support post-doctoral research.
+- Engineered pipeline to perform feature engineering and automate aggregation across 4.4 million
+data points to summarize and condense output for research analysis.
+
+<p style="text-align: left;"><b>
+    Freelance Data Expert <i>(Data Analyst/ Data Scientist/ Python Developer)</i>
+    <span style="float: right;">
+        Sep 2020 - Current
+    </span></b><br>
+Self-employed
+<span style="float: right;">
+    Seattle, WA
+</span>
+</p>
+- Worked with a variety of clients to leverage their data across business sectors through
+comprehensive analysis and developing unique business solutions to fit their needs.
+- Created automated billing system that processed data from SQL queries to generate PDFs and
+Excel reports, reducing employee workload from 40 hours per month to 1 hour of validation.
+- Designed and implemented automated dashboard backbone for Google Sheets that pulled data
+from AWS PostgreSQL instances for processing and pushed updated reports while allowing for
+immediate expansion and scalability.
+
+<p style="text-align: left;"><b>
+    Business Consultant
+    <span style="float: right;">
+        Mar 2017 - Apr 2020
+    </span></b><br>
+Foster School of Business, University of Washington
+<span style="float: right;">
+    Seattle, WA
+</span>
+</p>
+- Advised an assortment of clients to improve their business operations through focusing on data
+analysis and implementing new technology while under the direction of the Foster School of
+Business and associated mentors.
+- Designed AWS cloud infrastructure and project plan for educational non-profit, utilizing cloud
+scaling and serverless components for their platform to expand economically and seamlessly as
+user needs increased.
+
+<p style="text-align: left;"><b>
     Human Resources Student Assistant
     <span style="float: right;">
         Sep 2017 - June 2018
     </span></b><br>
 School of Nursing, University of Washington
+<span style="float: right;">
+    Seattle, WA
+</span>
 </p>
 - Designed streamlined procedure to automate and process 20+ clinical passports per quarter to prove employee certification and immunization compliance using Python to parse and populate text documents resulting in a decreased turnaround from 2+ hours to 10-15 minutes per passport.
 - Worked independently to answer employee submitted tickets and process various documents, including TA/RA appointments, staff reappointments, and job listings, averaging 15 tickets and 5 records per day.
@@ -133,6 +186,9 @@ School of Nursing, University of Washington
         May 2015 - Aug 2016
     </span></b><br>
 South Seattle College
+<span style="float: right;">
+    Seattle, WA
+</span>
 </p>
 - Represented over 8,000 student constituents to address their needs and concerns presiding over 30 officer meetings and delivering reports at 9 district wide board of trustee’s meetings for all Seattle Colleges.
 - Oversaw change of leadership for officer team, including retraining and redistribution of responsibilities, and led hiring process for filling vacant positions with 40+ candidate applicants.
@@ -144,6 +200,9 @@ South Seattle College
         Sep 2015 - June 2016
     </span></b><br>
 TRIO Student Success Services, South Seattle College
+<span style="float: right;">
+    Seattle, WA
+</span>
 </p>
 - Individually tutored college students from disadvantaged backgrounds to aid their comprehension and fill knowledge gaps in college level Business, English, and Statistics, averaging 4 students per session and 3 sessions per week.
 
@@ -153,6 +212,9 @@ TRIO Student Success Services, South Seattle College
         June 2015 - Jan 2017
     </span></b><br>
 Graebel Van Lines & Suddath Relocation Services
+<span style="float: right;">
+    Greater Seattle Area, WA
+</span>
 </p>
 - Worked 6 days a week with 10 to 14-hour days that began at 6 am during holidays and breaks to fund my education.
 - Moved upwards of 90 clients per summer organizing hundreds of items per engagement with 99% accuracy and no customer complaints.
@@ -163,6 +225,9 @@ Graebel Van Lines & Suddath Relocation Services
         Oct 2014 - June 2015
     </span></b><br>
 Phi Theta Kappa Honor Society, South Seattle College
+<span style="float: right;">
+    Seattle, WA
+</span>
 </p>
 - Designed and managed volunteer program to provide personal tutoring for K-8 children from low income families in partnership with Neighborhood House over 20 weeks averaging 7 college volunteers participating per engagement.
 - Managed expenditures for honor society chapter including performing cost analysis, viability, and budgets for 8 meetings and volunteer events per quarter affecting 90+ members.
