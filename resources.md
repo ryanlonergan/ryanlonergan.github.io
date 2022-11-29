@@ -238,6 +238,15 @@ ___
   </a>
   <ul><li style="list-style-type: none;">
     <i>Description to be added</i>
+  </li></ul>
+  <br>
+  <a href="
+    https://www.scaler.com/topics/python/
+  " target="_blank">
+    Complete Python Programmer Course
+  </a>
+  <ul><li style="list-style-type: none;">
+    <i>This Python Tutorial will guide you to learn Python easily from beginner to advanced level.You can also claim your course certificate upon course completion. You would be able to use this certificate on your resume, Linkedin profile or your website.</i>
   </li></ul></p>
 
 
