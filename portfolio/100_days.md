@@ -166,7 +166,7 @@ If you are unsure of where to start, I have singled out a few projects I think a
 <ul class='ul_columns'>
   <li><a href="https://github.com/ryanlonergan/100_days_of_projects/tree/main/day_46_spotify_playlist_time_machine" target="_blank">Spotify Playlist Time Machine</a></li>
   <li><a href="https://github.com/ryanlonergan/100_days_of_projects/tree/main/day_39_flight_deal_tracker" target="_blank">Flight Deal Tracker</a></li>    <li><a href="https://github.com/ryanlonergan/100_days_of_projects/tree/main/day_33_iss_tracker" target="_blank">ISS Tracker</a></li>
-  <li><a href="https://github.com/ryanlonergan/100_days_of_projects/tree/main/day_33_kanye_quotes" target="_blank">Kanye Quote Generator</a></li>
+  <li><a href="https://github.com/ryanlonergan/100_days_of_projects/tree/main/day_33_stoicism_quotes" target="_blank">Stoic Quote Generator</a></li>
   <li><a href="https://github.com/ryanlonergan/100_days_of_projects/tree/main/day_11_blackjack" target="_blank">Blackjack</a></li>
 </ul>
 
@@ -258,14 +258,14 @@ If you are unsure of where to start, I have singled out a few projects I think a
     <td><a href="https://github.com/ryanlonergan/100_days_of_projects/tree/main/day_34_gui_trivia_game" target="_blank"><img src="/assets/img/github_logo.png" alt="View Project on Github" class="button_round"></a></td>
   </tr>
   <tr>
-    <td>33</td>
+    <td>33A</td>
     <td><strong>ISS Tracker</strong> - detects if the International Space Station (ISS) is overhead and will email the user if they should be able to see it in the night sky</td>
     <td><a href="https://github.com/ryanlonergan/100_days_of_projects/tree/main/day_33_iss_tracker" target="_blank"><img src="/assets/img/github_logo.png" alt="View Project on Github" class="button_round"></a></td>
   </tr>
   <tr>
-    <td>33</td>
-    <td><strong>Kanye Quote Generator</strong> - a GUI that uses the <a href='https://kanye.rest' target="_blank">kanye.rest API</a> to retrieve and display quotes that he has said</td>
-    <td><a href="https://github.com/ryanlonergan/100_days_of_projects/tree/main/day_33_kanye_quotes" target="_blank"><img src="/assets/img/github_logo.png" alt="View Project on Github" class="button_round"></a></td>
+    <td>33B</td>
+    <td><strong>Stoic Quote Generator</strong> - a GUI that uses the <a href='https://github.com/tlcheah2/stoic-quote-lambda-public-api' target="_blank">Stoicism Quotes Public API</a> to retrieve and display stoic quotes by different historical figures</td>
+    <td><a href="https://github.com/ryanlonergan/100_days_of_projects/tree/main/day_33_stoicism_quotes" target="_blank"><img src="/assets/img/github_logo.png" alt="View Project on Github" class="button_round"></a></td>
   </tr>
   <tr>
     <td>32</td>
