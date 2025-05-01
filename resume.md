@@ -10,7 +10,7 @@ hide_description: true
 * This unordered list will be replaced by the table of contents
 {:toc}
 
-Below is a summary of my experiences and accomplishments, including my education, skills, work experiences, certificates and some highlighted courses I have taken at the University of Washington. If you are looking for a more concise data science resume, a one-pager can be found here:
+Below is a summary of my experiences and accomplishments, including my education, skills, work experiences, certificates and some highlighted courses I have taken at the University of Washington. If you are looking for a more concise data science resume, my current one can be found here:
 <p style="text-align: center;">
 <a href="/assets/resume/RyanLonerganResumeDS.pdf" target="_blank">
 View in browser
@@ -33,13 +33,13 @@ ___
 </p>
 
 <p style="text-align: left;"><b>
-    Bachelor of Art in Business Administration
+    Bachelor of Arts in Business Administration
     <span style="float: right;">
         June 2019
     </span></b><br>
     University of Washington, Michael G. Foster School of Business
     <span style="float: right;">
-        GPA 3.35
+        GPA 3.53
     </span><br>
     Majors: <i>Information Systems and Operations & Supply Chain Management</i>   
 </p>
@@ -65,8 +65,8 @@ ___
 Machine Learning
 </b>
 <ul><li style="list-style-type: none;">
-4+ years of experience<br>
-<i>Anomaly Detection, Classification, Clustering, Exploratory Data Analysis, Feature Engineering, Neural Networks, Natural Language Processing, Prediction, Regression</i>
+6+ years of experience<br>
+<i>Anomaly Detection, Classification, Clustering, Deep Learning, Exploratory Data Analysis, Feature Engineering, Natural Language Processing, Neural Networks, Prediction, Regression</i>
 </li></ul></p>
 
 <p style="display: inline;">
@@ -74,8 +74,8 @@ Machine Learning
 Advanced Python
 </b>
 <ul><li style="list-style-type: none;">
-5+ years of experience<br>
-<i>Beautiful Soup, Flask, Keras, Matplotlib, NLTK, NumPy, Pandas, scikit-learn, SciPy, Scrapy, Selenium, TensorFlow</i>
+7+ years of experience<br>
+<i>Beautiful Soup, Django, Flask, GenSim, Keras, NLTK, NumPy, Pandas, scikit-learn, SciPy, Scrapy, Selenium, TensorFlow</i>
 </li></ul></p>
 
 <p style="display: inline;">
@@ -83,8 +83,8 @@ Advanced Python
 Advanced SQL
 </b>
 <ul><li style="list-style-type: none;">
-5+ years of experience<br>
-<i>pgAdmin, PostgreSQL, MySQL, MySQL Workbench</i>
+7+ years of experience<br>
+<i>pgAdmin, PostGIS, PostgreSQL, MySQL, MySQL Workbench, SQLAlchemy, SQLite</i>
 </li></ul></p>
 
 <p style="display: inline;">
@@ -92,8 +92,8 @@ Advanced SQL
 Advanced Excel
 </b>
 <ul><li style="list-style-type: none;">
-7+ years of experience<br>
-<i>Charts, Decisions Models, Forecasting, Functions, Linear & Non-Linear Programming, Optimization, Statistics</i>
+9+ years of experience<br>
+<i>Automation, Decision Models, Forecasting, Linear & Non-linear Programing, Solver, Statistics</i>
 </li></ul></p>
 
 <p style="display: inline;">
@@ -101,8 +101,8 @@ Advanced Excel
 Advanced Visualizations
 </b>
 <ul><li style="list-style-type: none;">
-5+ years of experience<br>
-<i>Bokeh, Excel, Plotly, Power BI, Seaborn, Tableau, Visio</i>
+7+ years of experience<br>
+<i>Bokeh, Matplotlib, Plotly, Power BI, Seaborn, Tableau, Visio</i>
 </li></ul></p>
 
 <p style="display: inline;">
@@ -110,8 +110,8 @@ Advanced Visualizations
 R
 </b>
 <ul><li style="list-style-type: none;">
-4+ years of experience<br>
-<i>caret, dplyr, ggplot2, ggmap, tidyr</i>
+6+ years of experience<br>
+<i>Caret, dplyr, ggplot2, ggmap, tidyr</i>
 </li></ul></p>
 
 ### Work Experience
