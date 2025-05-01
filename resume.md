@@ -118,6 +118,23 @@ R
 ___
 
 <p style="text-align: left;"><b>
+    Data Science Consultant
+    <span style="float: right;">
+        Sep 2020 - Current
+    </span></b><br>
+Freelance
+<span style="float: right;">
+    Seattle, WA
+</span>
+</p>
+- Conducted in-depth data analysis and delivered customized business solutions for clients across various sectors, ensuring recommendations aligned with their specific needs and stakeholder goals.
+- Developed data-driven strategic solutions to address cross-departmental challenges, focusing on both immediate needs and long-term organizational objectives.
+- Engineered an automated Python-based billing system, generating comprehensive reports from SQL databases, reducing monthly manual processing from 40 hours to 1 hour of validation.
+- Designed and implemented an automated dashboard framework in Google Sheets that extracted data from AWS PostgreSQL, allowing for real-time data processing and scalable automated report generation.
+- Engineered and deployed a robust weekly automated pipeline, constructing a Slowly Changing Dimension (SCD) table from initial concept to production, processing and organizing over three years of previously unstructured data, enabling efficient data access for ad hoc inquiries, cohort analyses and critical business dashboards while reducing production costs by eliminating
+redundant data snapshots.
+
+<p style="text-align: left;"><b>
     Data Science Research Associate
     <span style="float: right;">
         Oct 2021 - Aug 2022
@@ -127,31 +144,12 @@ School of Business, University of Washington
     Bothell, WA
 </span>
 </p>
-- Conducted natural language processing for sentiment analysis and topic modeling using transfer
-and machine learning on over 1.2 million unlabeled text entries to support post-doctoral research.
-- Engineered pipeline to perform feature engineering and automate aggregation across 4.4 million
-data points to summarize and condense output for research analysis.
+- Developed, engineered and presented in-depth solutions for post-doctoral research through analyzing a large dataset comprising 4.4 million raw data points, while effectively communicating findings to stakeholders through presentations that catered to both technical and non-technical audiences.
+- Conducted natural language processing (NLP) tasks, including sentiment analysis and topic modeling, using transfer and machine learning algorithms on more than 1.2 million unlabeled text entries.
+- Constructed and implemented a scalable pipeline for feature engineering and automatic aggregation across all data points, resulting in the efficient summarization and refinement of research output for analysis.
 
 <p style="text-align: left;"><b>
-    Freelance Data Expert <i>(Data Analyst/ Data Scientist/ Python Developer)</i>
-    <span style="float: right;">
-        Sep 2020 - Current
-    </span></b><br>
-Self-employed
-<span style="float: right;">
-    Seattle, WA
-</span>
-</p>
-- Worked with a variety of clients to leverage their data across business sectors through
-comprehensive analysis and developing unique business solutions to fit their needs.
-- Created automated billing system that processed data from SQL queries to generate PDFs and
-Excel reports, reducing employee workload from 40 hours per month to 1 hour of validation.
-- Designed and implemented automated dashboard backbone for Google Sheets that pulled data
-from AWS PostgreSQL instances for processing and pushed updated reports while allowing for
-immediate expansion and scalability.
-
-<p style="text-align: left;"><b>
-    Business Consultant
+    Business Analyst Consultant
     <span style="float: right;">
         Mar 2017 - Apr 2020
     </span></b><br>
@@ -160,78 +158,9 @@ Foster School of Business, University of Washington
     Seattle, WA
 </span>
 </p>
-- Advised an assortment of clients to improve their business operations through focusing on data
-analysis and implementing new technology while under the direction of the Foster School of
-Business and associated mentors.
-- Designed AWS cloud infrastructure and project plan for educational non-profit, utilizing cloud
-scaling and serverless components for their platform to expand economically and seamlessly as
-user needs increased.
-
-<p style="text-align: left;"><b>
-    Human Resources Student Assistant
-    <span style="float: right;">
-        Sep 2017 - June 2018
-    </span></b><br>
-School of Nursing, University of Washington
-<span style="float: right;">
-    Seattle, WA
-</span>
-</p>
-- Designed streamlined procedure to automate and process 20+ clinical passports per quarter to prove employee certification and immunization compliance using Python to parse and populate text documents resulting in a decreased turnaround from 2+ hours to 10-15 minutes per passport.
-- Worked independently to answer employee submitted tickets and process various documents, including TA/RA appointments, staff reappointments, and job listings, averaging 15 tickets and 5 records per day.
-
-<p style="text-align: left;"><b>
-    Student Body President
-    <span style="float: right;">
-        May 2015 - Aug 2016
-    </span></b><br>
-South Seattle College
-<span style="float: right;">
-    Seattle, WA
-</span>
-</p>
-- Represented over 8,000 student constituents to address their needs and concerns presiding over 30 officer meetings and delivering reports at 9 district wide board of trustee’s meetings for all Seattle Colleges.
-- Oversaw change of leadership for officer team, including retraining and redistribution of responsibilities, and led hiring process for filling vacant positions with 40+ candidate applicants.
-- Managed a team of 7 officers and 50+ volunteers to design and implement over 15 events primarily focusing on advocacy, education, recreation, and volunteering.
-
-<p style="text-align: left;"><b>
-    Business, English and Statistics Tutor
-    <span style="float: right;">
-        Sep 2015 - June 2016
-    </span></b><br>
-TRIO Student Success Services, South Seattle College
-<span style="float: right;">
-    Seattle, WA
-</span>
-</p>
-- Individually tutored college students from disadvantaged backgrounds to aid their comprehension and fill knowledge gaps in college level Business, English, and Statistics, averaging 4 students per session and 3 sessions per week.
-
-<p style="text-align: left;"><b>
-    Commercial and Residential Mover
-    <span style="float: right;">
-        June 2015 - Jan 2017
-    </span></b><br>
-Graebel Van Lines & Suddath Relocation Services
-<span style="float: right;">
-    Greater Seattle Area, WA
-</span>
-</p>
-- Worked 6 days a week with 10 to 14-hour days that began at 6 am during holidays and breaks to fund my education.
-- Moved upwards of 90 clients per summer organizing hundreds of items per engagement with 99% accuracy and no customer complaints.
-
-<p style="text-align: left;"><b>
-    Treasurer
-    <span style="float: right;">
-        Oct 2014 - June 2015
-    </span></b><br>
-Phi Theta Kappa Honor Society, South Seattle College
-<span style="float: right;">
-    Seattle, WA
-</span>
-</p>
-- Designed and managed volunteer program to provide personal tutoring for K-8 children from low income families in partnership with Neighborhood House over 20 weeks averaging 7 college volunteers participating per engagement.
-- Managed expenditures for honor society chapter including performing cost analysis, viability, and budgets for 8 meetings and volunteer events per quarter affecting 90+ members.
-
+- Provided advisory services to a diverse range of clients to enhance their business operations through data analysis and implementation of new technology while providing strategies for future development and growth.
+- Delivered strategic business and technology implementation advisory to diverse clients, driving operational enhancements through data analysis while providing strategies for future growth initiatives.
+- Designed and engineered an AWS cloud infrastructure and project plan for an educational non-profit, using cloud scaling and serverless technologies to enable seamless expansion to meet increasing user needs while minimizing costs.
 
 ### Certifications
 ___
