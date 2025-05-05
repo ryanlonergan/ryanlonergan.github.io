@@ -107,7 +107,7 @@ sitemap: false
 * This unordered list will be replaced by the table of contents
 {:toc}
 
-<img src="/assets/img/spotify/spotify_cover.jpg"  alt="Spotify Project" class="banner">
+<img src="/assets/guitar/asat_rewire/asat_rewire_card.jpg"  alt="ASAT Classic Rewire" class="banner">
 
 
 
@@ -126,16 +126,19 @@ sitemap: false
 </p>
 
 
-### Section 1
+### Diagram
+
+<img src="/assets/guitar/asat_rewire/asat_class_trib_diagram.jpg"  alt="Wiring Diagram" class="banner">
 
 
+### Before
 
-### Section 2
+<img src="/assets/guitar/asat_rewire/asat_class_trib_before.jpg"  alt="Before work began" class="banner">
 
 
+### After
 
-### Section 3
-
+<img src="/assets/guitar/asat_rewire/asat_class_trib_after.jpg"  alt="After the rewire was complete" class="banner">
 
 
 <br><br>
