@@ -126,10 +126,30 @@ This page is still a work in progress and the links are just placeholders right 
 <br>
 <div class="row">
   <div class="column50">
-    <a href="/portfolio/100_days/"><img src="/assets/img/100_days/100_days_card.jpg"  alt="100 Days of Projects" class="box"></a>
+    <a href="/guitar/asat_rewire/"><img src="/assets/guitar/asat_rewire/asat_rewire_card.jpg"  alt="ASAT Classic Rewire" class="box"></a>
   </div>
 
   <div class="column50">
-    <a href="/portfolio/spotify/"><img src="/assets/img/spotify/spotify_card.jpg"  alt="Spotify Project" class="box"></a>
+    <a href="/guitar/byoc_fuzz/"><img src="/assets/guitar/byoc_fuzz/byoc_fuzz_card.jpg"  alt="BYOC Fuzz Pedal" class="box"></a>
+  </div>
+</div>
+
+<div class="row">
+  <div class="column50">
+    <a href="/guitar/caus4/"><img src="/assets/guitar/caus4/caus4_card.jpg"  alt="Causality 4 Pedal" class="box"></a>
+  </div>
+
+  <div class="column50">
+    <a href="/guitar/eq700/"><img src="/assets/guitar/eq700/eq700_card.jpg"  alt="Behringer EQ700 Mods" class="box"></a>
+  </div>
+</div>
+
+<div class="row">
+  <div class="column50">
+    <a href="/guitar/footswitch/"><img src="/assets/guitar/footswitch/footswitch_card.jpg"  alt="Looper Footswitch" class="box"></a>
+  </div>
+
+  <div class="column50">
+    <a href="/guitar/mbf/"><img src="/assets/guitar/mbf/mbf_card.jpg"  alt="Modified Bazz Fuss Pedal" class="box"></a>
   </div>
 </div>
