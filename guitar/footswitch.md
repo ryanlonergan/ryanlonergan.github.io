@@ -2,7 +2,7 @@
 layout: page
 title: Looper Pedal Footswitch
 description: >
-  Creating a footswitch pedal with a small footprint for a looper pedal
+  Building a footswitch pedal with a very small footprint to pair with a looper
 hide_description: true
 sitemap: false
 ---
