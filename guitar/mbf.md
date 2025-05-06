@@ -107,11 +107,13 @@ sitemap: false
 * This unordered list will be replaced by the table of contents
 {:toc}
 
-<img src="/assets/img/spotify/spotify_cover.jpg"  alt="Spotify Project" class="banner">
+<img src="/assets/guitar/mbf/mbf_front_side.jpg"  alt="Modified Bazz Fuss" class="banner">
 
 
 
 ### Overview
+
+(mention Big Muff Pi (BMP) somewhere)
 
 <p class="justify">
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. In nulla posuere sollicitudin aliquam ultrices sagittis orci. Cursus sit amet dictum sit. Lacus luctus accumsan tortor posuere ac ut consequat semper viverra. Non blandit massa enim nec dui nunc. Pellentesque adipiscing commodo elit at imperdiet dui accumsan. Integer vitae justo eget magna fermentum. Aliquam nulla facilisi cras fermentum odio. Sodales neque sodales ut etiam sit amet. Viverra mauris in aliquam sem fringilla ut. Vel risus commodo viverra maecenas accumsan lacus vel facilisis. Etiam tempor orci eu lobortis elementum. Tristique risus nec feugiat in fermentum posuere urna nec.
@@ -126,20 +128,45 @@ sitemap: false
 </p>
 
 
-### Section 1
+### Etching
+
+first time
+
+designed and etched the board
+
+etched the artwork
 
 
 
-### Section 2
+
+### Next Iteration
+
+As this project was the first non-kit build I ever made, I learnt so much during the process. While I already made some changes and am happy with them, there are many more areas to further improve it.
+
+<ul>
+<b>Different Tone Control</b> - While the BMP has a great tone control, it does has some drawbacks. First, it is entirely passive which results in a volume loss. In this pedal, the tone control comes after the gain stage, so it is not a huge issue, but should still be noted. Secondly and more importantly, the BMP is known for scooped mids which may or may not work well for the desired sound. Some people love it and others hate it, so it just comes down to the player and the type of music they play. Some ideas include using a tone stack from a different pedal (like the ProCo Rat), switching the values for a mid-hump instead (possibly on a switch) or bypassing the tone stack entirely (definetly on a switch).
+</ul>
 
 
+<ul>
+<b>Second Gain Stage</b> - 
+</ul>
 
-### Section 3
+
+<ul>
+<b>Different Transistors</b> - The simplest, but most effective change is changing the transistor to a different type. In this pedal, I used a 2n5088, but there are many different options to explore. Some great candidates are the 2n3904 and the mpsa13, but many other options are viable, so socketing the transistor is a great idea. Just be careful of the individual pinouts.  
+</ul>
 
 
+### External Resources
 
 <br><br>
 
 ____
 
 ### Supporting Figures
+
+<figure>
+  <img src="/assets/guitar/mbf/mbf_guts.JPG"  alt="MBF Guts">
+  <figcaption>Internal PCB of pedal</figcaption>
+</figure>
