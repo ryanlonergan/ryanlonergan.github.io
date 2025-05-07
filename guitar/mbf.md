@@ -146,12 +146,12 @@ etched the artwork
 As this project was the first non-kit build I ever made, I learnt so much during the process. While I already made some changes and am happy with them, there are many more areas to further improve it.
 
 <ul>
-<b>Different Tone Control</b> - While the BMP has a great tone control, it does has some drawbacks. First, it is entirely passive which results in a volume loss. In this pedal, the tone control comes after the gain stage, so it is not a huge issue, but should still be noted. Secondly and more importantly, the BMP is known for scooped mids which may or may not work well for the desired sound. Some people love it and others hate it, so it just comes down to the player and the type of music they play. Some ideas include using a tone stack from a different pedal (like the ProCo Rat), switching the values for a mid-hump instead (possibly on a switch) or bypassing the tone stack entirely (definetly on a switch).
+<b>Different Tone Control</b> - While the BMP has a great tone control, it does has some drawbacks. First, it is entirely passive which results in a volume loss. As this pedal can be quite loud, it is not a huge issue, but should still be noted. Secondly and more importantly, the BMP is known for scooped mids which may or may not work well for the desired sound. Some people love it and others hate it, so it just comes down to the player and the type of music they play. Some ideas include using a tone stack from a different pedal (like the ProCo Rat), switching the values for a mid-hump instead (possibly on a toggle switch) or bypassing the tone stack entirely (definitely on a toggle switch).
 </ul>
 
 
 <ul>
-<b>Second Gain Stage</b> - 
+<b>Second Gain Stage</b> - As noted in the tone control section above, there is some volume loss from including it. In the BMP circuit that it comes from, there is a final gain section after it to make up for the loss, which can be replicated here. This idea can either be implemented as an "always on" solution or can be switched on or off with a footswitch. It does not even have to be the same circuit too as a boost could be a great addition. While the pedal is definitely not lacking in volume, playing around with other pedals before and after this one to experiment with different options would provide a good idea of what would sound best.
 </ul>
 
 
