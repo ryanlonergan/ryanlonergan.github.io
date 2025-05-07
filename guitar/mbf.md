@@ -107,7 +107,9 @@ sitemap: false
 * This unordered list will be replaced by the table of contents
 {:toc}
 
-<img src="/assets/guitar/mbf/mbf_front_side.jpg"  alt="Modified Bazz Fuss" class="banner">
+<div style="text-align: center;">
+  <img src="/assets/guitar/mbf/mbf_front_side.jpg"  alt="Modified Bazz Fuss" class="banner">
+</div>
 
 
 
@@ -160,7 +162,7 @@ As this project was the first non-kit build I ever made, I learnt so much during
 
 ### External Resources
 
-Here are some articles I found useful in during this project:
+Here are some resources I found useful during this project:
 
 <ul>
 <a href="https://home-wrecker.com/bazz.html" target="_blank">Home-Wrecker's, aka runoffgroove, article on the Bazz Fuss</a>
