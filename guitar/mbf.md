@@ -178,6 +178,11 @@ Here are some articles I found useful in during this project:
 <a href="https://www.youtube.com/watch?v=HZAuhjt75X4" target="_blank">Brian Wampler's video on tone controls</a>
 </ul>
 
+<ul>
+<a href="https://diy-guitar-effects.tumblr.com/etching
+" target="_blank">DIY Guitar Effects' article on acid etching enclosures</a>
+</ul>
+
 
 ____
 
