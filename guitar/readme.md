@@ -118,10 +118,7 @@ sitemap: false
 
 </style>
 
-This page contains some of my guitar projects I have done, some being physical and others being code based. Since I have played guitar, I have always been interested in the electronics part of it and got into building and designing guitar effect pedals. Below are some examples of my work.
-
-This page is still a work in progress and the links are just placeholders right now. Check back later!
-{:.note}
+This page contains some of my guitar projects I have done, some being physical and others being code based. Since I have played guitar, I have always been interested in the electronics part of it and got into building and designing guitar effect pedals. Below are some examples of my work:
 
 <br>
 <div class="row">
