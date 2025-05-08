@@ -163,13 +163,21 @@ Here are some resources I found useful during this project:
 
 <ul>
     <a href="https://home-wrecker.com/bazz.html" target="_blank">Home-Wrecker's, aka runoffgroove, article on the Bazz Fuss</a>
-    
-    <a href="https://beavisaudio.com/techpages/bigmufftonecontrol/" target="_blank">Beavis Audio's article on the Big Muff Pi tone control</a>
-    
-    <a href="https://www.electrosmash.com/big-muff-pi-analysis#link4" target="_blank">Electrosmash's tone control section of their article about the Big Muff Pi</a>
+</ul>
 
+<ul>
+    <a href="https://beavisaudio.com/techpages/bigmufftonecontrol/" target="_blank">Beavis Audio's article on the Big Muff Pi tone control</a>
+</ul>
+
+<ul>
+    <a href="https://www.electrosmash.com/big-muff-pi-analysis#link4" target="_blank">Electrosmash's tone control section of their article about the Big Muff Pi</a>
+</ul>
+
+<ul>
     <a href="https://www.youtube.com/watch?v=HZAuhjt75X4" target="_blank">Brian Wampler's video on tone controls</a>
-    
+</ul>
+
+<ul>
     <a href="https://diy-guitar-effects.tumblr.com/etching" target="_blank">DIY Guitar Effects' article on acid etching enclosures</a>
 </ul>
 
