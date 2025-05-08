@@ -121,6 +121,9 @@ sitemap: false
 
 Here is a collection of different projects I have done, ranging from course work to personal endeavors. Take a look and feel free to reach out if you have any questions, ideas or suggestions.
 
+After not updating my site for a long time and returning to it, I came to realize that a lot of my projects are simply too old and do not reflect my skills entirely anymore. However, I am in a sort of limbo where I can't share too much of my recent work due to NDA's and ownership. Currently, I am exploring ways to highlight recent projects and my skill set openly, but it may take some time. Please feel free to ask for more info directly or check this page later if you are interested in my work. 
+{:.note}
+
 <br>
 <div class="row">
   <div class="column50">
