@@ -161,7 +161,12 @@ As this project was the first non-kit build I ever made, I learnt so much during
 Here are some resources I found useful during this project:
 
 <ul>
-<a href="https://home-wrecker.com/bazz.html" target="_blank">Home-Wrecker's, aka runoffgroove, article on the Bazz Fuss</a>
+  <li>
+    <a href="https://home-wrecker.com/bazz.html" target="_blank">Home-Wrecker's, aka runoffgroove, article on the Bazz Fuss</a>
+  </li>
+  <li>
+    <a href="https://home-wrecker.com/bazz.html" target="_blank">Home-Wrecker's, aka runoffgroove, article on the Bazz Fuss</a>
+  </li>
 </ul>
 
 <ul>
