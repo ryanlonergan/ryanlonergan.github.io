@@ -107,6 +107,10 @@ sitemap: false
 * This unordered list will be replaced by the table of contents
 {:toc}
 
+This page is still a work in progress and sections are missing. Check back later for more details!
+{:.note}
+
+
 <img src="/assets/img/spotify/spotify_cover.jpg"  alt="Spotify Project" class="banner">
 
 
