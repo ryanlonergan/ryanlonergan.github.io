@@ -107,8 +107,9 @@ sitemap: false
 * This unordered list will be replaced by the table of contents
 {:toc}
 
-This page is still a work in progress and still is missing sections. Check back later for more details!
+This page is still a work in progress and sections are missing. Check back later for more details!
 {:.note}
+
 
 <div style="text-align: center;">
   <img src="/assets/guitar/mbf/mbf_front_side.jpg"  alt="Modified Bazz Fuss" class="banner">
