@@ -3,7 +3,7 @@
 # Change `author1` to your shortname.
 Ryan:
   name:              Ryan Lonergan
-  email:             ryanjl@uw.edu
+  email:             rjl910@gmail.com
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
@@ -28,7 +28,7 @@ Ryan:
   social:
     # twitter:         <username>
     linkedin:        ryan-lonergan
-    email:           ryanjl@uw.edu
+    email:           rjl910@gmail.com
     github:          ryanlonergan
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
