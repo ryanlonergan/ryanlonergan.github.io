@@ -123,14 +123,14 @@ This page is still a work in progress and sections are missing. Check back later
 (mention Big Muff Pi (BMP) somewhere)
 
 <p class="justify">
-  This pedal was a lot of firsts for me. It was my first pedalmy first design that I modified
+  This pedal was a lot of firsts for me. It was the first time building not from a kit, first time I modified a circuit to make it more of my own, and the first time etching a pcb and enclosure.
 
 
 
 
 </p>
 
-Besides standard changes, like power filtering and reverse polarity protection, I made two main changes to the circuit. The first was adding a tone stack from a Electro Harmonix Big Muff Pi (BMP) after the gain stage. This mod does decrease the volume somewhat, but adds the ability to alter the EQ of the pedal for more versatility. The second change was removing the original diode for clipping from the design and adding a switch to go between two different choices, altering how the gain sounds. One side of the switch is a mosfet clipping design with bs170 transistors that I liked and lifted from a Tubescreamer clone while the other side is an asymmetrical silicon design with 1n4148 diodes. Both sides sound great, but I do wish I used an on-off-on switch instead so the middle could act as a dirty boost instead of a fuzz.
+Besides standard changes, like power filtering and reverse polarity protection, I made two main changes to the circuit. The first was adding a tone stack from a Electro Harmonix Big Muff Pi (BMP) after the gain stage. This mod does decrease the volume somewhat, but adds the ability to alter the EQ of the pedal for more versatility. The second change was removing the original diode for clipping from the design and adding a switch to go between two different choices, altering how the gain sounds. One side of the switch is a mosfet clipping design with bs170 transistors that I liked and lifted from a Tubescreamer clone while the other side is an asymmetrical silicon design with 1n4148 diodes. Both sides sound great, but I do wish I used an on-off-on switch instead so the middle could act as a dirty boost instead of a fuzz with the diodes removed from the circuits.
 
 
 ### Etching
